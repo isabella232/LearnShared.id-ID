@@ -1,0 +1,54 @@
+{
+	"build": {
+		"content": [
+			{
+				"files": [
+					"**/*.md",
+					"**/*.yml",
+					"**/*.svg"
+				],
+				"exclude": [
+					"**/obj/**",
+					"**/includes/**",
+					"_themes/**",
+					"_themes.pdf/**",
+					"README.md",
+					"LICENSE",
+					"LICENSE-CODE",
+					"ThirdPartyNotices"
+				]
+			}
+		],
+		"resource": [
+			{
+				"files": [
+					"**/*.png",
+					"**/*.jpg",
+					"**/*.svg"
+				],
+				"exclude": [
+					"**/obj/**",
+					"**/includes/**",
+					"_themes/**",
+					"_themes.pdf/**"
+				]
+			}
+		],
+		"overwrite": [],
+		"externalReference": [],
+		"globalMetadata": {
+			"breadcrumb_path": "/learn/breadcrumb/toc.json",
+			"feedback_system": "None",
+			"clicktale": true,
+			"uhfHeaderId": "MSDocsHeader-Learn"
+		},
+		"fileMetadata": {
+			"brand": {
+				"learn/azure/**/*.yml": "azure"
+			}
+		},
+		"template": [],
+		"dest": "LearnShared",
+		"markdownEngineName": "markdig"
+	}
+}
