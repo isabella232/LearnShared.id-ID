@@ -1,0 +1,9 @@
+{
+    "redirections": [
+        {
+            "source_path": "LearnShared/support/educator-resources.md",
+            "redirect_url": "https://docs.microsoft.com/learn/roles/educator/",
+            "redirect_document_id": true
+             },
+        ]
+ }
