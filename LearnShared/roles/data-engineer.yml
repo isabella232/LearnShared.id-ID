@@ -1,0 +1,48 @@
+### YamlMime:TopicLanding
+title: Insinyur Data di Microsoft Learn
+summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Insinyur Data.
+hero:
+  title: Microsoft Learn Untuk Insinyur Data
+  subTitle: Jadikan data kompleks Anda tersedia dan dapat diakses
+  summary: Anda merancang dan mengimplementasikan manajemen, pemantauan, dan keamanan solusi data. Dapatkan keterampilan dan pengetahuan yang diperlukan untuk membangun karir Anda sebagai Insinyur Data yang sukses.
+  link:
+    url: /learn/browse/?roles=data-engineer
+    text: Telusuri semua jalur untuk Insinyur Data
+  imageUrl: https://docs.microsoft.com/media/learn/topics/blue-hero-background-03.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan keterampilan teknik data Anda dalam streaming data, kegigihan, dan transformasi.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/administrator-certifications.svg
+  link:
+    url: /learn/certifications/roles/data-engineer
+    text: Jelajahi Sertifikasi
+- title: Pelatihan
+  subTitle: Kursus yang dipimpin instruktur
+  summary: Pelajari jadwal Anda sendiri dalam pengaturan ruang kelas tradisional, dengan kecepatan Anda sendiri dan di tempat Anda sendiri.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/data-scientist.svg
+  link:
+    url: /learn/certifications/courses/browse/?roles=data-engineer
+    text: Menemukan kursus
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.data-ai.implement-sql-data-warehouse
+  - learn.wwl.build-oss-analytical-solutions-az-hdinsight
+  - learn.wwl.migrate-application-workloads-data-azure
+  - learn.data-ai.azure-for-the-data-engineer
+  - learn.store-data-in-azure
+  - learn.wwl.migrate-sql-workloads-to-azure
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk Insinyur Data
+  filters:
+    roles:
+    - data-engineer
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 189b039afac55baacaf8f9a097d4977b508dff93
+  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/26/2020
+  ms.locfileid: "107696178"

@@ -1,0 +1,48 @@
+### YamlMime:TopicLanding
+title: Insinyur Keamanan di Microsoft Learn
+summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Insinyur Keamanan.
+hero:
+  title: Microsoft Belajar Untuk Insinyur Keamanan
+  subTitle: Amankan sistem Anda dan lindungi data Anda
+  summary: Anda bertanggung jawab atas desain dan implementasi kontrol keamanan digital, mengelola akses, dan melindungi data Anda di jaringan cloud dan lingkungan hibrid. Dapatkan keterampilan dan pengetahuan yang diperlukan untuk membangun karir Anda sebagai Insinyur Keamanan yang sukses.
+  link:
+    url: /learn/browse/?roles=security-engineer
+    text: Jelajahi semua jalur untuk Insinyur Keamanan
+  imageUrl: https://docs.microsoft.com/media/learn/topics/blue-hero-background-02.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan pengetahuan Anda dengan sertifikasi Microsoft untuk Insinyur Keamanan.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/administrator-certifications.svg
+  link:
+    url: /learn/certifications/roles/security-engineer
+    text: Jelajahi Sertifikasi
+- title: Pelatihan
+  subTitle: Kursus yang dipimpin instruktur
+  summary: Pelajari jadwal Anda sendiri dalam pengaturan ruang kelas tradisional, dengan kecepatan Anda sendiri dan di tempat Anda sendiri.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/data-scientist.svg
+  link:
+    url: /learn/certifications/courses/browse/?roles=security-engineer
+    text: Menemukan kursus
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.security.manage-security-operations
+  - learn.security.secure-your-cloud-apps
+  - learn.security.tm-threat-modeling-fundamentals
+  - learn.security.implement-network-security
+  - learn.security.manage-identity-and-access
+  - learn.security.implement-resource-mgmt-security
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk Insinyur Keamanan
+  filters:
+    roles:
+    - security-engineer
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 6aed436b8944173eb5f25b2f926ab6323786ee10
+  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/26/2020
+  ms.locfileid: "107696181"

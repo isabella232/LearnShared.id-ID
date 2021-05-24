@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: NASA di Microsoft Learn
+summary: Pelajari cara membuat aplikasi di berbagai platform dengan bahasa pemrograman seperti C#, F#, dan Visual Basic. Didukung di Windows, Linux, dan macOS, mulai mengembangkan proyek Anda berikutnya dengan .NET hari ini.
+hero:
+  title: Microsoft Learn untuk NASA
+  subTitle: Gratis Lintas platform. Sumber terbuka.
+  summary: Pelajari cara membuat aplikasi di berbagai platform dengan bahasa pemrograman seperti C#, F#, dan Visual Basic. Didukung di Windows, Linux, dan macOS, mulai mengembangkan proyek Anda berikutnya dengan .NET hari ini.
+  link:
+    url: /learn/browse/?products=dotnet
+    text: Jelajahi semua jalur .NET
+  imageUrl: /learn/media/topics/net-header-background.svg
+featuredSection:
+- title: Koleksi
+  subTitle: 'Pelajari C #'
+  summary: Mulai dengan sintaks dasar dan proses pemikiran yang diperlukan untuk membuat aplikasi menggunakan C#.
+  imageUrl: /learn/media/topics/net-card-graphs.svg
+  link:
+    url: https://docs.microsoft.com/users/dotnet/collections/yz26f8y64n7k07
+    text: Jelajahi koleksi C#
+- title: Koleksi
+  subTitle: Buat aplikasi untuk web, seluler, desktop, dan lainnya.
+  summary: Tidak peduli apa yang ingin Anda bangun, Anda dapat melakukannya dengan .NET. Pelajari cara memanfaatkan .NET di berbagai platform untuk membangun aplikasi yang indah.
+  imageUrl: /learn/media/topics/net-card-bridge.svg
+  link:
+    url: https://docs.microsoft.com/users/dotnet/collections/2md8ip7z51wd47
+    text: Jelajahi koleksi pengembangan aplikasi
+- title: Pelatihan
+  subTitle: Kursus yang dipimpin instruktur
+  summary: Pelajari jadwal Anda sendiri dalam pengaturan ruang kelas tradisional, dengan kecepatan Anda sendiri dan di tempat Anda sendiri.
+  imageUrl: /learn/media/topics/net-card-satellite.svg
+  link:
+    url: /learn/certifications/courses/browse/?products=dotnet
+    text: Menemukan kursus
+curatedSection:
+- title: Jalan Anda untuk memulai
+  items:
+  - learn.build-dotnet-applications-csharp
+  - learn.languages.csharp-first-steps
+  - learn.languages.csharp-logic
+  - learn.create-razor-pages-aspnet-core
+  - learn-xamarin.build-mobile-apps-with-xamarin-forms
+  - learn-windows.develop-windows-apps
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk .NET
+  filters:
+    products:
+    - dotnet
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 518a3f74ab7a43a3592788be4f11ccfaf2419bca
+  ms.sourcegitcommit: 24e7aee6b4209a96a94f91db9b7257de3f792469
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/04/2020
+  ms.locfileid: "107696224"

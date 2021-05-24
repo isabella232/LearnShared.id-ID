@@ -1,0 +1,48 @@
+### YamlMime:TopicLanding
+title: Insinyur DevOps di Microsoft Learn
+summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Insinyur DevOps.
+hero:
+  title: Microsoft Learn Untuk Insinyur DevOps
+  subTitle: Padukan keahlian teknis Anda dengan kecerdasan bisnis
+  summary: Anda memimpin orang-orang di seluruh organisasi untuk membuat proses yang mengawasi rilis kode bersama dengan mengelola siklus pengembangan untuk terus memberikan nilai bisnis. Dapatkan keterampilan dan pengetahuan yang diperlukan untuk membangun karir Anda sebagai Insinyur DevOps yang sukses.
+  link:
+    url: /learn/browse/?roles=devops-engineer
+    text: Jelajahi semua jalur untuk Insinyur DevOps
+  imageUrl: https://docs.microsoft.com/media/learn/topics/blue-hero-background-03.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan keterampilan Azure DevOps Anda.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/administrator-certifications.svg
+  link:
+    url: /learn/certifications/roles/devops-engineer
+    text: Jelajahi Sertifikasi
+- title: Pelatihan
+  subTitle: Kursus yang dipimpin instruktur
+  summary: Pelajari jadwal Anda sendiri dalam pengaturan ruang kelas tradisional, dengan kecepatan Anda sendiri dan di tempat Anda sendiri.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/university-courses.svg
+  link:
+    url: /learn/certifications/courses/browse/?roles=devops-engineer
+    text: Menemukan kursus
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.azdo.evolve-your-devops-practices
+  - learn.azdo.build-applications-with-azure-devops
+  - learn.azdo.deploy-applications-with-azure-devops
+  - learn.azdo.automate-deployments-azure-devops
+  - learn.azdo.capture-feedback-monitoring
+  - learn.wwl.devops-dojo-white-belt-foundation
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk Insinyur DevOps
+  filters:
+    roles:
+    - devops-engineer
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: ec1d2a9456a2676373249f0a3d2b6ad797b72785
+  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/26/2020
+  ms.locfileid: "107696179"

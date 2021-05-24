@@ -1,0 +1,15 @@
+- name: Tanya jawab umum
+  href: support/faq.md
+- name: Pemecahan Masalah
+  href: support/troubleshooting.md
+- name: Dukungan sertifikasi
+  href: 'https://docs.microsoft.com/learn/certifications/help?source=docs'
+- name: Sumber
+  expanded: true
+  items:
+    - name: Sumber daya API
+      href: support/catalog-api.md
+    - name: Aplikasi LTI
+      href: support/lti-application.md
+    - name: Pelaporan Organisasi
+      href: support/org-reporting.md

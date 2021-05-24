@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Microsoft 365 di Microsoft Learn
+summary: Raih lebih banyak hal dengan aplikasi Office yang inovatif, layanan cloud cerdas, dan keamanan kelas dunia.
+hero:
+  title: Microsoft Learn untuk Microsoft 365
+  subTitle: Microsoft 365
+  summary: Raih lebih banyak hal dengan aplikasi Office yang inovatif, layanan cloud cerdas, dan keamanan kelas dunia.
+  link:
+    url: /learn/browse/?products=m365
+    text: Jelajahi semua jalur pembelajaran Microsoft 365
+  imageUrl: /learn/media/topics/m365-header-background.svg
+featuredSection:
+- title: Komunitas
+  subTitle: Microsoft Tech Community
+  summary: Menyambungkan dan mendiskusikan berita terbaru, pembaruan produk, dan praktik terbaik dengan profesional dan rekan-rekan Microsoft
+  imageUrl: /learn/media/topics/m365-card-satellite.svg
+  link:
+    url: https://techcommunity.microsoft.com/t5/microsoft-365/ct-p/microsoft365
+    text: Bergabunglah dengan komunitas kami
+- title: Acara
+  subTitle: Hari Pelatihan Virtual
+  summary: Acara virtual 1 dan 2 hari ini akan memberi Anda kesempatan untuk memperluas keterampilan Anda dan terhubung dengan pakar Microsoft.
+  imageUrl: /learn/media/topics/m365-card-lakes.svg
+  link:
+    url: https://mvtd.events.microsoft.com/Microsoft365?wt.mc_id=onedestination
+    text: Menelusuri acara pelatihan
+- title: Jalur pembelajaran
+  subTitle: Microsoft Teams
+  summary: Temukan video kedalaman teknis, panduan interaktif, dan sumber daya pembelajaran tambahan yang mencakup Microsoft Teams.
+  imageUrl: /learn/media/topics/m365-card-balloon.svg
+  link:
+    url: /learn/teams
+    text: Telusuri jalur pembelajaran
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-m365.m365-stay-current
+  - learn-m365.m365-manage-team-collaboration
+  - learn-m365.m365-onedrive-collaboration
+  - learn-m365.m365-security-threat-protection
+  - learn-m365.m365-compliance-information
+  - learn-m365.m365-extend-fundamental
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - m365
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: ce300738199466d202e2544ae85943688d988e9e
+  ms.sourcegitcommit: dc697daddbd84d662ca45c09c02914d4b7721dcc
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "108685049"

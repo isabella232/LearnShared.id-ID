@@ -1,0 +1,47 @@
+### YamlMime:TopicLanding
+title: Data Scientist di Microsoft Learn
+summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Insinyur AI.
+hero:
+  title: Microsoft Learn Untuk Ilmuwan Data
+  subTitle: Temukan tren dan kembangkan solusi berbasis data untuk bisnis Anda
+  summary: Anda terampil dalam teknologi dan ilmu sosial, menggunakan keahlian Anda untuk bereksperimen dan mengembangkan solusi untuk kebutuhan bisnis yang kompleks menggunakan big data. Dapatkan keterampilan dan pengetahuan yang diperlukan untuk membangun karir Anda sebagai Insinyur Keamanan yang sukses.
+  link:
+    url: /learn/browse/?roles=data-scientist
+    text: Jelajahi semua jalur untuk Ilmuwan Data
+  imageUrl: https://docs.microsoft.com/media/learn/topics/blue-hero-background-01.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan pengetahuan Anda dengan sertifikasi Microsoft untuk Insinyur AI.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/cloud-administrator.svg
+  link:
+    url: /learn/certifications/roles/data-scientist
+    text: Jelajahi Sertifikasi
+- title: Pelatihan
+  subTitle: Kursus yang dipimpin instruktur
+  summary: Pelajari jadwal Anda sendiri dalam pengaturan ruang kelas tradisional, dengan kecepatan Anda sendiri dan di tempat Anda sendiri.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/data-scientist.svg
+  link:
+    url: /learn/certifications/courses/browse/?roles=data-scientist
+    text: Menemukan kursus
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.wwl.create-machine-learn-models
+  - learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
+  - learn.data-ai.build-ai-solutions-with-azure-ml-service
+  - learn.wwl.perform-data-science-azure-databricks
+  - learn.wwl.explore-natural-language-processing
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk Insinyur AI
+  filters:
+    roles:
+    - data-scientist
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 3234ca7aef2e4f2b636ebc8a5e52ce32c8659ded
+  ms.sourcegitcommit: 48123434f54904a396a5616c7c05f9a03bd3a0df
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 03/26/2021
+  ms.locfileid: "107696300"

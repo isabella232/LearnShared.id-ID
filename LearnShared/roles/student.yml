@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Siswa di Microsoft Learn
+summary: Kuasai konsep inti dengan kecepatan Anda dan sesuai jadwal Anda. Mulailah di sini untuk mengembangkan keterampilan praktis melalui modul dan jalur interaktif yang menyenangkan. Selain itu, pendidik bisa mendapatkan akses ke materi dan kurikulum kelas Microsoft.
+hero:
+  title: Microsoft Learn untuk Siswa
+  subTitle: Ajarkan keterampilan teknologi untuk masa depan
+  summary: Kuasai konsep inti dengan kecepatan Anda dan sesuai jadwal Anda. Mulailah di sini untuk mengembangkan keterampilan praktis melalui modul dan jalur interaktif yang menyenangkan. Selain itu, pendidik bisa mendapatkan akses ke materi dan kurikulum kelas Microsoft.
+  link:
+    url: /learn/browse/?roles=student
+    text: Jelajahi semua jalur untuk siswa
+  imageUrl: https://docs.microsoft.com/media/learn/topics/hero-student.svg
+featuredSection:
+- title: Jalur Pembelajaran
+  subTitle: Bangun keterampilan teknologi untuk eksplorasi ruang angkasa
+  summary: Jelajahi modul dan jalur pembelajaran yang terinspirasi oleh para ilmuwan NASA untuk mempersiapkan Anda berkarier dalam eksplorasi luar angkasa.
+  imageUrl: /learn/media/topics/powervirtualagents-card-satellite.svg
+  link:
+    url: /learn/topics/nasa
+    text: Jelajahi jalur pembelajaran NASA
+- title: Program
+  subTitle: Menjadi Microsoft Learn Student Ambassador
+  summary: Kami mencari pemimpin di kampus dengan semangat untuk membuat perbedaan dan berbagi teknologi dengan rekan-rekan mereka.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/student-ambassador.svg
+  link:
+    url: https://studentambassadors.microsoft.com/?id=0&ocid=pre_web_learn_card_all
+    text: Jelajahi program Student Ambassador
+- title: Koleksi
+  subTitle: Belajar dengan kursus universitas
+  summary: Jelajahi program studi dari universitas seperti Universitas Carnegie Mellon dan University of Oxford untuk memperluas keterampilan cloud Anda.
+  imageUrl: /learn/media/topics/teams-card-train.svg
+  link:
+    url: /learn/topics/universities
+    text: Jelajahi koleksi universitas
+curatedSection:
+- title: Dapatkan inspirasi untuk mempelajari teknologi baru
+  items:
+  - learn.language.react-get-started
+  - learn.language.vue-get-started
+  - learn.student-evangelism.introduction-python-nasa
+  - learn.language.typescript-get-started
+  - learn.powershell.scripting-with-powershell
+  - learn.django.get-started
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk siswa
+  filters:
+    roles:
+    - student
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: d13d837f145b27b687f7c4c75eb6c318174d0b04
+  ms.sourcegitcommit: e4584883251381e4936461855beffceb032b32f1
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 04/25/2021
+  ms.locfileid: "107981306"

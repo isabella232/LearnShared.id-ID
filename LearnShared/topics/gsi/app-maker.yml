@@ -1,0 +1,58 @@
+### YamlMime:TopicLanding
+metadata:
+  isGsi: true
+  ms.openlocfilehash: ec553b954282a1e98449fa07243ca03aee9cf037
+  ms.sourcegitcommit: 8dba38534a593fb21a8ae6eaba04f41a2bb05c2a
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/01/2020
+  ms.locfileid: "107696204"
+title: Selamat datang di Microsoft Learn
+summary: Buat solusi aplikasi untuk menyederhanakan, mengotomatiskan, dan mengubah tugas dan proses. Apakah Anda sudah atau ingin menjadi Pembuat Aplikasi Power Platform, bangun keterampilan teknis yang Anda butuhkan untuk kembali bekerja.
+hero:
+  title: Selamat datang di Microsoft Learn
+  subTitle: 'Pembuat Aplikasi Power Platform: Membangun aplikasi bisnis dengan cara yang mudah'
+  summary: Buat solusi aplikasi untuk menyederhanakan, mengotomatiskan, dan mengubah tugas dan proses. Apakah Anda sudah atau ingin menjadi Pembuat Aplikasi Power Platform, bangun keterampilan teknis yang Anda butuhkan untuk kembali bekerja.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/hero-university.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan sertifikasi Microsoft
+  summary: Validasi pengetahuan teknis Anda dengan sertifikasi yang diakui industri yang diminati oleh pengusaha.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/cloud-administrator.svg
+  link:
+    url: /learn/certifications/power-platform-app-maker
+    text: Lihat detail sertifikasi
+- title: Lab Pembelajaran GitHub
+  subTitle: Kembangkan keterampilan teknis Anda
+  summary: Berlatih coding, Git, dan GitHub melalui proyek langsung yang dikembangkan oleh dan untuk masyarakat, secara gratis.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/ai-engineer.svg
+  link:
+    url: https://lab.github.com
+    text: Berlatih dengan GitHub Learning Lab
+- title: LinkedIn
+  subTitle: Mencari dan melamar pekerjaan
+  summary: Dapatkan kembali kaki Anda dengan tetap terhubung dan menemukan peluang dengan pekerjaan yang diminati.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/data-scientist.svg
+  link:
+    url: https://opportunity.linkedin.com
+    text: Lihat semua sumber daya di LinkedIn
+curatedSection:
+- title: Pelajari dasar-dasarnya
+  items:
+  - learn-bizapps.wwl.power-plat-fundamentals
+  - learn.data-ai.evolving-world-of-data
+  - learn.wwl.get-started-with-artificial-intelligence-on-azure
+- title: Tingkatkan keterampilan Anda
+  items:
+  - learn-bizapps.automate-process-using-flow
+  - learn-dynamics.get-started-using-common-data-service
+  - learn-dynamics.manage-permissions-and-administration-for-common-data-service
+  - learn-bizapps.create-powerapps
+  - learn-bizapps.work-with-data-in-a-canvas-app
+  - learn-bizapps.ui-controls-canvas-app-powerapps
+  - learn-bizapps.create-app-models-business-processes
+  - learn-bizapps.create-business-process-flow
+  - learn-bizapps.best-practices-environments
+  - learn-bizapps.understand-advanced-topics
+  - learn-bizapps.bring-ai
+  - learn-bizapps.create-use-analytics-reports-power-bi

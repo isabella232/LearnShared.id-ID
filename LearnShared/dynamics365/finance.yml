@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Dynamics 365 Finance di Microsoft Learn
+summary: Optimalkan operasi keuangan Anda dengan Dynamics 365 Finance.
+hero:
+  title: Microsoft Learn untuk Dynamics 365 Finance
+  subTitle: Dynamics 365 Finance
+  summary: Optimalkan operasi keuangan Anda dengan Dynamics 365 Finance.
+  link:
+    url: /learn/browse/?expanded=dynamics-365&products=dynamics-finance&resource_type=learning%20path
+    text: Jelajahi semua jalur pembelajaran
+  imageUrl: /learn/media/topics/dynamics365-header-background.svg
+featuredSection:
+- title: Koleksi
+  subTitle: Mulai
+  summary: Mulai menggunakan fitur manajemen keuangan dengan cepat guna mempercepat pertumbuhan bisnis Anda.
+  imageUrl: /learn/media/topics/dynamics365-card-airplane.svg
+  link:
+    url: /users/baglearn-5620/collections/1ek3ap33xjk0j0
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Menyebarkan Dynamics 365 Finance
+  summary: Pelajari praktik terbaik untuk sukses menerapkan Dynamics 365 Finance, sebagai konsultan atau arsitek solusi.
+  imageUrl: /learn/media/topics/dynamics365-card-graphs.svg
+  link:
+    url: /users/baglearn-5620/collections/7dwmc7ee8nznzz
+    text: Jelajahi koleksi
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan kemampuan Anda dengan sertifikasi profesional dan bergabunglah dengan komunitas profesional Dynamics 365.
+  imageUrl: /learn/media/topics/dynamics365-card-lakes.svg
+  link:
+    url: /learn/certifications/d365-functional-consultant-financials/
+    text: Jelajahi sertifikasi
+curatedSection:
+- title: Pelajari selengkapnya tentang Dynamics 365 Finance
+  items:
+  - learn-dynamics.configure-use-general-ledger-dynamics-365-finance-ops
+  - learn-dynamics.configure-use-cash-bank-management-tax-d365-finance-ops
+  - learn-dynamics.work-with-accounts-payable-in-dynamics-365-for-finance-and-ops
+  - learn-dynamics.work-accounts-receivable-d365-finance-ops
+  - learn-dynamics.configure-manage-fixed-assets-d365-finance-ops
+  - learn-dynamics.configure-use-budgeting-d365-finance-ops
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - dynamics-finance
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 606e012e1d44c5a625cb39c4dcfe20711c2d5249
+  ms.sourcegitcommit: 27d7155732224a3368bec6b6d972d252672305e2
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 04/29/2021
+  ms.locfileid: "108214301"

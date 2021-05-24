@@ -1,0 +1,56 @@
+### YamlMime:TopicLanding
+title: Dynamics 365 Customer Service di Microsoft Learn
+summary: Dukung agen Anda dalam memberikan tingkat bantuan yang tepat kepada pelanggan dengan Customer Service.
+hero:
+  title: Microsoft Learn untuk Dynamics 365 Customer Service
+  subTitle: Dynamics 365 Customer Service
+  summary: Dukung agen Anda dalam memberikan tingkat bantuan yang tepat kepada pelanggan dengan Customer Service.
+  link:
+    url: /learn/browse/?expanded=dynamics-365&products=dynamics-customer-service%2Cdynamics-cust-svc-insights&resource_type=learning%20path
+    text: Jelajahi semua jalur pembelajaran
+  imageUrl: /learn/media/topics/dynamics365-header-background.svg
+featuredSection:
+- title: Koleksi
+  subTitle: Mulai
+  summary: Pelajari cara mengelola kasus, membangun solusi manajemen pengetahuan, dan bekerja dengan penetapan dan manajemen target di Dynamics 365 Customer Service.
+  imageUrl: /learn/media/topics/dynamics365-card-airplane.svg
+  link:
+    url: /users/baglearn-5620/collections/p3rkiro1ogw4gq
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Pelajari Power Platform untuk menyiapkan penerapan
+  summary: Sebagai konsultan fungsional atau arsitek solusi, Anda harus dapat menggunakan Power Platform untuk menerapkan Customer Service.
+  imageUrl: /learn/media/topics/dynamics365-card-graphs.svg
+  link:
+    url: /users/baglearn-5620/collections/mp1qigxoxz5xz0
+    text: Jelajahi koleksi
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan kemampuan Anda dengan sertifikasi profesional dan bergabunglah dengan komunitas profesional Dynamics 365.
+  imageUrl: /learn/media/topics/dynamics365-card-lakes.svg
+  link:
+    url: /learn/certifications/d365-functional-consultant-customer-service/
+    text: Jelajahi sertifikasi
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-dynamics.work-customer-service-omnichannel
+  - learn-dynamics.work-customer-service-insights
+  - learn-dynamics.create-surveys
+  - learn.wwl.introduction-configuration-dynamics-365-model-driven-apps
+  - learn-bizapps.best-practices-environments
+  - learn-dynamics.manage-permissions-and-administration-for-common-data-service
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - dynamics-customer-service
+    - dynamics-cust-svc-insights
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 2688047cb87592ac56a9bdf8456ca51b165a4df6
+  ms.sourcegitcommit: 27d7155732224a3368bec6b6d972d252672305e2
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 04/29/2021
+  ms.locfileid: "108214299"

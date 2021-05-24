@@ -1,0 +1,46 @@
+### YamlMime:TopicLanding
+title: Insinyur AI di Microsoft Learn
+summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Insinyur AI.
+hero:
+  title: Microsoft Learn Untuk Insinyur AI
+  subTitle: Mendefinisikan dan mengimplementasikan solusi AI mutakhir
+  summary: Baik di lingkungan cloud atau hybrid, AI Engineers mengembangkan dan menyebarkan layanan kognitif, pembelajaran mesin, dan solusi penambangan pengetahuan untuk membantu organisasi mereka tetap terdepan dalam permainan. Dapatkan keterampilan dan pengetahuan yang diperlukan untuk membangun karir Anda sebagai Insinyur Keamanan yang sukses.
+  link:
+    url: /learn/browse/?roles=ai-edge-engineer%2Cai-engineer
+    text: Jelajahi semua jalur untuk Insinyur AI
+  imageUrl: https://docs.microsoft.com/media/learn/topics/blue-hero-background-02.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan pengetahuan Anda dengan sertifikasi Microsoft untuk Insinyur AI.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/administrator-certifications.svg
+  link:
+    url: /learn/certifications/roles/ai-engineer
+    text: Jelajahi Sertifikasi
+- title: Pelatihan
+  subTitle: Kursus yang dipimpin instruktur
+  summary: Pelajari jadwal Anda sendiri dalam pengaturan ruang kelas tradisional, dengan kecepatan Anda sendiri dan di tempat Anda sendiri.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/university-courses.svg
+  link:
+    url: /learn/certifications/courses/browse/?roles=ai-engineer
+    text: Menemukan kursus
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.wwl.process-classify-images-with-azure-cognitive-vision-services
+  - learn.wwl.explore-natural-language-processing
+  - learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk Insinyur AI
+  filters:
+    roles:
+    - ai-engineer
+    - ai-edge-engineer
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 8f8701043c6dc7158e66a43aba911a851d55594d
+  ms.sourcegitcommit: d4954a401a5bf10ff10685425b84db1c4adc80c3
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 10/29/2020
+  ms.locfileid: "107696222"

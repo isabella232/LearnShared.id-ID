@@ -1,0 +1,57 @@
+### YamlMime:TopicLanding
+title: Pemerintah di Microsoft Learn
+summary: Teknologi mengubah pemerintah dan memberdayakan karyawan. Melalui Microsoft Learn, Anda dapat menguasai konsep baru dengan kecepatan dan jadwal, mengembangkan keterampilan praktis melalui modul dan jalur interaktif.
+hero:
+  title: Microsoft Learn untuk Pemerintah
+  subTitle: Mendorong transformasi dalam pemerintahan
+  summary: Teknologi mengubah pemerintah dan memberdayakan karyawan. Melalui Microsoft Learn, Anda dapat menguasai konsep baru dengan kecepatan dan jadwal, mengembangkan keterampilan praktis melalui modul dan jalur interaktif.
+  imageUrl: /learn/media/topics/azure-header-background.svg
+featuredSection:
+- title: Program
+  subTitle: Sekolah Bisnis AI
+  summary: Implementasi AI yang sukses tergantung pada lebih dari sekadar teknologi. Termasuk jalur pemerintah yang dipesan lebih dahulu bagi para pengambil keputusan untuk menggambarkan dampak transformasional AI yang sebenarnya di sektor publik.
+  imageUrl: /learn/media/topics/azure-card-train.svg
+  link:
+    url: https://www.microsoft.com/ai/ai-business-school
+    text: Jelajahi AI Business School
+- title: Gambaran Umum
+  subTitle: Dokumentasi Azure Government
+  summary: Azure Government adalah platform cloud yang dibangun berdasarkan prinsip-prinsip dasar keamanan, privasi dan kontrol, kepatuhan, dan transparansi untuk lembaga pemerintah AS dan mitra mereka.
+  imageUrl: /learn/media/topics/azure-card-bridge.svg
+  link:
+    url: /azure/azure-government/
+    text: Jelajahi dokumentasi Azure Government
+- title: Gambaran Umum
+  subTitle: LinkedIn Learning untuk pemerintah
+  summary: LinkedIn Learning untuk pemerintah membantu meningkatkan keterlibatan karyawan dan membangun keterampilan dengan ribuan kursus.
+  imageUrl: /learn/media/topics/azure-card-airplane.svg
+  link:
+    url: https://learning.linkedin.com/for-governments
+    text: Jelajahi LinkedIn Learning untuk pemerintah
+curatedSection:
+- title: Jalan Anda untuk memulai
+  items:
+  - learn.ai-business-school-government
+  - learn.intro-to-azure-government
+  - learn.az-900-describe-cloud-concepts
+  - learn.wwl.azure-data-fundamentals-explore-core-data-concepts
+  - learn.wwl.get-started-with-artificial-intelligence-on-azure
+  - learn.wwl.m365-security-compliance-capabilities
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - azure
+    roles:
+    - administrator
+    - business-user
+    - security-engineer
+    - technology-manager
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 4539852af8d45ef2eb8bade94278cd41317a3578
+  ms.sourcegitcommit: 04c16ddbfb187bf0d72cd2c01b43ffad9391925d
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 12/16/2020
+  ms.locfileid: "107696245"

@@ -1,0 +1,54 @@
+### YamlMime:Hub
+title: Dukungan Microsoft Learn
+summary: 'Dapatkan jawaban atas pertanyaan yang sering diajukan, pecahkan masalah umum, dan laporkan bug yang terkait dengan Microsoft Learn.'
+metadata:
+  title: Dukungan Microsoft Learn
+  description: 'Dapatkan jawaban atas pertanyaan yang sering diajukan, pecahkan masalah umum, dan laporkan bug yang terkait dengan Microsoft Learn.'
+  services: service
+  ms.topic: hub-page
+  ms.collection: collection
+  author: sadadow
+  ms.author: saadad
+  ms.date: 01/20/2020
+productDirectory:
+  items:
+    - title: Tanya jawab umum
+      imageSrc: ./media/i_support.svg
+      links:
+        - url: ./faq.md?pivots=general
+          text: Umum
+        - url: ./faq.md?pivots=profile
+          text: Profil & Dasbor
+        - url: ./faq.md?pivots=sandbox
+          text: Sandbox
+        - url: ./faq.md?pivots=support
+          text: Dukungan
+    - title: Pemecahan Masalah
+      imageSrc: ./media/i_tools.svg
+      links:
+        - url: ./troubleshooting.md
+          text: Jelajahi isu yang diketahui
+        - url: ./troubleshooting.md#report-feedback
+          text: Laporkan umpan balik
+    - title: API/Sumber Daya
+      imageSrc: ./media/i_api-reference.svg
+      links:
+        - url: ./catalog-api.md
+          text: API Katalog
+        - url: ./lti-application.md
+          text: Aplikasi LMS
+        - url: ./use-your-own-subscription.md
+          text: Cara menjalankan latihan Microsoft Learn di langganan Anda sendiri
+        - url: ./org-reporting.md
+          text: Pelaporan Organisasi
+        - url: 'https://docs.microsoft.com/learn/roles/educator'
+          text: Materi pendidik
+    - title: Dukungan sertifikasi
+      imageSrc: ./media/certification-advanced.svg
+      links:
+        - url: 'https://docs.microsoft.com/learn/certifications/help'
+          text: Dukungan sertifikasi
+        - url: 'https://docs.microsoft.com/learn/certifications/certification-exam-policies'
+          text: Kebijakan ujian dan FAQ
+        - url: 'https://docs.microsoft.com/learn/certifications/certification-and-training-help'
+          text: Bantuan Microsoft Official Courseware (MOC)

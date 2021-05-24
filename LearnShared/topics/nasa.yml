@@ -1,0 +1,53 @@
+### YamlMime:TopicLanding
+title: NASA di Microsoft Learn
+summary: Jelajahi modul dan jalur pembelajaran yang terinspirasi oleh para ilmuwan NASA untuk mempersiapkan Anda berkarier dalam eksplorasi luar angkasa.
+hero:
+  title: Microsoft Learn untuk NASA
+  subTitle: Bangun keterampilan teknologi untuk eksplorasi ruang angkasa
+  summary: Jelajahi modul dan jalur pembelajaran yang terinspirasi oleh para ilmuwan NASA untuk mempersiapkan Anda berkarier dalam eksplorasi luar angkasa.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/hero-university.svg
+featuredSection:
+- title: Visual Studio Code
+  subTitle: Belajar kode. Kode untuk dipelajari.
+  summary: Akses alat yang Anda butuhkan untuk membentuk pengembangan perangkat lunak generasi berikutnya dengan Visual Studio Code, dari menulis baris kode pertama Anda hingga mempersonalisasi editor Anda untuk bahasa apa pun.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/data-scientist.svg
+  link:
+    url: https://code.visualstudio.com/learntocode/?utm_source=MSLearn&utm_medium=direct&utm_campaign=PartnerLessons
+    text: Buka di Visual Studio Code
+- title: Program
+  subTitle: Keterlibatan STEM NASA
+  summary: Jelajahi sumber daya yang berfokus pada STEM yang dikembangkan oleh NASA untuk siswa dan pendidik di setiap tingkatan.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/educator.svg
+  link:
+    url: https://www.nasa.gov/stem
+    text: Pelajari lebih lanjut dari NASA
+- title: Jelajahi
+  subTitle: Over the Moon dari Microsoft dan Netflix
+  summary: Pelajari cara membuat karakter seperti Fei Fei - dan memecahkan masalah kompleks seperti dia juga - dengan tutorial menggambar dari sutradara Glen Keane dan pelajaran STEM dari Microsoft.
+  imageUrl: /learn/media/topics/azure-card-balloon.svg
+  link:
+    url: https://www.microsoft.com/inculture/over-the-moon/
+    text: Bawa imajinasi dan sains ke ketinggian baru
+curatedSection:
+- title: Luncurkan perjalanan data Anda melalui ruang angkasa
+  items:
+  - learn.student-evangelism.plan-moon-mission-using-python-pandas
+  - learn.student-evangelism.predict-meteor-showers-using-python
+  - learn.student-evangelism.train-custom-vision-ai
+  - learn.introduction-python-space-exploration-nasa
+  - learn.classify-space-rocks-artificial-intelligence-nasa
+  - learn.student-evangelism.machine-learning-predict-launch-delay-nasa
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - student
+    - data-scientist
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 6e603ffc363f49932ead12130c36656486fa818b
+  ms.sourcegitcommit: f7d374f74a097d84439c9f8db06af8ea2cffe88c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 10/23/2020
+  ms.locfileid: "107696220"

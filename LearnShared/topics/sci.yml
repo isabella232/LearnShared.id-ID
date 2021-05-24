@@ -1,0 +1,65 @@
+### YamlMime:TopicLanding
+title: Keamanan, Kepatuhan, dan Identitas di Microsoft Learn
+summary: Solusi keamanan, kepatuhan, dan identitas Microsoft dibuat untuk memberdayakan organisasi Anda, membuat Anda tetap tangguh dan gesit. Ini terintegrasi di seluruh platform, cloud, dan layanan, dan membantu memperkuat keamanan beban kerja cloud dan merampingkan manajemen keamanan. Jelajahi sumber daya ini untuk mempelajari selengkapnya tentang solusi keamanan, identitas, dan kepatuhan Microsoft.
+hero:
+  title: Microsoft Learn untuk Keamanan, Kepatuhan, dan Identitas
+  subTitle: Terintegrasi untuk kesederhanaan
+  summary: Solusi keamanan, kepatuhan, dan identitas Microsoft dibuat untuk memberdayakan organisasi Anda, membuat Anda tetap tangguh dan gesit. Ini terintegrasi di seluruh platform, cloud, dan layanan, dan membantu memperkuat keamanan beban kerja cloud dan merampingkan manajemen keamanan. Jelajahi sumber daya ini untuk mempelajari selengkapnya tentang solusi keamanan, identitas, dan kepatuhan Microsoft.
+  imageUrl: /learn/media/topics/azure-header-background.svg
+featuredSection:
+- title: Jelajahi
+  subTitle: Microsoft Security Technical Content Library
+  summary: Temukan konten teknis yang relevan untuk Anda. Cari berdasarkan peran, tingkat pengalaman, produk, topik, dan lainnya.
+  imageUrl: /learn/media/topics/azure-card-satellite.svg
+  link:
+    url: https://aka.ms/MicrosoftSecurityTechnicalContentLibrary
+    text: Jelajahi Microsoft Security Technical Content Library
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tingkatkan karier Anda, dapatkan pengakuan, dan validasi pengetahuan dan kemampuan teknis Anda dalam peran pekerjaan industri saat ini dengan Microsoft Security melalui sertifikasi AZ500 dan MS500.
+  imageUrl: /learn/media/topics/azure-card-lakes.svg
+  link:
+    url: /learn/certifications/browse/?resource_type=certification&terms=SC-
+    text: Jelajahi Sertifikasi
+- title: Video
+  subTitle: Sesi Ignite
+  summary: Lihat sesi sesuai permintaan dari Ignite di berbagai solusi dan teknologi.
+  imageUrl: /learn/media/topics/azure-card-train.svg
+  link:
+    url: /events/ignite-mar-2021/security-compliance-and-identity/
+    text: Jelajahi sesi
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-m365.m365-security-threat-protection
+  - learn.security-ops-sentinel
+  - learn-m365.m365-cloud-security
+  - learn-m365.m365-compliance-information
+  - learn-m365.m365-compliance-insider
+  - learn-m365.compmgmt
+  - learn-m365.identity-and-access
+  - learn.azure-admin-manage-identities-governance
+  - learn-m365.identity-associate
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - azure-active-directory
+    - azure-key-vault
+    - azure-security-center
+    - azure-sentinel
+    - m365-ems
+    - m365-information-protection
+    - m365-security-center
+    - m365-threat-protection
+    - mdatp
+    roles:
+    - security-engineer
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: cbfc7d41c09b240f8c476c656c8a06f4f0d27483
+  ms.sourcegitcommit: ecfdd4ee4cfa904a0fabae38a9870ab820e426ab
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "107696278"

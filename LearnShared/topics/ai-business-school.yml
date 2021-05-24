@@ -1,0 +1,53 @@
+### YamlMime:TopicLanding
+title: AI Business School di Microsoft Learn
+summary: AI mengubah cara kerja bisnis di semua industri. AI Business School dirancang untuk mendukung siswa dan profesional dengan wawasan dan panduan praktis dari eksekutif top tentang cara menerapkan AI dan mengubah organisasi secara strategis.
+hero:
+  title: Microsoft Learn untuk Sekolah Bisnis AI
+  subTitle: Mewujudkan kekuatan transformasional AI
+  summary: AI mengubah cara kerja bisnis di semua industri. AI Business School dirancang untuk mendukung siswa dan profesional dengan wawasan dan panduan praktis dari eksekutif top tentang cara menerapkan AI dan mengubah organisasi secara strategis.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/hero-university.svg
+featuredSection:
+- title: Jalur Pembelajaran
+  subTitle: Belajar untuk Siswa
+  summary: Bangun keterampilan teknologi untuk masa depan melalui modul interaktif yang menyenangkan dan jalur pembelajaran.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/cloud-administrator.svg
+  link:
+    url: /learn/roles/student
+    text: Jelajahi jalur pembelajaran siswa
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan pemahaman Anda tentang Data dan AI dan tunjukkan prestasi Anda melalui sertifikasi Microsoft yang diakui industri.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/ai-engineer.svg
+  link:
+    url: /learn/certifications/browse?roles=ai-engineer%2Cdata-scientist&resource_type=certification&levels=beginner
+    text: Jelajahi Sertifikasi
+- title: Program
+  subTitle: Sekolah AI
+  summary: Dapatkan informasi teknis, materi pembelajaran, dan sumber daya untuk mulai membangun kecerdasan ke dalam solusi Anda.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/data-scientist.svg
+  link:
+    url: https://aischool.microsoft.com/home
+    text: Pergi ke Sekolah AI
+curatedSection:
+- title: Jalur pembelajaran industri
+  items:
+  - learn.ai-business-school-manufacturing
+  - learn.ai-business-school-retail
+  - learn.ai-business-school-healthcare
+  - learn.ai-business-school-financial-services
+  - learn.ai-business-school-government
+  - learn.ai-business-school-education
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - ai-engineer
+    - data-scientist
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 297151792849425184c32990c7acad595c020a2d
+  ms.sourcegitcommit: 2a7e07339b932e84f3cb146e514c0cfb6977451a
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 06/19/2020
+  ms.locfileid: "107696201"
