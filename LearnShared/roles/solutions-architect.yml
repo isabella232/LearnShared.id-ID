@@ -1,0 +1,48 @@
+### YamlMime:TopicLanding
+title: Arsitek Solusi di Microsoft Learn
+summary: Microsoft Learn membantu Anda menemukan konten dan mendapatkan pengalaman yang Anda butuhkan untuk membantu Anda sukses sebagai Arsitek Solusi.
+hero:
+  title: Microsoft Learn untuk Arsitek Solusi
+  subTitle: Tentukan visi dan implementasi solusi teknologi yang hebat
+  summary: Anda menggunakan keahlian teknis untuk mengintegrasikan dan mengoptimalkan teknologi di seluruh organisasi, menyesuaikan solusi Anda untuk memenuhi kebutuhan pengembang dan bisnis. Dapatkan keterampilan untuk membangun karier Anda sebagai Arsitek Solusi yang sukses dengan Microsoft Learn.
+  link:
+    url: /learn/browse/?roles=solution-architect
+    text: Jelajahi semua jalur untuk Arsitek Solusi
+  imageUrl: https://docs.microsoft.com/media/learn/topics/blue-hero-background-03.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan pengetahuan Anda dengan sertifikasi Microsoft untuk Arsitek Solusi.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/administrator-infrastructure.svg
+  link:
+    url: /learn/certifications/roles/solutions-architect
+    text: Jelajahi Sertifikasi
+- title: Pelatihan
+  subTitle: Kursus yang dipimpin instruktur
+  summary: Pelajari jadwal Anda sendiri dalam pengaturan ruang kelas tradisional, dengan kecepatan Anda sendiri dan di tempat Anda sendiri.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/ai-engineer.svg
+  link:
+    url: /learn/certifications/courses/browse/?roles=solution-architect
+    text: Menemukan kursus
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.azure-well-architected-framework
+  - learn.architect-modern-apps
+  - learn-dynamics.become-solution-architect
+  - learn.architect-migration-bcdr
+  - learn.architect-secure-infrastructure
+  - learn.architect-network-infrastructure
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk Arsitek Solusi
+  filters:
+    roles:
+    - solution-architect
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 5eb9785717dc5caf291816e4a574c618a91500fd
+  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/26/2020
+  ms.locfileid: "107696182"

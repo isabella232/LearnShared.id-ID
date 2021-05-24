@@ -1,0 +1,64 @@
+### YamlMime:TopicLanding
+title: Startup di Microsoft Learn
+summary: Cadangkan bisnis Anda di Microsoft Cloud, semakin berkembang startup sambil memastikan keamanan dan kepatuhan bagi pelanggan Anda.
+hero:
+  title: Microsoft Learn untuk Startup
+  subTitle: Berdayakan startup Anda dengan Microsoft
+  summary: Cadangkan bisnis Anda di Microsoft Cloud, semakin berkembang startup sambil memastikan keamanan dan kepatuhan bagi pelanggan Anda.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/hero-university.svg
+featuredSection:
+- title: Panduan
+  subTitle: Mulai menggunakan Azure
+  summary: Pelajari konsep Azure dan bagaimana platform mendukung bisnis Anda melalui tutorial, sampel, dan panduan cara mendetail.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/cloud-administrator.svg
+  link:
+    url: https://docs.microsoft.com/azure/guides/developer/azure-developer-guide
+    text: Mempelajari Azure
+- title: Azure GitHub Actions
+  subTitle: Mengotomatiskan alur kerja Anda
+  summary: 'GitHub Actions memudahkan untuk mengotomatiskan alur kerja Anda: membangun, menguji, dan menerapkan kode Anda langsung dari GitHub dengan CI/CD kelas dunia.'
+  imageUrl: https://docs.microsoft.com/media/learn/topics/ai-engineer.svg
+  link:
+    url: https://github.com/features/actions
+    text: Jelajahi GitHub Actions
+- title: Gambaran Umum
+  subTitle: Pengembangan aplikasi yang cepat
+  summary: Suite Power Apps adalah serangkaian blok penyusun yang sangat baik untuk startup untuk prototyping dan eksperimen. Buat dan terapkan aplikasi dengan cepat agar sesuai dengan kebutuhan bisnis Anda.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/data-scientist.svg
+  link:
+    url: https://docs.microsoft.com/powerapps/powerapps-overview
+    text: Jelajahi Power Apps
+curatedSection:
+- title: Segarkan startup Anda di Microsoft
+  items:
+  - learn.tour-azure-portal-features
+  - learn.intro-commercial-marketplace
+  - learn.azure.publish-static-web-app-and-api
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - azure-app-service-static
+    - azure-batch
+    - azure-cdn
+    - azure-cloud-shell
+    - azure-cognitive-services
+    - azure-container-instances
+    - azure-database-mysql
+    - azure-database-postgresql
+    - azure-devops
+    - azure-functions
+    - azure-key-vault
+    - azure-linux-vm
+    - azure-machine-learning
+    - azure-security-center
+    - vs-code
+    - vs-online
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: ba827e0877c1dee75b99d3953332e55fe4d73f60
+  ms.sourcegitcommit: a0ba28352da3bb95884c156f78a65500aad0e001
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 02/16/2021
+  ms.locfileid: "107696272"

@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Power Platform di Microsoft Learn
+summary: Pelajari cara bekerja sama untuk menghadapi tantangan secara efektif dengan Microsoft Power Platform dengan menganalisis data, membangun aplikasi, mengotomatiskan proses, dan membuat agen virtual.
+hero:
+  title: Microsoft Learn untuk Power Platform
+  subTitle: Microsoft Power Platform
+  summary: Pelajari cara bekerja sama untuk menghadapi tantangan secara efektif dengan Microsoft Power Platform dengan menganalisis data, membangun aplikasi, mengotomatiskan proses, dan membuat agen virtual.
+  link:
+    url: /learn/browse/?products=power-platform
+    text: Jelajahi semua jalur pembelajaran Power Platform
+  imageUrl: /learn/media/topics/powerplatform-header-background.svg
+featuredSection:
+- title: Acara
+  subTitle: Microsoft Business Applications Summit
+  summary: Daftar sekarang untuk acara digital global ini pada 4 Mei 2021.
+  imageUrl: /learn/media/topics/powerbi-card-train.svg
+  link:
+    url: https://mymbas.microsoft.com/home
+    text: Jelajahi acara
+- title: Komunitas
+  subTitle: Komunitas Power Platform
+  summary: Menyambungkan dan mendiskusikan berita terbaru, pembaruan produk, dan praktik terbaik dengan profesional dan rekan-rekan Microsoft
+  imageUrl: /learn/media/topics/powerbi-card-satellite.svg
+  link:
+    url: https://powerusers.microsoft.com/
+    text: Bergabunglah dengan komunitas kami
+- title: Acara
+  subTitle: Hari Pelatihan Virtual
+  summary: Acara virtual 1 dan 2 hari ini akan memberi Anda kesempatan untuk memperluas keterampilan Anda dan terhubung dengan pakar Microsoft.
+  imageUrl: /learn/media/topics/powerbi-card-lakes.svg
+  link:
+    url: https://mvtd.events.microsoft.com/PowerPlatform?wt.mc_id=onedestination
+    text: Menelusuri acara pelatihan
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-bizapps.work-power-virtual-agents
+  - learn-bizapps.create-powerapps
+  - learn-bizapps.create-business-process-flow
+  - learn-bizapps.bring-ai
+  - learn-bizapps.powerapps-common-data-service
+  - learn-bizapps.visual-data-power-bi
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - power-platform
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 37e9f039bcbf043637351bce688741bb66ecf3fc
+  ms.sourcegitcommit: 1fa1003cc333b8ffcedf633730f56db4ff1f73c3
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 04/14/2021
+  ms.locfileid: "107696313"

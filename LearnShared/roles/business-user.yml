@@ -1,0 +1,57 @@
+### YamlMime:TopicLanding
+title: Pemilik dan Pengguna Bisnis di Microsoft Learn
+summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk meningkatkan efisiensi dan produktivitas dalam bisnis Anda.
+hero:
+  title: Microsoft Learn untuk Pemilik dan Pengguna Bisnis
+  subTitle: Meningkatkan efisiensi dan produktivitas dalam bisnis Anda
+  summary: Anda menggunakan aplikasi Microsoft untuk memindahkan bisnis Anda ke depan. Pelajari bagaimana alat seperti Microsoft 365, Dynamics 365, dan AI dapat mendukung tim Anda dan mengembangkan bisnis Anda.
+  link:
+    url: /learn/browse/?roles=business-analyst%2Cbusiness-owner%2Cbusiness-user
+    text: Telusuri semua jalur untuk Pemilik dan Pengguna Bisnis
+  imageUrl: https://docs.microsoft.com/media/learn/topics/blue-hero-background-01.svg
+featuredSection:
+- title: Sekolah Bisnis AI
+  subTitle: Memimpin dengan percaya diri di zaman AI
+  summary: AI Business School berbagi wawasan dan panduan praktis dari eksekutif top tentang cara menerapkan AI secara strategis di organisasi Anda.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/ai-engineer.svg
+  link:
+    url: https://www.microsoft.com/en-us/ai/ai-business-school
+    text: Sekolah Bisnis AI
+- title: Koleksi
+  subTitle: Mengubah bisnis Anda
+  summary: Temukan bagaimana Microsoft mendukung transformasi digital bisnis Anda.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/educator.svg
+  link:
+    url: /users/microsoftpowerplatform-5978/collections/0ydh1xedqdon3
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Jadikan hari kerja Anda lebih efisien
+  summary: Pelajari bagaimana teknologi Microsoft dapat membuat pekerjaan sehari-hari Anda lebih efisien dan produktif
+  imageUrl: https://docs.microsoft.com/media/learn/topics/university-courses.svg
+  link:
+    url: /users/microsoftpowerplatform-5978/collections/djwu102ok4dxe
+    text: Jelajahi koleksi
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
+  - learn-wwl.ai-strategy-to-create-business-value
+  - learn-wwl.learn-business-value-of-azure-v1-1
+  - learn-dynamics.wwl.dynamics-365-fundamentals
+  - learn-bizapps.wwl.power-plat-fundamentals
+  - learn.foster-an-ai-ready-culture-in-business
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pemilik dan pengguna bisnis
+  filters:
+    roles:
+    - business-analyst
+    - business-owner
+    - business-user
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 77267b8e44206bf3a82bdc819437500de0e78ce0
+  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/26/2020
+  ms.locfileid: "107696185"

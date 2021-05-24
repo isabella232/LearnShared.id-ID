@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Konsultan Fungsional di Microsoft Learn
+summary: Microsoft Learn membantu Anda menemukan keterampilan dan mendapatkan keahlian yang diperlukan untuk menjadi Konsultan Fungsional yang sukses.
+hero:
+  title: Microsoft Learn untuk Konsultan Fungsional
+  subTitle: Menerapkan aplikasi bisnis kustom
+  summary: Anda adalah pakar domain yang membantu orang lain menerapkan solusi teknologi terbaru untuk memenuhi kebutuhan mereka. Temukan keterampilan dan dapatkan keahlian yang diperlukan untuk menjadi Konsultan Fungsional yang sukses.
+  link:
+    url: /learn/browse/?roles=functional-consultant
+    text: Jelajahi semua jalur untuk Konsultan Fungsional
+  imageUrl: https://docs.microsoft.com/media/learn/topics/blue-hero-background-01.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tingkatkan karir Anda dengan sertifikasi Konsultan Fungsional.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/administrator-m365deployment.svg
+  link:
+    url: /learn/certifications/roles/functional-consultant
+    text: Jelajahi Sertifikasi
+- title: Jelajahi Learn
+  subTitle: Mulai menerapkan aplikasi CRM
+  summary: Pelajari tentang Dynamics 365 Customer Service, Field Service, Marketing, dan Sales.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/ai-engineer.svg
+  link:
+    url: /learn/browse/?roles=functional-consultant&resource_type=learning%20path&products=dynamics-customer-service%2Cdynamics-field-service%2Cdynamics-marketing%2Cdynamics-sales
+    text: Jelajahi semua jalur untuk Konsultan Fungsional
+- title: Jelajahi Learn
+  subTitle: Mulai menerapkan aplikasi CRM
+  summary: Pelajari tentang Dynamics 365 Finance and Supply Chain Management.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/data-scientist.svg
+  link:
+    url: /learn/browse/?roles=functional-consultant&resource_type=learning%20path&products=dynamics-finance%2Cdynamics-finance-operations%2Cdynamics-scm
+    text: Jelajahi semua jalur untuk Konsultan Fungsional
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+  - learn.wwl.config-d365-finance-operations-apps
+  - learn-dynamics.implementing-customer-engagement-online
+  - learn-bizapps.applying-goal-management
+  - learn-dynamics.get-started-using-common-data-service
+  - learn-dynamics.get-started-dynamics-365-business-central
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk Konsultan Fungsional
+  filters:
+    roles:
+    - functional-consultant
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 0bdbcadbfceff9ceafa6da61d37c85643ee00057
+  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/26/2020
+  ms.locfileid: "107696183"

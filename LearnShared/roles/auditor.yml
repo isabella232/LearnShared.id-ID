@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Auditor di Microsoft Learn
+summary: Dapatkan pemahaman keseluruhan tentang praktik keamanan dan privasi dasar Microsoft untuk melindungi data pelanggan Anda.
+hero:
+  title: Microsoft Learn untuk Auditor
+  subTitle: Pelajari cara Microsoft melindungi data pelanggan
+  summary: Dapatkan pemahaman keseluruhan tentang praktik keamanan dan privasi dasar Microsoft untuk melindungi data pelanggan Anda.
+  link:
+    url: /learn/browse/?roles=auditor
+    text: Jelajahi semua jalur untuk Auditor
+  imageUrl: /learn/media/topics/m365-header-background.svg
+featuredSection:
+- title: Gambaran Umum
+  subTitle: Dokumentasi kepatuhan Microsoft
+  summary: Temukan konten untuk solusi fitur peraturan, kepatuhan, jaminan layanan, dan kepatuhan kami, semuanya di satu tempat.
+  imageUrl: /learn/media/topics/m365-card-train.svg
+  link:
+    url: https://docs.microsoft.com/compliance/
+    text: Menjelajahi dokumentasi kepatuhan
+- title: Komunitas
+  subTitle: Microsoft Tech Community Video Hub
+  summary: Jelajahi lebih dari 400 video teknis tentang berbagai teknologi Microsoft, termasuk yang relevan dengan peran Anda sebagai auditor. Pelajari selengkapnya tentang keterampilan yang Anda butuhkan untuk melindungi data di seluruh organisasi Anda.
+  imageUrl: /learn/media/topics/m365-card-satellite.svg
+  link:
+    url: https://techcommunity.microsoft.com/t5/video-hub/ct-p/VideoHub
+    text: Bergabunglah dengan komunitas kami
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tingkatkan karier Anda, dapatkan pengakuan, dan validasi pengetahuan dan kemampuan teknis Anda dalam peran pekerjaan industri saat ini dan masa depan dengan sertifikasi Microsoft 365 dan Office.
+  imageUrl: /learn/media/topics/m365-card-lakes.svg
+  link:
+    url: /learn/certifications/browse/?resource_type=certification&products=m365%2Coffice
+    text: Jelajahi Sertifikasi
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-m365.audit-architecture
+  - learn-m365.audit-incident-management
+  - learn-m365.audit-identity-access-management
+  - learn-m365.audit-encryption
+  - learn-m365.audit-privacy
+  - learn-m365.audit-physical-security
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk Auditor
+  filters:
+    roles:
+    - auditor
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 1c6e5ac1003fa38c4fd991dc6ee01d4761221bd0
+  ms.sourcegitcommit: 4d622dbcd05a5130d5aa471c60fb3f085f16e63b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 03/31/2021
+  ms.locfileid: "107696307"

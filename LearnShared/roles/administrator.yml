@@ -1,0 +1,49 @@
+### YamlMime:TopicLanding
+title: Administrator di Microsoft Learn
+summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Administrator.
+hero:
+  title: Microsoft Learn Untuk Administrator
+  subTitle: Skalakan solusi teknis di seluruh perusahaan
+  summary: Anda bertugas menerapkan, mengelola, dan memantau lingkungan dan solusi cloud perusahaan Anda. Dapatkan keterampilan dan pengetahuan yang diperlukan untuk membangun karir Anda sebagai Insinyur Keamanan yang sukses.
+  link:
+    url: /learn/browse/?roles=technology-manager%2Cadministrator
+    text: Jelajahi semua jalur untuk Administrator
+  imageUrl: https://docs.microsoft.com/media/learn/topics/blue-hero-background-01.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan pengetahuan Anda dengan sertifikasi Microsoft untuk Administrator.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/administrator-infrastructure.svg
+  link:
+    url: /learn/certifications/roles/administrator
+    text: Jelajahi Sertifikasi
+- title: Pelatihan
+  subTitle: Kursus yang dipimpin instruktur
+  summary: Pelajari jadwal Anda sendiri dalam pengaturan ruang kelas tradisional, dengan kecepatan Anda sendiri dan di tempat Anda sendiri.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/ai-engineer.svg
+  link:
+    url: /learn/certifications/courses/browse/?roles=administrator
+    text: Menemukan kursus
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.administer-infrastructure-resources-in-azure
+  - learn.manage-resources-in-azure
+  - learn.security.manage-identity-and-access
+  - learn-m365.microsoft-365-get-modern
+  - learn-m365.manage-enterprise-deployment-m365
+  - learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk Administrator
+  filters:
+    roles:
+    - administrator
+    - technology-manager
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 9c9961b18239024feac61c7a12a5c1579ea1f8ff
+  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/26/2020
+  ms.locfileid: "107696195"

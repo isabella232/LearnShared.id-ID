@@ -1,0 +1,60 @@
+### YamlMime:TopicLanding
+metadata:
+  isGsi: true
+  ms.openlocfilehash: 1408e206ccba610bd94d53e0cde2f2f4437aaff9
+  ms.sourcegitcommit: a0ba28352da3bb95884c156f78a65500aad0e001
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 02/16/2021
+  ms.locfileid: "107696271"
+title: Selamat datang di Microsoft Learn
+summary: Pelajari cara mendesain, membangun, menguji, dan memelihara aplikasi dan layanan cloud di lingkungan cloud dan hibrid dengan Microsoft Azure. Apakah Anda sudah atau ingin menjadi Pengembang Microsoft Azure, bangun keterampilan teknis yang Anda butuhkan untuk kembali bekerja.
+hero:
+  title: Selamat datang di Microsoft Learn
+  subTitle: 'Pengembang Azure: Membuat teknologi berfungsi untuk semua orang'
+  summary: Pelajari cara mendesain, membangun, menguji, dan memelihara aplikasi dan layanan cloud di lingkungan cloud dan hibrid dengan Microsoft Azure. Apakah Anda sudah atau ingin menjadi Pengembang Microsoft Azure, bangun keterampilan teknis yang Anda butuhkan untuk kembali bekerja.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/hero-university.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan sertifikasi Microsoft
+  summary: Validasi pengetahuan teknis Anda dengan sertifikasi yang diakui industri yang diminati oleh pengusaha.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/cloud-administrator.svg
+  link:
+    url: /learn/certifications/azure-developer
+    text: Lihat detail sertifikasi
+- title: Lab Pembelajaran GitHub
+  subTitle: Kembangkan keterampilan teknis Anda
+  summary: Berlatih coding, Git, dan GitHub melalui proyek langsung yang dikembangkan oleh dan untuk masyarakat, secara gratis.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/ai-engineer.svg
+  link:
+    url: https://lab.github.com
+    text: Berlatih dengan GitHub Learning Lab
+- title: LinkedIn
+  subTitle: Mencari dan melamar pekerjaan
+  summary: Dapatkan kembali kaki Anda dengan tetap terhubung dan menemukan peluang dengan pekerjaan yang diminati.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/data-scientist.svg
+  link:
+    url: https://opportunity.linkedin.com
+    text: Lihat semua sumber daya di LinkedIn
+curatedSection:
+- title: Pelajari dasar-dasarnya
+  items:
+  - learn.data-ai.evolving-world-of-data
+  - learn.wwl.get-started-with-artificial-intelligence-on-azure
+- title: Tingkatkan keterampilan Anda
+  items:
+  - learn-windows.introduction-to-web-development
+  - learn.languages.python-first-steps
+  - learn.cmu-cloud-computing.cmu-cloud-computing-basics
+  - learn.create-serverless-applications
+  - learn.connect-your-services-together
+  - learn.work-with-relational-data-in-azure
+  - learn.store-data-in-azure
+  - learn.deploy-a-website-with-azure-virtual-machines
+  - learn.manage-resources-in-azure
+  - learn.deploy-a-website-with-azure-app-service
+  - learn.data-science
+  - learn.secure-your-cloud-data
+  - learn.modern-data-warehouse
+  - learn.work-with-nosql-data-in-azure-cosmos-db
+  - learn.data-ai.intro-to-ml-with-python

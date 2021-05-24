@@ -1,0 +1,50 @@
+### YamlMime:TopicLanding
+metadata:
+  isGsi: true
+  ms.openlocfilehash: 0fcf658b27662c071c50515d2ad3af62606a10eb
+  ms.sourcegitcommit: 8dba38534a593fb21a8ae6eaba04f41a2bb05c2a
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 07/01/2020
+  ms.locfileid: "107696205"
+title: Selamat datang di Microsoft Learn
+summary: Pelajari cara mendesain dan menyusun model data untuk mendorong nilai bisnis yang bermakna meskipun visualisasi data yang mudah dipahami menggunakan Microsoft Power BI. Apakah Anda sudah atau ingin menjadi Analis Data, bangun keterampilan teknis yang Anda butuhkan untuk kembali bekerja.
+hero:
+  title: Selamat datang di Microsoft Learn
+  subTitle: 'Analis Data: Membuat keputusan yang bermakna dengan data Anda'
+  summary: Pelajari cara mendesain dan menyusun model data untuk mendorong nilai bisnis yang bermakna meskipun visualisasi data yang mudah dipahami menggunakan Microsoft Power BI. Apakah Anda sudah atau ingin menjadi Analis Data, bangun keterampilan teknis yang Anda butuhkan untuk kembali bekerja.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/hero-university.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan sertifikasi Microsoft
+  summary: Validasi pengetahuan teknis Anda dengan sertifikasi yang diakui industri yang diminati oleh pengusaha.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/cloud-administrator.svg
+  link:
+    url: /learn/certifications/data-analyst-associate
+    text: Lihat detail sertifikasi
+- title: Lab Pembelajaran GitHub
+  subTitle: Kembangkan keterampilan teknis Anda
+  summary: Berlatih coding, Git, dan GitHub melalui proyek langsung yang dikembangkan oleh dan untuk masyarakat, secara gratis.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/ai-engineer.svg
+  link:
+    url: https://lab.github.com
+    text: Berlatih dengan GitHub Learning Lab
+- title: LinkedIn
+  subTitle: Mencari dan melamar pekerjaan
+  summary: Dapatkan kembali kaki Anda dengan tetap terhubung dan menemukan peluang dengan pekerjaan yang diminati.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/data-scientist.svg
+  link:
+    url: https://opportunity.linkedin.com
+    text: Lihat semua sumber daya di LinkedIn
+curatedSection:
+- title: Pelajari dasar-dasarnya
+  items:
+  - learn-bizapps.wwl.power-plat-fundamentals
+  - learn.data-ai.evolving-world-of-data
+  - learn.wwl.get-started-with-artificial-intelligence-on-azure
+- title: Tingkatkan keterampilan Anda
+  items:
+  - learn-bizapps.create-use-analytics-reports-power-bi
+  - learn-dynamics.get-started-using-common-data-service
+  - learn-bizapps.get-started-using-power-bi
+  - learn-dynamics.build-customer-insights

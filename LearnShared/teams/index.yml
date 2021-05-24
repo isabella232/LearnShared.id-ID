@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Microsoft Teams di Microsoft Learn
+summary: 'Hub untuk kerja tim di Microsoft 365: menyatukan orang, percakapan, dan konten.'
+hero:
+  title: Microsoft Learn untuk Microsoft Teams
+  subTitle: Mempelajari Microsoft Teams
+  summary: 'Hub untuk kerja tim di Microsoft 365: menyatukan orang, percakapan, dan konten.'
+  link:
+    url: /learn/browse/?products=office-teams
+    text: Telusuri semua jalur pembelajaran Teams
+  imageUrl: /learn/media/topics/teams-header-background.svg
+featuredSection:
+- title: Terlibat
+  subTitle: Komunitas Teknologi Microsoft Teams
+  summary: Ruang Anda untuk diskusi cara menggunakan dan berbagi praktik terbaik tentang Teams.
+  imageUrl: /learn/media/topics/teams-card-train.svg
+  link:
+    url: https://techcommunity.microsoft.com/t5/microsoft-teams/ct-p/MicrosoftTeams
+    text: Gabung dengan komunitas
+- title: Panduan
+  subTitle: Video dan demo interaktif
+  summary: Dapatkan akses ke lingkungan virtual untuk mempelajari cara menggunakan Teams.
+  imageUrl: /learn/media/topics/teams-card-balloon.svg
+  link:
+    url: https://aka.ms/teamslearnguides
+    text: Lihat panduannya
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tingkatkan karier Anda, dapatkan pengakuan, dan validasi pengetahuan dan kemampuan teknis Anda dalam peran pekerjaan industri saat ini dan masa depan dengan sertifikasi Microsoft Teams.
+  imageUrl: /learn/media/topics/teams-card-lakes.svg
+  link:
+    url: /learn/certifications/browse/?resource_type=certification&products=office-teams
+    text: Jelajahi Sertifikasi
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-m365.teams-meetings
+  - learn-m365.teams-security
+  - learn-m365.teams-direct-routing
+  - learn-m365.teams.onboard-users
+  - learn-m365.teams.navigate-admin-portal
+  - learn-m365.m365-teams-connectivity
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - office-teams
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: b7ad3c85f59915f5f896ed8c775ba252432bcfbc
+  ms.sourcegitcommit: efcd13a433184945fe825bca63aa6f2d486089f0
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "107696218"

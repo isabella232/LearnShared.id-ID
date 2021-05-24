@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Selamat datang di Microsoft Learn
+summary: Jelajahi modul dan jalur pembelajaran dari universitas seperti Universitas Carnegie Mellon dan University of Oxford untuk mempersiapkan Anda berkarier di cloud.
+hero:
+  title: Selamat datang di Microsoft Learn
+  subTitle: Pelajari keterampilan teknologi melalui universitas top
+  summary: Jelajahi modul dan jalur pembelajaran dari universitas seperti Universitas Carnegie Mellon dan University of Oxford untuk mempersiapkan Anda berkarier di cloud.
+  link:
+    url: /learn/browse/?roles=student
+    text: Jelajahi semua modul siswa
+  imageUrl: /learn/media/topics/azure-header-background.svg
+featuredSection:
+- title: Koleksi
+  subTitle: Pengantar Administrasi Cloud
+  summary: Jelajahi kursus Intro to Cloud Administration yang ramah pemula di Universitas Carnegie Mellon.
+  imageUrl: /learn/media/topics/azure-card-balloon.svg
+  link:
+    url: /users/shanam/collections/w3ntn52gzmzn
+    text: Mulai
+- title: Jalur Pembelajaran
+  subTitle: Pengantar Pengembangan Cloud
+  summary: Jelajahi kursus pengembangan cloud Universitas Carnegie Mellon yang lebih canggih.
+  imageUrl: /learn/media/topics/azure-card-airplane.svg
+  link:
+    url: /learn/paths/cmu-cloud-developer-basics/
+    text: Mulai
+- title: Jalur Pembelajaran
+  subTitle: Teknisi AI Edge
+  summary: Pelajari tentang IoT dan AI dengan kursus AI Edge Engineer dari University of Oxford.
+  imageUrl: /learn/media/topics/azure-card-windfarm.svg
+  link:
+    url: /learn/paths/ai-edge-engineer/
+    text: Mulai
+curatedSection:
+- title: Jalan Anda untuk memulai
+  items:
+  - learn.cmu-cloud-admin.cmu-cloud-admin-basics
+  - learn.cmu-cloud-admin.cmu-manage-cloud-resources
+  - learn.ai-edge-engineer
+  - learn.oxford.intro-iot-funtions-iot
+  - learn.cmu-cloud-computing.cmu-cloud-computing-basics
+  - learn.cmu-cloud-computing.how-cloud-works
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk siswa
+  filters:
+    roles:
+    - student
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 3338aed7a018c26cc884dc8b2937be8a6012f9b6
+  ms.sourcegitcommit: 3a85ff24d417a1a944cf582391b1ba31aeb8053a
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 03/06/2021
+  ms.locfileid: "107696287"

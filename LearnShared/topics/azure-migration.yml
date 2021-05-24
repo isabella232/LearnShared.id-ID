@@ -1,0 +1,62 @@
+### YamlMime:TopicLanding
+title: Migrasi Azure di Microsoft Learn
+summary: Migrasi cloud adalah yang terpenting bagi sebagian besar organisasi. Jelajahi bagaimana Anda dapat dengan percaya diri dan efisien menavigasi setiap langkah perjalanan migrasi. Selami lebih dalam langkah-langkah dan praktik terbaik untuk merencanakan dan mengeksekusi migrasi.
+hero:
+  title: Microsoft Learn untuk Migrasi Azure
+  subTitle: Percepat migrasi cloud dengan keterampilan untuk setiap langkah perjalanan
+  summary: Migrasi cloud adalah yang terpenting bagi sebagian besar organisasi. Jelajahi bagaimana Anda dapat dengan percaya diri dan efisien menavigasi setiap langkah perjalanan migrasi. Selami lebih dalam langkah-langkah dan praktik terbaik untuk merencanakan dan mengeksekusi migrasi.
+  imageUrl: /learn/media/topics/azure-header-background.svg
+  link:
+    url: https://azure.com/migration
+    text: Pelajari selengkapnya tentang migrasi Azure
+featuredSection:
+- title: Gambaran Umum
+  subTitle: Panduan praktik terbaik
+  summary: Kerangka Kerja Adopsi Cloud adalah panduan terbukti yang dirancang untuk membantu Anda membuat dan menerapkan strategi bisnis dan teknologi yang diperlukan agar organisasi Anda berhasil di cloud.
+  imageUrl: /learn/media/topics/azure-card-balloon.svg
+  link:
+    url: https://azure.microsoft.com/cloud-adoption-framework/
+    text: Jelajahi Kerangka Kerja Adopsi Cloud
+- title: Program
+  subTitle: Dapatkan bantuan ahli
+  summary: Bergabunglah dengan Program Migrasi Azure dan dapatkan panduan dan bantuan ahli yang Anda butuhkan di setiap tahap perjalanan migrasi cloud. Migrasi infrastruktur, database, dan aplikasi, dan bergeraklah maju dengan percaya diri.
+  imageUrl: /learn/media/topics/azure-card-bridge.svg
+  link:
+    url: https://azure.microsoft.com/migration/migration-program/
+    text: Menjelajahi Program Migrasi Azure
+- title: Layanan
+  subTitle: Gunakan Azure Migrate
+  summary: Manfaatkan Azure Migrate, hub pusat untuk menemukan, menilai, dan memigrasikan semua beban kerja Anda.
+  imageUrl: /learn/media/topics/azure-card-graphs.svg
+  link:
+    url: https://azure.microsoft.com/services/azure-migrate/
+    text: Jelajahi Azure Migrate
+curatedSection:
+- title: Memigrasikan beban kerja umum
+  items:
+  - learn.best-practices-azure-migration
+  - learn-m365.m365-azure-migrate-virtual-machine
+  - learn.azure.migrate-dotnet-apps-azure
+  - learn.wwl.migrate-sql-workloads-to-azure
+  - learn.azure-linux
+  - learn-m365.windows-virtual-desktop
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - azure-migrate
+    - azure-sql-database
+    - azure-app-service
+    - windows-virtual-desktop
+    roles:
+    - administrator
+    - developer
+    - database-administrator
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 3b22546d19fd91b25ad22596895f56d78f29ecf3
+  ms.sourcegitcommit: d27fce9b6b59fda4f78fca194d5ae056fdd6b6b0
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "107696295"

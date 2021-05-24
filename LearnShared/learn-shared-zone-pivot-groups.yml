@@ -1,0 +1,23 @@
+### YamlMime:ZonePivotGroups
+groups:
+- id: supportfaq
+  title: Tanya Jawab Umum tentang Microsoft Learn Support
+  prompt: Apa pertanyaan Anda?
+  pivots:
+  - id: general
+    title: Umum
+  - id: profile
+    title: Profil
+  - id: sandbox
+    title: Sandbox
+  - id: support
+    title: Dukungan
+  - id: educators
+    title: Pendidik
+metadata:
+  ms.openlocfilehash: 1735c24cc538f3150c6462506ea9fb8d64c07df8
+  ms.sourcegitcommit: 8d7b4cd06deebae24575bcd24fce9b2ee9d4c0a1
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 01/22/2021
+  ms.locfileid: "107696261"

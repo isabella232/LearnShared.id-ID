@@ -1,0 +1,41 @@
+### YamlMime:TopicLanding
+title: Analis Data di Microsoft Learn
+summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Analis Data.
+hero:
+  title: Microsoft Belajar Untuk Analis Data
+  subTitle: 'Analis Data: Membuat keputusan yang bermakna dengan data Anda'
+  summary: Anda membuat data mudah dipahami melalui merancang dan membangun model data untuk mendorong nilai bisnis yang bermakna. Dapatkan keterampilan dan pengetahuan yang diperlukan untuk membangun karir Anda sebagai Analis Data yang sukses.
+  link:
+    url: /learn/browse/?roles=data-analyst
+    text: Telusuri semua jalur untuk Analis Data
+  imageUrl: https://docs.microsoft.com/media/learn/topics/blue-hero-background-02.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Pamerkan keahlian Anda membangun model data yang dapat diskalakan, membersihkan dan mengubah data, dan memungkinkan kemampuan analitik tingkat lanjut.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/administrator-m365deployment.svg
+  link:
+    url: /learn/certifications/data-analyst-associate
+    text: Jelajahi Sertifikasi
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-bizapps.create-use-analytics-reports-power-bi
+  - learn-bizapps.get-data-power-bi
+  - learn-dynamics.working-with-customer-insights
+  - learn-bizapps.intro-to-power-bi-service
+  - learn-bizapps.analyze-explore-data-power-bi
+  - learn-bizapps.model-data-power-bi
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk Analis Data
+  filters:
+    roles:
+    - data-analyst
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 17523eb7169be0a15a07b396e933ef74ee5c4522
+  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/26/2020
+  ms.locfileid: "107696184"

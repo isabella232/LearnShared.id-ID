@@ -1,0 +1,48 @@
+### YamlMime:TopicLanding
+title: Pengembang di Microsoft Learn
+summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Pengembang.
+hero:
+  title: Microsoft Belajar Untuk Pengembang
+  subTitle: Membuat teknologi bekerja untuk semua orang
+  summary: Anda merancang, membangun, dan menguji perangkat lunak dan sistem yang membuat teknologi berfungsi, dari aplikasi komersial hingga solusi cloud perusahaan. Dapatkan keterampilan dan pengetahuan yang diperlukan untuk membangun karir Anda sebagai Pengembang yang sukses.
+  link:
+    url: /learn/browse/?roles=developer
+    text: Jelajahi semua jalur untuk Pengembang
+  imageUrl: https://docs.microsoft.com/media/learn/topics/blue-hero-background-02.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan pengetahuan Anda dengan sertifikasi Microsoft untuk Pengembang.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/administrator-m365deployment.svg
+  link:
+    url: /learn/certifications/roles/developer
+    text: Jelajahi Sertifikasi
+- title: Pelatihan
+  subTitle: Kursus yang dipimpin instruktur
+  summary: Pelajari jadwal Anda sendiri dalam pengaturan ruang kelas tradisional, dengan kecepatan Anda sendiri dan di tempat Anda sendiri.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/educator.svg
+  link:
+    url: /learn/certifications/courses/browse/?roles=developer
+    text: Menemukan kursus
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.deploy-a-website-with-azure-app-service
+  - learn.create-serverless-applications
+  - learn.work-with-relational-data-in-azure
+  - learn-m365.msteams-associate
+  - learn.languages.csharp-logic
+  - learn-dynamics.introduction-development
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk Pengembang
+  filters:
+    roles:
+    - developer
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 84253392c5f1b98317bdd062384f701dd6e88796
+  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/26/2020
+  ms.locfileid: "107696180"

@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Dynamics 365 di Microsoft Learn
+summary: Pelajari bagaimana Anda dapat menggunakan Dynamics 365 untuk memenuhi tantangan hari ini dengan menyatukan pelanggan dan bisnis Anda dengan aplikasi CRM dan ERP generasi berikutnya.
+hero:
+  title: Microsoft Learn untuk Dynamics 365
+  subTitle: Microsoft Dynamics 365
+  summary: Pelajari bagaimana Anda dapat menggunakan Dynamics 365 untuk memenuhi tantangan hari ini dengan menyatukan pelanggan dan bisnis Anda dengan aplikasi CRM dan ERP generasi berikutnya.
+  link:
+    url: /learn/browse/?products=dynamics-365
+    text: Telusuri semua jalur pembelajaran Dynamics 365
+  imageUrl: /learn/media/topics/dynamics365-header-background.svg
+featuredSection:
+- title: Acara
+  subTitle: Microsoft Business Applications Summit
+  summary: Daftar sekarang untuk acara digital global ini pada 4 Mei 2021.
+  imageUrl: /learn/media/topics/dynamics365-card-train.svg
+  link:
+    url: https://mymbas.microsoft.com/home
+    text: Jelajahi acara
+- title: Komunitas
+  subTitle: Komunitas Dynamics 365
+  summary: Menyambungkan dan mendiskusikan berita terbaru, pembaruan produk, dan praktik terbaik dengan profesional dan rekan-rekan Microsoft
+  imageUrl: /learn/media/topics/dynamics365-card-satellite.svg
+  link:
+    url: https://community.dynamics.com/
+    text: Bergabunglah dengan komunitas kami
+- title: Acara
+  subTitle: Hari Pelatihan Virtual
+  summary: Acara virtual 1 dan 2 hari ini akan memberi Anda kesempatan untuk memperluas keterampilan Anda dan terhubung dengan pakar Microsoft.
+  imageUrl: /learn/media/topics/dynamics365-card-lakes.svg
+  link:
+    url: https://mvtd.events.microsoft.com/Dynamics365?wt.mc_id=onedestination
+    text: Menelusuri acara pelatihan
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-dynamics.work-dynamics-365-guides
+  - learn-dynamics.get-started-dynamics-365-business-central
+  - learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+  - learn-dynamics.create-surveys
+  - learn-dynamics.get-started-dynamics-365-commerce
+  - learn-dynamics.build-customer-insights
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - dynamics-365
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: dc0d5b7d6d1845cb42892a35ef24270be9f033e6
+  ms.sourcegitcommit: 1fa1003cc333b8ffcedf633730f56db4ff1f73c3
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 04/14/2021
+  ms.locfileid: "107696314"

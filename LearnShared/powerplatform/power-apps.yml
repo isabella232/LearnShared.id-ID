@@ -1,0 +1,52 @@
+### YamlMime:TopicLanding
+title: Power Apps di Microsoft Learn
+summary: Pelajari cara membuat aplikasi berkode rendah yang memodernisasi proses dan menyelesaikan tantangan berat.
+hero:
+  title: Microsoft Learn untuk Power Apps
+  subTitle: Microsoft Power Apps
+  summary: Pelajari cara membuat aplikasi berkode rendah yang memodernisasi proses dan menyelesaikan tantangan berat.
+  imageUrl: /learn/media/topics/monochrome-header-background.svg
+featuredSection:
+- title: Koleksi
+  subTitle: Memulai dengan Power Apps
+  summary: Buat aplikasi yang membantu Anda memecahkan masalah bisnis dan memodernisasi proses.
+  imageUrl: /learn/media/topics/powerapps-card-balloon.svg
+  link:
+    url: https://docs.microsoft.com/users/microsoftpowerplatform-5978/collections/g1kby01do8xzw
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Menjadi pembuat aplikasi
+  summary: Tingkatkan aplikasi Anda, bekerja dengan data, dan pelajari teknik untuk membuat aplikasi profesional.
+  imageUrl: /learn/media/topics/powerapps-card-bridge.svg
+  link:
+    url: https://docs.microsoft.com/users/microsoftpowerplatform-5978/collections/m0js310oz3r5z
+    text: Jelajahi koleksi
+- title: Sertifikasi
+  subTitle: Dapatkan sertifikasi sebagai pembuat aplikasi
+  summary: Jelajahi sertifikasi profesional dan bergabunglah dengan komunitas profesional Power Platform.
+  imageUrl: /learn/media/topics/powerapps-card-train.svg
+  link:
+    url: /learn/certifications/browse/?resource_type=certification&expanded=power-platform&products=common-data-service%2cpower-apps&levels=intermediate
+    text: Jelajahi Sertifikasi
+curatedSection:
+- title: Hal-hal keren yang dapat Anda lakukan untuk menyempurnakan aplikasi Anda
+  items:
+  - learn-bizapps.create-app-models-business-processes
+  - learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+  - learn-bizapps.get-started-power-apps-portals
+  - learn-dynamics.introduction-development
+  - learn-dynamics.extend-power-platform-common-data-service
+  - learn-bizapps.bring-ai
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - power-apps
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: d6fde149142e738c3a512418aafffacc61ae1ca1
+  ms.sourcegitcommit: a232c14edfbe85637a8124c5306c36027f0eab2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/26/2020
+  ms.locfileid: "107696232"

@@ -1,0 +1,50 @@
+### YamlMime:TopicLanding
+title: GitHub di Microsoft Learn
+summary: Pelajari, kembangkan, dan kuasai keterampilan penting Git dan GitHub dan bergabunglah dengan jutaan pengembang dan perusahaan di seluruh dunia untuk membangun, mengirim, dan memelihara perangkat lunak di GitHub - platform pengembangan terbesar dan tercanggih di dunia. Mulailah di sini untuk memulai karir Anda dan tunjukkan tujuan pembelajaran GitHub dasar melalui modul dan jalur interaktif yang menyenangkan.
+hero:
+  title: Microsoft Learn untuk GitHub
+  subTitle: Di mana dunia membangun perangkat lunak
+  summary: Pelajari, kembangkan, dan kuasai keterampilan penting Git dan GitHub dan bergabunglah dengan jutaan pengembang dan perusahaan di seluruh dunia untuk membangun, mengirim, dan memelihara perangkat lunak di GitHub - platform pengembangan terbesar dan tercanggih di dunia. Mulailah di sini untuk memulai karir Anda dan tunjukkan tujuan pembelajaran GitHub dasar melalui modul dan jalur interaktif yang menyenangkan.
+  imageUrl: /learn/media/topics/monochrome-header-background.svg
+featuredSection:
+- title: Program
+  subTitle: Tingkatkan perjalanan Anda dengan GitHub Learning Lab
+  summary: Dengan GitHub Learning Lab, kembangkan keterampilan Anda dengan menyelesaikan proyek yang menyenangkan dan realistis, serta dapatkan saran dan umpan balik bermanfaat dari bot Learning Lab kami yang ramah.
+  imageUrl: /learn/media/topics/azure-card-graphs.svg
+  link:
+    url: https://lab.github.com
+    text: Jelajahi GitHub Learning Lab
+- title: Program
+  subTitle: Apakah Anda seorang siswa atau pendidik?
+  summary: GitHub Education membantu siswa, guru, dan sekolah mengakses alat dan acara yang mereka butuhkan untuk membentuk pengembangan perangkat lunak generasi berikutnya.
+  imageUrl: /learn/media/topics/azure-card-satellite.svg
+  link:
+    url: https://education.github.com
+    text: Jelajahi detil program
+- title: Panduan
+  subTitle: Perluas pengetahuan Anda dengan Panduan GitHub
+  summary: Jelajahi demo fitur, tips, dan hal-hal penting alur kerja untuk penggunaan GitHub harian yang efektif.
+  imageUrl: /learn/media/topics/azure-card-train.svg
+  link:
+    url: https://guides.github.com
+    text: Menelusuri panduan
+curatedSection:
+- title: Jalur pembelajaran yang direkomendasikan untuk pengetahuan GitHub dasar
+  items:
+  - learn.manage-project-lifecycle-github
+  - learn.automate-workflow-github-actions
+  - learn.collaborate-markdown-github-pages
+  - learn.build-community-driven-projects-github
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk GitHub
+  filters:
+    products:
+    - github
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: ffdf2b33ccb0731c910eed516d69a8717065cac3
+  ms.sourcegitcommit: 0fbe528389331959b1f74e98a194455cede2e21f
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 12/04/2020
+  ms.locfileid: "107696237"

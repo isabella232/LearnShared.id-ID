@@ -1,0 +1,58 @@
+### YamlMime:TopicLanding
+title: Organisasi Nirlaba di Microsoft Learn
+summary: Temukan konten pelatihan yang relevan dari Microsoft untuk membantu mendapatkan keterampilan yang dibutuhkan untuk memajukan misi Anda. Di sini Anda akan menemukan konten pelatihan khusus nirlaba dari TechSoup dan mitra lainnya, pelatihan tingkat sertifikasi, dan memiliki kemampuan untuk terhubung langsung dengan karyawan Microsoft Store.
+hero:
+  title: Microsoft Learn untuk Organisasi Nirlaba
+  subTitle: Berdayakan staf nirlaba Anda dengan pelatihan cloud Microsoft
+  summary: Temukan konten pelatihan yang relevan dari Microsoft untuk membantu mendapatkan keterampilan yang dibutuhkan untuk memajukan misi Anda. Di sini Anda akan menemukan konten pelatihan khusus nirlaba dari TechSoup dan mitra lainnya, pelatihan tingkat sertifikasi, dan memiliki kemampuan untuk terhubung langsung dengan karyawan Microsoft Store.
+  imageUrl: /learn/media/topics/azure-header-background.svg
+featuredSection:
+- title: Pelatihan
+  subTitle: Pusat Keterampilan Digital Microsoft untuk Organisasi Nirlaba
+  summary: Akses pelatihan singkat berkonteks nirlaba pada produk Microsoft di Pusat Keterampilan Digital untuk Organisasi Nirlaba di platform TechSoup.
+  imageUrl: /learn/media/topics/azure-card-bridge.svg
+  link:
+    url: https://aka.ms/NonprofitTrainingPortal
+    text: Jelajahi TechSoup
+- title: Koleksi
+  subTitle: Cloud untuk Nirlaba
+  summary: Buka kunci kekuatan data Anda melalui solusi cloud cerdas dan terintegrasi untuk skenario nirlaba yang paling umum.
+  imageUrl: /learn/media/topics/azure-card-balloon.svg
+  link:
+    url: https://aka.ms/CloudforNonprofitCollection
+    text: Jelajahi koleksi
+- title: Pelatihan
+  subTitle: Pelatihan Microsoft Store
+  summary: Terhubung langsung dengan rekan Microsoft untuk pelatihan online gratis yang akan membantu meningkatkan produktivitas Anda.
+  imageUrl: /learn/media/topics/azure-card-train.svg
+  link:
+    url: https://aka.ms/NonprofitMSStoreInfo
+    text: Temukan pelatihan langsung
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-bizapps.wwl.power-plat-fundamentals
+  - learn-dynamics.work-sakes-insights
+  - learn.azure-sql-fundamentals
+  - learn-dynamics.build-customer-insights
+  - learn-bizapps.create-use-analytics-reports-power-bi
+  - learn-dynamics.dynamics-365-for-sales
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - dynamics-365
+    - power-platform
+    roles:
+    - business-user
+    - technology-manager
+    - database-administrator
+    - administrator
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 0013431872c15d8229b6314bf89e618c835fd00f
+  ms.sourcegitcommit: dc697daddbd84d662ca45c09c02914d4b7721dcc
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "108700248"

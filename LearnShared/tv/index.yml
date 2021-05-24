@@ -1,0 +1,75 @@
+### YamlMime:LearnTV
+videoSection:
+  backgroundImage:
+    alt: ''
+    src: media/background.png
+  video:
+    title: Learn TV
+    href: https://mediastream.microsoft.com/events/2020/MSLearn/player/MSLearn.html
+    isSpecialWidePlayer: false
+aboutSection:
+  title: Microsoft Learn TV
+  summary: Pelajari cara membangun solusi dan menggunakan produk Microsoft dari para ahli yang membangunnya! Learn TV adalah tempat untuk menemukan konten digital terbaru sehingga Anda selalu dapat terus memperbarui pengumuman, fitur, dan produk terbaru dari Microsoft. Beri tahu kami apa yang Anda pikirkan dengan tagar LearnTV.
+featuredContentSection:
+  title: Konten Unggulan
+  items:
+  - image:
+      alt: ''
+      src: media/mixed-reality-toolkit-project-unity-social.png
+    title: Menggunakan Mixed Reality Toolkit dengan Unity
+    summary: Pelajari cara mempercepat pengembangan realitas campuran Anda dengan mengimpor Mixed Reality Toolkit ke dalam proyek Unity Anda
+    href: https://docs.microsoft.com/en-us/learn/modules/mixed-reality-toolkit-project-unity/?WT.mc=learntv-spatial-apspeigh
+  - image:
+      alt: ''
+      src: media/JSSeries_512.png
+    title: Seri Pemula ke JavaScript
+    summary: Tonton serial video ini untuk mempercepat salah satu bahasa pemrograman paling populer di dunia
+    href: https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript/?WT.mc_id=learntv-video-learn
+  - image:
+      alt: ''
+      src: media/teams-logo.png
+    title: Membangun Aplikasi untuk Microsoft Teams
+    summary: Aplikasi Microsoft Teams menghadirkan informasi utama, alat umum, dan proses tepercaya tempat orang semakin berkumpul, belajar, dan bekerja. Pelajari cara membuat aplikasi untuk Teams
+    href: https://docs.microsoft.com/en-us/microsoftteams/platform/overview/?WT.mc_id=learntv-video-learn
+  - image:
+      alt: ''
+      src: media/SustainableSoftware.png
+    title: Rekayasa Perangkat Lunak Berkelanjutan
+    summary: Pelajari cara mendefinisikan, membangun, dan menjalankan aplikasi perangkat lunak berkelanjutan dengan menyelami rekayasa perangkat lunak berkelanjutan melalui serangkaian artikel di Microsoft DevBlogs
+    href: https://devblogs.microsoft.com/sustainable-software/?WT.mc=learntv-green-ashussai
+  - image:
+      alt: ''
+      src: media/shows/careers.PNG
+    title: Karir di Balik Kode
+    summary: Dalam episode Careers Behind The Code ini, Scott Hunter, Direktur Mitra untuk tim .NET, menyelami perjalanan kariernya yang membawanya ke Microsoft
+    href: https://channel9.msdn.com/Shows/Careers-Behind-the-Code/?WT.mc_id=learntv-video-learn
+  - image:
+      alt: ''
+      src: media/build2020-logo.png
+    title: Microsoft Ignite 2020
+    summary: Dua hari pembelajaran berkelanjutan di zona waktu Anda dan terus belajar keterampilan baru dengan semua konten yang direkam tersedia secara gratis!
+    href: https://myignite.microsoft.com/sessions/?WT.mc_id=learntv-video-learn
+  - image:
+      alt: ''
+      src: media/learnwithdrGuthals.png
+    title: Belajarlah dengan Dr. G
+    summary: Bergabunglah dengan Dr. G pada eksplorasi pemula melalui kode, data, dan lainnya melalui pembelajaran berbasis cerita
+    href: https://channel9.msdn.com/Shows/Learn-with-Dr-G/?WT.mc_id=learntv-video-learn
+  - image:
+      alt: ''
+      src: media/publish-static-web-app-logo.png
+    title: Menerbitkan aplikasi web dan API dengan Azure Static Web Apps
+    summary: Secara otomatis menerapkan dan memperbarui aplikasi web statis dan API-nya dari repositori GitHub
+    href: https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=learntv-video-learn
+browseMoreSection:
+  title: Menjelajahi konten lainnya di Microsoft Learn
+  href: https://docs.microsoft.com/learn/browse/
+twitterHashtag: learnTV
+metadata:
+  author: brstegge
+  ms.openlocfilehash: fe48c8333650e1f185d87a4459797729b39ee493
+  ms.sourcegitcommit: d7300d2b224bebd6a66826a8a3a7d66d6d73bb59
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/11/2020
+  ms.locfileid: "107696228"

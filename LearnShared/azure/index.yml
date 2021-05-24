@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Azure di Microsoft Learn
+summary: Kembangkan keterampilan Anda untuk membangun dan mengelola aplikasi di cloud, lokal, dan di tepi.
+hero:
+  title: Microsoft Learn untuk Azure
+  subTitle: Microsoft Azure
+  summary: Kembangkan keterampilan Anda untuk membangun dan mengelola aplikasi di cloud, lokal, dan di tepi.
+  link:
+    url: /learn/browse/?products=azure%2Csql-server%2Cwindows-server
+    text: Menelusuri semua jalur pembelajaran Azure
+  imageUrl: /learn/media/topics/azure-header-background.svg
+featuredSection:
+- title: Video
+  subTitle: Sesi Ignite
+  summary: Lihat sesi sesuai permintaan dari Ignite di berbagai solusi dan teknologi.
+  imageUrl: /learn/media/topics/azure-card-train.svg
+  link:
+    url: /events/ignite-mar-2021/azure
+    text: Jelajahi sesi
+- title: Komunitas
+  subTitle: Microsoft Tech Community
+  summary: Menyambungkan dan mendiskusikan berita terbaru, pembaruan produk, dan praktik terbaik dengan profesional dan rekan-rekan Microsoft
+  imageUrl: /learn/media/topics/azure-card-satellite.svg
+  link:
+    url: https://techcommunity.microsoft.com/t5/azure/ct-p/Azure
+    text: Bergabunglah dengan komunitas kami
+- title: Acara
+  subTitle: Hari Pelatihan Virtual
+  summary: Acara virtual 1 dan 2 hari ini akan memberi Anda kesempatan untuk memperluas keterampilan Anda dan terhubung dengan pakar Microsoft.
+  imageUrl: /learn/media/topics/azure-card-lakes.svg
+  link:
+    url: https://mvtd.events.microsoft.com/Azure?wt.mc_id=onedestination
+    text: Menelusuri acara pelatihan
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.az-900-describe-cloud-concepts
+  - learn.manage-resources-in-azure
+  - learn.security.manage-identity-and-access
+  - learn.languages.python-first-steps
+  - learn.azure-sql-fundamentals
+  - learn.azure-well-architected-introduction
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - azure
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 25e41d1739f8431b6c783411350debd8364b1287
+  ms.sourcegitcommit: ecfdd4ee4cfa904a0fabae38a9870ab820e426ab
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "107696279"

@@ -1,0 +1,123 @@
+### YamlMime:Challenge
+howItWorks:
+- section:
+  - title: Bersaing
+    description: Tolok ukur kemajuan Anda terhadap teman dan rekan kerja. Itu selalu lebih baik ketika kita belajar bersama.
+    category: public
+  - title: Tetapkan sasaran
+    description: Tetapkan tujuan untuk menyelesaikan koleksi ini - dengan tujuan Anda lebih mungkin untuk menyelesaikan konten Pelajari.
+    category: private
+- section:
+  - title: Learn
+    description: Tingkatkan pemahaman Anda dengan instruksi yang mudah dibaca dan tetap terjaga di tepi teknologi yang berdarah.
+- section:
+  - title: Kembangkan keterampilan
+    description: Pada akhir tantangan, Anda akan memiliki keterampilan yang dapat dipasarkan untuk lebih baik diri sendiri dan karier Anda.
+collectionSoloFaqs:
+- title: Bagaimana saya mulai?
+  body: "Untuk memulai tantangan ini, daftar dengan mengeklik tombol \"Gabung tantangan\" di atas setelah tantangan dimulai. Anda akan diminta untuk masuk ke akun Microsoft Learn Anda dan akan ditambahkan ke tantangan.    \n\nJika Anda tidak memiliki akun Microsoft Learn, tidak apa-apa. Anda dapat membuat akun gratis dengan memilih \"Buat akun\" dari layar login saat bergabung dengan tantangan. "
+- title: Bagaimana cara menyelesaikan tantangan?
+  body: Untuk menyelesaikan tantangan ini, Anda harus menyelesaikan koleksi konten Learn yang ditunjuk sebelum tanggal akhir tantangan.
+- title: Bagaimana saya bisa tahu apakah saya telah menyelesaikan tantangan?
+  body: Di bagian 'di mana Anda berdiri' Anda akan melihat pecahan yang sama dengan 100% (8/8 atau 5/5 atau 12/12).
+- title: Bagaimana papan peringkat dihitung?
+  body: Papan peringkat menunjukkan berapa banyak modul yang telah Anda selesaikan dari jumlah total modul dalam koleksi.  Ikatan apa pun tercantum menurut abjad.
+- title: Bagaimana jika penyelesaian modul saya tidak muncul?
+  body: Papan peringkat dan bagian 'di mana Anda berdiri' membutuhkan waktu hingga beberapa jam untuk menyegarkan.  Harap tunggu beberapa jam dan periksa lagi.
+- title: Bagaimana cara menemukan semua tantangan saya?
+  body: Anda dapat menemukan semua tantangan yang telah Anda berpartisipasi sebelumnya, atau saat ini berpartisipasi, pada [tab tantangan di profil akun Learn Anda](https://docs.microsoft.com/en-us/users/me/challenges).
+- title: Bagaimana cara memastikan saya menerima email Cloud Skills Challenge?
+  body: Perbarui dan simpan "Email untuk notifikasi" di profil [akun Pelajari.](https://docs.microsoft.com/users/me/settings)
+- title: Bagaimana cara mengubah nama tampilan saya di papan peringkat?
+  body: Perbarui dan simpan "Email untuk notifikasi" di profil [akun Pelajari.](https://docs.microsoft.com/users/me/settings)
+- title: Apa yang harus saya lakukan jika saya mengalami masalah dalam menyelesaikan modul?
+  body: Untuk semua masalah dengan konten Microsoft Learn, tinjau [halaman Pelajari pemecahan masalah.](https://docs.microsoft.com/learn/support/troubleshooting)
+- title: Bagaimana cara menghubungi dukungan Cloud Skills Challenge?
+  body: Silakan email kami di CloudSkillsHelp@microsoft.com.
+collectionTeamsFaqs:
+- title: Bagaimana saya mulai?
+  body: "Untuk memulai tantangan ini, daftar dengan mengeklik tombol \"Gabung tantangan\" di atas setelah tantangan dimulai. Anda akan diminta untuk masuk ke akun Microsoft Learn Anda dan akan ditambahkan ke tantangan.    \n\nJika Anda tidak memiliki akun Microsoft Learn, tidak apa-apa. Anda dapat membuat akun gratis dengan memilih \"Buat akun\" dari layar login saat bergabung dengan tantangan.  "
+- title: Bagaimana cara menyelesaikan tantangan?
+  body: Untuk menyelesaikan tantangan ini, Anda harus menyelesaikan koleksi konten Learn yang ditunjuk sebelum tanggal akhir tantangan.
+- title: Bagaimana saya bisa tahu apakah saya telah menyelesaikan tantangan?
+  body: Di bagian 'di mana Anda berdiri' Anda akan melihat pecahan yang sama dengan 100% (8/8 atau 5/5 atau 12/12).
+- title: Bagaimana papan peringkat dihitung?
+  body: Papan peringkat menunjukkan persentase peserta di setiap tim yang telah menyelesaikan tantangan.  Ikatan apa pun tercantum menurut abjad.
+- title: Bagaimana jika penyelesaian modul saya tidak muncul?
+  body: Papan peringkat dan bagian 'di mana Anda berdiri' membutuhkan waktu hingga beberapa jam untuk menyegarkan.  Harap tunggu beberapa jam dan periksa lagi.
+- title: Bagaimana cara menemukan semua tantangan saya?
+  body: Anda dapat menemukan semua tantangan yang telah Anda berpartisipasi sebelumnya, atau saat ini berpartisipasi, pada [tab tantangan di profil akun Learn Anda](https://docs.microsoft.com/en-us/users/me/challenges).
+- title: Bagaimana cara memastikan saya menerima email Cloud Skills Challenge?
+  body: Perbarui dan simpan "Email untuk notifikasi" di profil [akun Pelajari.](https://docs.microsoft.com/users/me/settings)
+- title: Bagaimana cara mengubah nama tampilan saya di papan peringkat?
+  body: Perbarui dan simpan "Email untuk notifikasi" di profil [akun Pelajari.](https://docs.microsoft.com/users/me/settings)
+- title: Apa yang harus saya lakukan jika saya mengalami masalah dalam menyelesaikan modul?
+  body: Untuk semua masalah dengan konten Microsoft Learn, tinjau [halaman Pelajari pemecahan masalah.](https://docs.microsoft.com/learn/support/troubleshooting)
+- title: Bagaimana cara menghubungi dukungan Cloud Skills Challenge?
+  body: Silakan email kami di CloudSkillsHelp@microsoft.com.
+xpSoloFaqs:
+- title: Bagaimana saya mulai?
+  body: "Untuk memulai tantangan ini, daftar dengan mengeklik tombol \"Gabung tantangan\" di atas setelah tantangan dimulai. Anda akan diminta untuk masuk ke akun Microsoft Learn Anda dan akan ditambahkan ke tantangan.    \n\nJika Anda tidak memiliki akun Microsoft Learn, tidak apa-apa. Anda dapat membuat akun gratis dengan memilih \"Buat akun\" dari layar login saat bergabung dengan tantangan. "
+- title: Bagaimana papan peringkat dihitung?
+  body: Papan peringkat menunjukkan peserta dengan total XP (poin pengalaman) yang diperoleh selama durasi tantangan.  Semua orang mulai dari nol dan XP diperoleh sebelum tantangan dimulai tidak dihitung ke skor Anda. Ikatan apa pun tercantum menurut abjad.
+- title: Bagaimana jika XP (poin pengalaman) saya tidak muncul?
+  body: Papan peringkat dan bagian 'di mana Anda berdiri' membutuhkan waktu hingga beberapa jam untuk menyegarkan.  Harap tunggu beberapa jam dan periksa lagi.
+- title: Bagaimana cara menemukan semua tantangan saya?
+  body: Anda dapat menemukan semua tantangan yang telah Anda berpartisipasi sebelumnya, atau saat ini berpartisipasi, pada [tab tantangan di profil akun Learn Anda](https://docs.microsoft.com/en-us/users/me/challenges).
+- title: Bagaimana cara memastikan saya menerima email Cloud Skills Challenge?
+  body: Perbarui dan simpan "Email untuk notifikasi" di profil [akun Pelajari.](https://docs.microsoft.com/users/me/settings)
+- title: Bagaimana cara mengubah nama tampilan saya di papan peringkat?
+  body: Perbarui dan simpan "Email untuk notifikasi" di profil [akun Pelajari.](https://docs.microsoft.com/users/me/settings)
+- title: Apa yang harus saya lakukan jika saya mengalami masalah dalam menyelesaikan modul?
+  body: Untuk semua masalah dengan konten Microsoft Learn, tinjau [halaman Pelajari pemecahan masalah.](https://docs.microsoft.com/learn/support/troubleshooting)
+- title: Bagaimana cara menghubungi dukungan Cloud Skills Challenge?
+  body: Silakan email kami di CloudSkillsHelp@microsoft.com.
+xpTeamsFaqs:
+- title: Bagaimana saya mulai?
+  body: "Untuk memulai tantangan ini, daftar dengan mengeklik tombol \"Gabung tantangan\" di atas setelah tantangan dimulai. Anda akan diminta untuk masuk ke akun Microsoft Learn Anda dan akan ditambahkan ke tantangan.    \n\nJika Anda tidak memiliki akun Microsoft Learn, tidak apa-apa. Anda dapat membuat akun gratis dengan memilih \"Buat akun\" dari layar login saat bergabung dengan tantangan.  "
+- title: Bagaimana papan peringkat dihitung?
+  body: Papan peringkat menunjukkan peserta dengan total XP (poin pengalaman) yang diperoleh selama durasi tantangan.  Semua orang mulai dari nol dan XP diperoleh sebelum tantangan dimulai tidak dihitung ke skor Anda. Ikatan apa pun tercantum menurut abjad.
+- title: Bagaimana jika XP (poin pengalaman) saya tidak muncul?
+  body: Papan peringkat dan bagian 'di mana Anda berdiri' membutuhkan waktu hingga beberapa jam untuk menyegarkan.  Harap tunggu beberapa jam dan periksa lagi.
+- title: Bagaimana cara menemukan semua tantangan saya?
+  body: Anda dapat menemukan semua tantangan yang telah Anda berpartisipasi sebelumnya, atau saat ini berpartisipasi, pada [tab tantangan di profil akun Learn Anda](https://docs.microsoft.com/en-us/users/me/challenges).
+- title: Bagaimana cara memastikan saya menerima email Cloud Skills Challenge?
+  body: Perbarui dan simpan "Email untuk notifikasi" di profil [akun Pelajari.](https://docs.microsoft.com/users/me/settings)
+- title: Bagaimana cara mengubah nama tampilan saya di papan peringkat?
+  body: Perbarui dan simpan "Email untuk notifikasi" di profil [akun Pelajari.](https://docs.microsoft.com/users/me/settings)
+- title: Apa yang harus saya lakukan jika saya mengalami masalah dalam menyelesaikan modul?
+  body: Untuk semua masalah dengan konten Microsoft Learn, tinjau [halaman Pelajari pemecahan masalah.](https://docs.microsoft.com/learn/support/troubleshooting)
+- title: Bagaimana cara menghubungi dukungan Cloud Skills Challenge?
+  body: Silakan email kami di CloudSkillsHelp@microsoft.com.
+personalChallengeFaqs:
+- title: Bagaimana cara memulai tantangan 30 Days to Learn It?
+  body: >-
+    Untuk memulai tantangan, daftar dengan mengklik tombol "Mulai sekarang". Anda akan diminta untuk masuk ke akun Microsoft Learn Anda dan akan ditambahkan ke tantangan.
+
+
+    Jika Anda tidak memiliki akun Microsoft Learn, tidak apa-apa. Anda dapat membuat akun gratis dengan memilih "Buat akun" dari layar login saat bergabung dengan tantangan.
+- title: Bagaimana cara menyelesaikan tantangan?
+  body: Untuk menyelesaikan tantangan, Anda harus menyelesaikan koleksi konten Pelajari yang ditunjuk sebelum tanggal akhir tantangan (dalam 30 hari setelah mendaftar untuk tantangan).
+- title: Bagaimana saya bisa tahu apakah saya telah menyelesaikan tantangan?
+  body: Di bagian 'di mana Anda berdiri' Anda akan melihat pecahan yang sama dengan 100% (8/8 atau 5/5 atau 12/12).
+- title: Bagaimana jika penyelesaian modul saya tidak muncul?
+  body: Bagian 'di mana Anda berdiri' membutuhkan waktu hingga beberapa jam untuk menyegarkan.  Harap tunggu beberapa jam dan periksa lagi.
+- title: Bagaimana cara menemukan semua tantangan saya?
+  body: Anda dapat menemukan semua tantangan yang telah Anda berpartisipasi sebelumnya, atau saat ini berpartisipasi, pada [tab tantangan di profil akun Learn Anda](https://docs.microsoft.com/en-us/users/me/challenges).
+- title: Bagaimana cara memastikan saya menerima email Cloud Skills Challenge?
+  body: Perbarui dan simpan "Email untuk notifikasi" di profil [akun Pelajari.](https://docs.microsoft.com/users/me/settings)
+- title: Apa yang harus saya lakukan jika saya mengalami masalah dalam menyelesaikan modul?
+  body: Untuk semua masalah dengan konten Microsoft Learn, tinjau [halaman Pelajari pemecahan masalah.](https://docs.microsoft.com/learn/support/troubleshooting)
+- title: Kapan saya akan menerima kode ujian sertifikasi diskon saya?
+  body: Kode ujian sertifikasi diskon akan dikirimkan melalui email dalam waktu 3 hari setelah menyelesaikan semua modul dalam tantangan. Anda harus memiliki "Email untuk pemberitahuan" yang disimpan di profil Microsoft Learn Anda sebelum menyelesaikan tantangan untuk menerima email ini.
+- title: Saya menyelesaikan lebih dari satu tantangan, tetapi hanya menerima satu kode ujian sertifikasi diskon.
+  body: Setiap orang hanya memenuhi syarat untuk menerima satu (1) kode ujian sertifikasi diskon setiap enam bulan. Jika Anda menyelesaikan tantangan tambahan lebih dari enam bulan setelah menerima kode pertama, Anda akan memenuhi syarat untuk kode lain pada saat itu.
+- title: Bagaimana cara menghubungi dukungan Cloud Skills Challenge?
+  body: Silakan email kami di CloudSkillsHelp@microsoft.com.
+metadata:
+  ms.openlocfilehash: d28e111ed078a0135204410ea087f3fc0d8df23d
+  ms.sourcegitcommit: ecfdd4ee4cfa904a0fabae38a9870ab820e426ab
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "107696280"

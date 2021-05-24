@@ -1,0 +1,95 @@
+### YamlMime:TopicLanding
+metadata:
+  robots: no-follow
+  ms.openlocfilehash: 83c133499400f7d8c3148520e911a963fa68d96a
+  ms.sourcegitcommit: 1221777ce416add76f0dd3e0988021572ef425c2
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/19/2021
+  ms.locfileid: "110137797"
+title: Build di Microsoft Learn
+summary: Microsoft Build hanya dilaksanakan setahun sekali, tetapi itu tidak berarti Anda tidak dapat terus mempelajari lebih lanjut tentang produk dan fitur baru yang Anda temukan selama acara berlangsung. Serangkaian jalur dan modul pembelajaran kami yang dikuratori membantu Anda tidak hanya dalam meningkatkan keterampilan yang sudah dimiliki, tetapi juga membantu Anda terus bergerak maju dengan ide-ide baru dan peluang pelatihan.
+hero:
+  title: Microsoft Learn untuk Build
+  subTitle: Terus tingkatkan keahlian Anda dengan Microsoft Learn
+  summary: Microsoft Build hanya dilaksanakan setahun sekali, tetapi itu tidak berarti Anda tidak dapat terus mempelajari lebih lanjut tentang produk dan fitur baru yang Anda temukan selama acara berlangsung. Serangkaian jalur dan modul pembelajaran kami yang dikuratori membantu Anda tidak hanya dalam meningkatkan keterampilan yang sudah dimiliki, tetapi juga membantu Anda terus bergerak maju dengan ide-ide baru dan peluang pelatihan.
+  link:
+    url: /events/
+    text: Jelajahi sesi sesuai permintaan Microsoft lainnya
+  imageUrl: /learn/media/topics/build/header-background.svg
+featuredSection:
+- title: Acara
+  subTitle: Microsoft Virtual Training Days
+  summary: Acara virtual 1 dan 2 hari ini akan memberi Anda kesempatan untuk memperluas keterampilan Anda dan terhubung dengan pakar Microsoft.
+  imageUrl: /learn/media/topics/build/vtd-card.svg
+  link:
+    url: https://mvtd.events.microsoft.com?wt.mc_id=onedestination
+    text: Menelusuri acara pelatihan
+- title: Gambaran Umum
+  subTitle: Azure
+  summary: Pelajari cara membuat dan mengelola aplikasi yang kuat menggunakan layanan cloud Microsoft Azure. Dapatkan dokumentasi, contoh kode, tutorial, dan lainnya.
+  imageUrl: /learn/media/topics/build/azure-card.svg
+  link:
+    url: /learn/azure
+    text: Jelajahi Azure
+- title: Gambaran Umum
+  subTitle: Dynamics 365
+  summary: Beradaptasi dan berinovasi dengan satu-satunya portofolio aplikasi bisnis yang memberdayakan organisasi Anda untuk memberikan keunggulan operasional dan memuaskan setiap pelanggan.
+  imageUrl: /learn/media/topics/build/dynamics365-card.svg
+  link:
+    url: /learn/dynamics365
+    text: Jelajahi Dynamics 365
+- title: Gambaran Umum
+  subTitle: Microsoft 365 & Teams
+  summary: Temukan solusi, skenario, dan sumber daya yang Anda perlukan untuk mulai menggunakan Microsoft 365 dan Teams untuk bisnis atau organisasi Anda.
+  imageUrl: /learn/media/topics/build/m365-card.svg
+  link:
+    url: /learn/m365
+    text: Jelajahi Microsoft 365
+- title: Gambaran Umum
+  subTitle: Power Platform
+  summary: Pelajari cara menganalisis data, membuat aplikasi kustom, mengotomatiskan alur kerja, dan membangun bot cerdas dengan Microsoft Power Platform.
+  imageUrl: /learn/media/topics/build/powerplatform-card.svg
+  link:
+    url: /learn/powerplatform
+    text: Jelajahi Power Platform
+- title: Gambaran Umum
+  subTitle: Keamanan, Kepatuhan, dan Identitas
+  summary: Temukan video teknis, panduan interaktif, dan sumber daya pembelajaran lainnya yang mencakup keamanan, kepatuhan, dan identitas.
+  imageUrl: /learn/media/topics/build/security-card.svg
+  link:
+    url: /learn/topics/sci
+    text: Jelajahi selengkapnya
+curatedSection:
+- title: Jalan Anda untuk memulai
+  items:
+  - learn.wwl.implement-windows-server-hybrid-cloud-infrastructure
+  - learn.wwl.azure-data-fundamentals-explore-core-data-concepts
+  - learn-m365.teams-meetings
+  - learn-m365.teams-direct-routing
+  - learn-dynamics.get-started-inventory-management
+  - learn-bizapps.work-power-virtual-agents
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - azure
+    - dynamics-365
+    - power-platform
+    - m365
+    - office-teams
+    levels:
+    - beginner
+    - intermediate
+    roles:
+    - administrator
+    - maker
+    - business-owner
+    - business-user
+    - data-engineer
+    - developer
+    - functional-consultant
+    - solution-architect
+    - student
+    - technology-manager
+  linkText: Lihat apa yang sedang dipelajari orang lain

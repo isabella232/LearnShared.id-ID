@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Dynamics 365 Supply Chain Management di Microsoft Learn
+summary: Bangun ketahanan dengan rantai pasokan yang tangkas.
+hero:
+  title: Microsoft Learn untuk Dynamics 365 Supply Chain Management
+  subTitle: Dynamics 365 Supply Chain Management
+  summary: Bangun ketahanan dengan rantai pasokan yang tangkas.
+  link:
+    url: /learn/browse/?expanded=dynamics-365&products=dynamics-scm&resource_type=learning%20path
+    text: Jelajahi semua jalur pembelajaran
+  imageUrl: /learn/media/topics/dynamics365-header-background.svg
+featuredSection:
+- title: Koleksi
+  subTitle: Mulai
+  summary: Mulai dari kontrol produksi hingga manajemen aset, jelajahi semua hal yang dapat dilakukan Dynamics 365 Supply Chain Management untuk bisnis Anda.
+  imageUrl: /learn/media/topics/dynamics365-card-airplane.svg
+  link:
+    url: /users/baglearn-5620/collections/eg2kijmp1kjgoy
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Menyebarkan Dynamics 365 Supply Chain Management
+  summary: Pelajari praktik terbaik untuk menyebarkan Dynamics 365 Supply Chain Management dengan sukses, sebagai konsultan atau arsitek solusi.
+  imageUrl: /learn/media/topics/dynamics365-card-graphs.svg
+  link:
+    url: /users/baglearn-5620/collections/7dwmc7ee8nznzz
+    text: Jelajahi koleksi
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan kemampuan Anda dengan sertifikasi profesional dan bergabunglah dengan komunitas profesional Dynamics 365.
+  imageUrl: /learn/media/topics/dynamics365-card-lakes.svg
+  link:
+    url: /learn/certifications/browse/?expanded=dynamics-365&products=dynamics-finance-operations&resource_type=certification&terms=supply%20chain%20management
+    text: Jelajahi Sertifikasi
+curatedSection:
+- title: Pelajari selengkapnya tentang Dynamics 365 Supply Chain Management
+  items:
+  - learn-dynamics.configure-manage-products-inventory-d365-finance-ops
+  - learn-dynamics.configure-manage-procurement-vendors-d365-finance-ops
+  - learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
+  - learn-dynamics.configure-and-use-discrete-manufacturing-in-d365-finance-ops
+  - learn-dynamics.work-asset-management-dyn365-supply-chain-mgmt
+  - learn-dynamics.configure-work-warehouse-management-d365-finance-ops
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - dynamics-scm
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: f07d07b7ab14e6fc0db27d1d897ac688526c979f
+  ms.sourcegitcommit: dc697daddbd84d662ca45c09c02914d4b7721dcc
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/06/2021
+  ms.locfileid: "108685024"

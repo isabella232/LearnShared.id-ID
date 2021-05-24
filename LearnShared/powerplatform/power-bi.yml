@@ -1,0 +1,51 @@
+### YamlMime:TopicLanding
+title: Power BI di Microsoft Learn
+summary: Membaca, membuat, atau memperluas laporan dan dasbor? Tingkatkan keterampilan Anda di sini.
+hero:
+  title: Microsoft Learn untuk Power BI
+  subTitle: Temukan pelatihan Power BI yang tepat untuk Anda
+  summary: Membaca, membuat, atau memperluas laporan dan dasbor? Tingkatkan keterampilan Anda di sini.
+  imageUrl: /learn/media/topics/powerplatform-header-background.svg
+featuredSection:
+- title: Koleksi
+  subTitle: Mulai menggunakan Power BI
+  summary: Pelajari cara memaksimalkan dasbor dan laporan organisasi Anda.
+  imageUrl: /learn/media/topics/powerbi-card-balloon.svg
+  link:
+    url: https://docs.microsoft.com/users/microsoftpowerplatform-5978/collections/k8xidwwnzk1em
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Menjadi Analis Data
+  summary: Analis Data memungkinkan bisnis memaksimalkan nilai aset data mereka dengan menggunakan Microsoft Power BI. Pelajari keterampilan yang diperlukan untuk menjadi Analis Data Bersertifikat Microsoft.
+  imageUrl: /learn/media/topics/powerbi-card-windfarm.svg
+  link:
+    url: https://docs.microsoft.com/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Kembangkan dengan Power Platform
+  summary: Pelajari cara mengembangkan dengan Power Platform, Microsoft Dataverse, Power Apps, dan Kerangka Kerja Komponen Power Apps.
+  imageUrl: /learn/media/topics/powerbi-card-graphs.svg
+  link:
+    url: https://docs.microsoft.com/users/microsoftpowerplatform-5978/collections/z7mudqge07y12
+    text: Jelajahi koleksi
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-bizapps.get-started-using-power-bi
+  - learn-bizapps.create-use-analytics-reports-power-bi
+  - learn-bizapps.get-started-data-analytics
+  - learn-dynamics.introduction-development
+  - learn-bizapps.use-dax-power-bi-desktop
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - power-bi
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 019a14c84762001ccb343321d9d527fb58cab006
+  ms.sourcegitcommit: a232c14edfbe85637a8124c5306c36027f0eab2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/26/2020
+  ms.locfileid: "107696233"

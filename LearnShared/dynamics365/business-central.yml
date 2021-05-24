@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Dynamics 365 Business Central di Microsoft Learn
+summary: Hubungkan operasi di seluruh bisnis kecil atau bisnis berskala menengah Anda dengan Business Central.
+hero:
+  title: Microsoft Learn untuk Dynamics 365 Business Central
+  subTitle: Pusat Bisnis Dynamics 365
+  summary: Hubungkan operasi di seluruh bisnis kecil atau bisnis berskala menengah Anda dengan Business Central.
+  link:
+    url: /learn/browse/?expanded=dynamics-365&products=dynamics-business-central&resource_type=learning%20path
+    text: Jelajahi semua jalur pembelajaran
+  imageUrl: /learn/media/topics/dynamics365-header-background.svg
+featuredSection:
+- title: Koleksi
+  subTitle: Mulai
+  summary: Pelajari cara menghubungkan tim penjualan, layanan, keuangan, dan operasi dengan Business Central.
+  imageUrl: /learn/media/topics/dynamics365-card-train.svg
+  link:
+    url: /users/baglearn-5620/collections/nke2ako136jydk
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Kelola keuangan Anda
+  summary: Pelajari cara menggunakan kemampuan keuangan Business Central untuk mengelola kebutuhan akuntansi Anda.
+  imageUrl: /learn/media/topics/dynamics365-card-windfarm.svg
+  link:
+    url: /users/baglearn-5620/collections/5p03i7w0mmq1zd
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Perluas Pusat Bisnis
+  summary: Pelajari cara mengembangkan dengan Bahasa Aplikasi Pusat Bisnis untuk memperluas dan menghubungkan solusi Anda.
+  imageUrl: /learn/media/topics/dynamics365-card-balloon.svg
+  link:
+    url: /users/baglearn-5620/collections/d82ki43w52m1m4
+    text: Jelajahi koleksi
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-dynamics.trade-get-started-dynamics-365-business-central
+  - learn-dynamics.get-started-inventory-management
+  - learn-dynamics.work-pro-data-dynamics-365-business-central
+  - learn-dynamics.deploy-configure-dynamics-365-business-central
+  - learn-dynamics.development-get-started-business-central
+  - learn-dynamics.power-apps-power-automate-business-central
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - dynamics-business-central
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 217b2dcfe0191b07180e09ff79ef4619e4613aea
+  ms.sourcegitcommit: 27d7155732224a3368bec6b6d972d252672305e2
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 04/29/2021
+  ms.locfileid: "108214164"

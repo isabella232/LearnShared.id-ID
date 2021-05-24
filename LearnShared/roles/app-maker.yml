@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Pembuat Aplikasi di Microsoft Learn
+summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi App Maker.
+hero:
+  title: Microsoft Learn untuk Pembuat Aplikasi
+  subTitle: Bangun aplikasi bisnis dengan cara yang mudah
+  summary: Anda membuat aplikasi dengan teknik kode rendah untuk menyederhanakan, mengotomatiskan, dan mengubah tugas dan proses bisnis. Temukan alat dan keterampilan yang Anda butuhkan untuk mengembangkan karier Anda.
+  link:
+    url: /learn/browse/?roles=maker
+    text: Jelajahi semua jalur untuk Pembuat Aplikasi
+  imageUrl: https://docs.microsoft.com/media/learn/topics/blue-hero-background-03.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan pengetahuan Anda dengan sertifikasi Microsoft sebagai pembuat aplikasi.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/cloud-administrator.svg
+  link:
+    url: /learn/certifications/power-platform-app-maker
+    text: Jelajahi Sertifikasi
+- title: Koleksi
+  subTitle: Pelajari Power Apps
+  summary: Buat aplikasi hebat dengan fungsionalitas yang sebelumnya hanya tersedia untuk pengembang profesional—termasuk komponen AI bawaan.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/data-scientist.svg
+  link:
+    url: /users/microsoftpowerplatform-5978/collections/0ydh1eo884kdj
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Pelajari Power Automate
+  summary: Tingkatkan efisiensi dan keakuratan proses bisnis Anda melalui otomatisasi yang dibuat oleh pakar bisnis Anda.
+  imageUrl: https://docs.microsoft.com/media/learn/topics/ai-engineer.svg
+  link:
+    url: /users/microsoftpowerplatform-5978/collections/xx4bpm7yo208m
+    text: Jelajahi koleksi
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-bizapps.create-powerapps
+  - learn-bizapps.automate-process-using-flow
+  - learn-bizapps.create-app-models-business-processes
+  - learn-bizapps.bring-ai
+  - learn-bizapps.create-use-analytics-reports-power-bi
+  - learn-bizapps.ui-controls-canvas-app-powerapps
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - maker
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 0a894a261d1826ec5020be9ff6003b6c4c668d80
+  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 05/26/2020
+  ms.locfileid: "107696194"

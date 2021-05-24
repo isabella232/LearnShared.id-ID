@@ -1,0 +1,47 @@
+### YamlMime:TopicLanding
+title: Dynamics 365 Sales di Microsoft Learn
+summary: Dukung penjualan digital dengan Dynamics 365 Sales.
+hero:
+  title: Microsoft Learn untuk Dynamics 365 Sales
+  subTitle: Dynamics 365 Sales
+  summary: Dukung penjualan digital dengan Dynamics 365 Sales.
+  link:
+    url: /learn/browse/?expanded=dynamics-365&products=dynamics-sales%2Cdynamics-sales-insights&resource_type=learning%20path
+    text: Jelajahi semua jalur pembelajaran
+  imageUrl: /learn/media/topics/dynamics365-header-background.svg
+featuredSection:
+- title: Koleksi
+  subTitle: Mulai
+  summary: Terhubung dengan pembeli di mana saja dan bangun hubungan di dunia digital menggunakan Dynamics 365 Sales.
+  imageUrl: /learn/media/topics/dynamics365-card-airplane.svg
+  link:
+    url: /users/baglearn-5620/collections/r34ri418ymn36e
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Memahami dan Menganalisis Wawasan Penjualan
+  summary: Cari tahu bagaimana kemampuan pelacakan email, pemahaman otomatis, dan AI Dynamics 365 Sales membantu Anda membangun hubungan positif dengan pelanggan.
+  imageUrl: /learn/media/topics/dynamics365-card-graphs.svg
+  link:
+    url: /users/baglearn-5620/collections/mp1qigxoxz5xz0
+    text: Jelajahi koleksi
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tunjukkan kemampuan Anda dengan sertifikasi profesional dan bergabunglah dengan komunitas profesional Dynamics 365.
+  imageUrl: /learn/media/topics/dynamics365-card-lakes.svg
+  link:
+    url: /learn/certifications/d365-functional-consultant-sales/
+    text: Jelajahi sertifikasi
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - dynamics-sales
+    - dynamics-sales-insights
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: f8fca2b663f0043c90ab12ac95c57e926a75750a
+  ms.sourcegitcommit: 27d7155732224a3368bec6b6d972d252672305e2
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 04/29/2021
+  ms.locfileid: "108214302"

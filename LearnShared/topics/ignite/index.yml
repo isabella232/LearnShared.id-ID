@@ -1,0 +1,96 @@
+### YamlMime:TopicLanding
+title: Ignite di Microsoft Learn
+summary: Belajar tidak berakhir hanya karena acara berakhir. Favoritkan halaman ini dan lanjutkan apa yang Anda mulai di Ignite dari satu lokasi yang nyaman. Temukan cara Anda untuk konten, opsi pelatihan, komunitas, dan detail sertifikasi yang lebih dalam di semua solusi cloud Microsoft di sini.
+hero:
+  title: Microsoft Learn untuk Ignite
+  subTitle: Lanjutkan pembelajaran Anda dengan Microsoft
+  summary: Belajar tidak berakhir hanya karena acara berakhir. Favoritkan halaman ini dan lanjutkan apa yang Anda mulai di Ignite dari satu lokasi yang nyaman. Temukan cara Anda untuk konten, opsi pelatihan, komunitas, dan detail sertifikasi yang lebih dalam di semua solusi cloud Microsoft di sini.
+  imageUrl: /learn/media/topics/ignite/ignite-header-background.png
+featuredSection:
+- title: Gambaran Umum
+  subTitle: Azure
+  summary: Temukan video kedalaman teknis, panduan interaktif, dan sumber daya pembelajaran tambahan yang mencakup Azure.
+  imageUrl: /learn/media/topics/azure-card-balloon.svg
+  link:
+    url: /learn/azure
+    text: Menelusuri konten Azure
+- title: Gambaran Umum
+  subTitle: Dynamics 365
+  summary: Temukan video kedalaman teknis, panduan interaktif, dan sumber daya pembelajaran tambahan yang mencakup Dynamics 365.
+  imageUrl: /learn/media/topics/dynamics365-card-satellite.svg
+  link:
+    url: /learn/dynamics365
+    text: Menelusuri konten Dynamics 365
+- title: Gambaran Umum
+  subTitle: Microsoft 365 & Teams
+  summary: Temukan video kedalaman teknis, panduan interaktif, dan sumber daya pembelajaran tambahan yang mencakup Modern Workplace dan Microsoft 365.
+  imageUrl: /learn/media/topics/m365-card-train.svg
+  link:
+    url: /learn/m365
+    text: Menelusuri konten Microsoft 365 & Teams
+- title: Gambaran Umum
+  subTitle: Power Platform
+  summary: Temukan video kedalaman teknis, panduan interaktif, dan sumber daya pembelajaran tambahan yang mencakup Power Platform.
+  imageUrl: /learn/media/topics/powerbi-card-lakes.svg
+  link:
+    url: /learn/powerplatform
+    text: Menelusuri konten Power Platform
+- title: Gambaran Umum
+  subTitle: Keamanan, Kepatuhan, dan Identitas
+  summary: Temukan video kedalaman teknis, panduan interaktif, dan sumber daya pembelajaran tambahan yang mencakup Dynamics 365.
+  imageUrl: /learn/media/topics/teams-card-graphs.svg
+  link:
+    url: /learn/topics/sci
+    text: Menelusuri konten Keamanan, Kepatuhan, dan Identitas
+- title: Acara
+  subTitle: Microsoft Virtual Training Days
+  summary: Acara virtual 1 dan 2 hari ini akan memberi Anda kesempatan untuk memperluas keterampilan Anda dan terhubung dengan pakar Microsoft.
+  imageUrl: /learn/media/topics/powerapps-card-airplane.svg
+  link:
+    url: https://mvtd.events.microsoft.com?wt.mc_id=onedestination
+    text: Menelusuri acara pelatihan
+curatedSection:
+- title: Jalan Anda untuk memulai
+  items:
+  - learn.wwl.implement-windows-server-hybrid-cloud-infrastructure
+  - learn.wwl.azure-data-fundamentals-explore-core-data-concepts
+  - learn-m365.teams-meetings
+  - learn-m365.teams-direct-routing
+  - learn-dynamics.get-started-inventory-management
+  - learn-bizapps.work-power-virtual-agents
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - azure
+    - azure-active-directory
+    - azure-cloud-shell
+    - azure-portal
+    - azure-storage
+    - azure-virtual-machines
+    - dynamics-365
+    - dynamics-business-central
+    - power-platform
+    - power-virtual-agents
+    - m365
+    levels:
+    - beginner
+    - intermediate
+    roles:
+    - administrator
+    - maker
+    - business-owner
+    - business-user
+    - data-engineer
+    - functional-consultant
+    - solution-architect
+    - student
+    - technology-manager
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 4ed53f7d406c600e31f477a10ed752e711b1c2d1
+  ms.sourcegitcommit: ecfdd4ee4cfa904a0fabae38a9870ab820e426ab
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "107696277"

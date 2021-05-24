@@ -1,0 +1,52 @@
+### YamlMime:TopicLanding
+title: Power Automate di Microsoft Learn
+summary: Pelajari cara membebaskan organisasi Anda dari tugas biasa dengan alur otomatis dan otomatisasi proses robotik (RPA).
+hero:
+  title: Microsoft Learn untuk Power Automate
+  subTitle: Microsoft Power Automate
+  summary: Pelajari cara membebaskan organisasi Anda dari tugas biasa dengan alur otomatis dan otomatisasi proses robotik (RPA).
+  imageUrl: /learn/media/topics/monochrome-header-background.svg
+featuredSection:
+- title: Koleksi
+  subTitle: Pelajari Power Automate
+  summary: Jelajahi cara mengotomatisasi alur proses bisnis Anda dengan Power Automate.
+  imageUrl: /learn/media/topics/powerautomate-card-train.svg
+  link:
+    url: /users/microsoftpowerplatform-5978/collections/xx4bpm7yo208m
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Memperluas cara Anda menggunakan Power Automate
+  summary: Pelajari cara mengimplementasikan RPA, menggabungkan AI, dan menyambungkan ke Microsoft Dataverse.
+  imageUrl: /learn/media/topics/powerautomate-card-graphs.svg
+  link:
+    url: /users/microsoftpowerplatform-5978/collections/2k0adk2q8wpoe
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Menjadi ahli dengan Power Automate Desktop
+  summary: Mulai menggunakan alat Microsoft Power Automate Desktop untuk menggunakan RPA untuk membantu Anda meningkatkan proses bisnis Anda.
+  imageUrl: /learn/media/topics/powerautomate-card-bridge.svg
+  link:
+    url: /users/microsoftpowerplatform-5978/collections/k8xig2jq30oq2
+    text: Jelajahi koleksi
+curatedSection:
+- title: Mulai otomatisasi proses bisnis Anda
+  items:
+  - learn-bizapps.flow-get-started
+  - learn-bizapps.automate-process-using-flow
+  - learn-bizapps.create-business-process-flow
+  - learn-bizapps.get-started-with-ai-builder
+  - learn-bizapps.flow-build-more
+  - learn-bizapps.work-winautomation-technology
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - power-automate
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 5485c9d38a67348c7841ea87ac7c7b8333b4d1be
+  ms.sourcegitcommit: 48123434f54904a396a5616c7c05f9a03bd3a0df
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 03/26/2021
+  ms.locfileid: "107696301"
