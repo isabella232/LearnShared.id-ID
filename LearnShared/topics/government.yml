@@ -31,11 +31,11 @@ featuredSection:
 curatedSection:
 - title: Jalan Anda untuk memulai
   items:
-  - learn.ai-business-school-government
+  - learn.azure.optimize-government-operations
+  - learn.azure.protect-public-sector-data
   - learn.intro-to-azure-government
   - learn.az-900-describe-cloud-concepts
   - learn.wwl.azure-data-fundamentals-explore-core-data-concepts
-  - learn.wwl.get-started-with-artificial-intelligence-on-azure
   - learn.wwl.m365-security-compliance-capabilities
 trendingSection:
   title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
@@ -49,9 +49,9 @@ trendingSection:
     - technology-manager
   linkText: Lihat apa yang sedang dipelajari orang lain
 metadata:
-  ms.openlocfilehash: 4539852af8d45ef2eb8bade94278cd41317a3578
-  ms.sourcegitcommit: 04c16ddbfb187bf0d72cd2c01b43ffad9391925d
+  ms.openlocfilehash: 7ce10b8414256b975cfcadcbed9f4a002e97afc2
+  ms.sourcegitcommit: 1221777ce416add76f0dd3e0988021572ef425c2
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 12/16/2020
-  ms.locfileid: "107696245"
+  ms.lasthandoff: 05/19/2021
+  ms.locfileid: "110137772"

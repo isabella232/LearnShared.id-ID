@@ -8,7 +8,7 @@ hero:
   imageUrl: https://docs.microsoft.com/media/learn/topics/hero-university.svg
 featuredSection:
 - title: Panduan
-  subTitle: Mulai menggunakan Azure
+  subTitle: Memulai Azure
   summary: Pelajari konsep Azure dan bagaimana platform mendukung bisnis Anda melalui tutorial, sampel, dan panduan cara mendetail.
   imageUrl: https://docs.microsoft.com/media/learn/topics/cloud-administrator.svg
   link:
@@ -31,34 +31,30 @@ featuredSection:
 curatedSection:
 - title: Segarkan startup Anda di Microsoft
   items:
-  - learn.tour-azure-portal-features
-  - learn.intro-commercial-marketplace
-  - learn.azure.publish-static-web-app-and-api
+  - learn.azure.intro-to-azure-fundamentals
+  - learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
+  - learn.azure-static-web-apps
+  - learn.create-serverless-applications
+  - learn.wwl.explore-computer-vision-microsoft-azure
+  - learn.administer-containers-in-azure
 trendingSection:
   title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
   filters:
     products:
-    - azure-app-service-static
-    - azure-batch
-    - azure-cdn
-    - azure-cloud-shell
-    - azure-cognitive-services
-    - azure-container-instances
+    - azure-bot-service
+    - azure-cosmos-db
     - azure-database-mysql
-    - azure-database-postgresql
-    - azure-devops
-    - azure-functions
-    - azure-key-vault
-    - azure-linux-vm
+    - azure-iot
     - azure-machine-learning
-    - azure-security-center
-    - vs-code
-    - vs-online
+    - azure-sql-database
+    - azure-stream-analytics
+    - azure-synapse-analytics
+    - power-apps
   linkText: Lihat apa yang sedang dipelajari orang lain
 metadata:
-  ms.openlocfilehash: ba827e0877c1dee75b99d3953332e55fe4d73f60
-  ms.sourcegitcommit: a0ba28352da3bb95884c156f78a65500aad0e001
+  ms.openlocfilehash: 6a60cbd1fa4df99c9ec98575f21f94af94c55820
+  ms.sourcegitcommit: 1221777ce416add76f0dd3e0988021572ef425c2
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 02/16/2021
-  ms.locfileid: "107696272"
+  ms.lasthandoff: 05/19/2021
+  ms.locfileid: "110137716"
