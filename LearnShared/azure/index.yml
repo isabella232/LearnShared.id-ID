@@ -11,16 +11,16 @@ hero:
   imageUrl: /learn/media/topics/azure-header-background.svg
 featuredSection:
 - title: Video
-  subTitle: Sesi Ignite
-  summary: Lihat sesi sesuai permintaan dari Ignite di berbagai solusi dan teknologi.
-  imageUrl: /learn/media/topics/azure-card-train.svg
+  subTitle: Sesi Build
+  summary: Saksikan sesi sesuai permintaan dari Build tentang berbagai solusi dan teknologi.
+  imageUrl: /learn/media/topics/azure-card-balloon.svg
   link:
-    url: /events/ignite-mar-2021/azure
+    url: /events/build-may-2021/azure
     text: Jelajahi sesi
 - title: Komunitas
   subTitle: Microsoft Tech Community
-  summary: Menyambungkan dan mendiskusikan berita terbaru, pembaruan produk, dan praktik terbaik dengan profesional dan rekan-rekan Microsoft
-  imageUrl: /learn/media/topics/azure-card-satellite.svg
+  summary: Terhubung dan diskusikan berita terbaru, informasi produk terbaru, dan praktik terbaik dengan rekan dan profesional Microsoft.
+  imageUrl: /learn/media/topics/azure-card-train.svg
   link:
     url: https://techcommunity.microsoft.com/t5/azure/ct-p/Azure
     text: Bergabunglah dengan komunitas kami
@@ -47,9 +47,9 @@ trendingSection:
     - azure
   linkText: Lihat apa yang sedang dipelajari orang lain
 metadata:
-  ms.openlocfilehash: 25e41d1739f8431b6c783411350debd8364b1287
-  ms.sourcegitcommit: ecfdd4ee4cfa904a0fabae38a9870ab820e426ab
+  ms.openlocfilehash: 531bf609226a7202e45487f1f55c132676410f75
+  ms.sourcegitcommit: 8309c73463be5fd84e25952f07192342da51f33c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 03/04/2021
-  ms.locfileid: "107696279"
+  ms.lasthandoff: 05/12/2021
+  ms.locfileid: "109818379"

@@ -25,11 +25,11 @@ featuredSection:
     url: https://mvtd.events.microsoft.com/Microsoft365?wt.mc_id=onedestination
     text: Menelusuri acara pelatihan
 - title: Jalur pembelajaran
-  subTitle: Microsoft Teams
-  summary: Temukan video kedalaman teknis, panduan interaktif, dan sumber daya pembelajaran tambahan yang mencakup Microsoft Teams.
+  subTitle: Pengembang Microsoft 365 & Teams
+  summary: Temukan jalur pembelajaran online yang mempelajari secara mendalam tentang topik pengembangan Microsoft 365 &amp; Teams termasuk Microsoft Graph, identitas, SharePoint, add-in Office, dan banyak lagi.
   imageUrl: /learn/media/topics/m365-card-balloon.svg
   link:
-    url: /learn/teams
+    url: /learn/browse/?products=m365&roles=developer&resource_type=learning%20path
     text: Telusuri jalur pembelajaran
 curatedSection:
 - title: Jalur Anda untuk memulai
@@ -47,9 +47,9 @@ trendingSection:
     - m365
   linkText: Lihat apa yang sedang dipelajari orang lain
 metadata:
-  ms.openlocfilehash: ce300738199466d202e2544ae85943688d988e9e
-  ms.sourcegitcommit: dc697daddbd84d662ca45c09c02914d4b7721dcc
+  ms.openlocfilehash: 65a6148d48a00a33c7f950082a64f028178570a8
+  ms.sourcegitcommit: 8309c73463be5fd84e25952f07192342da51f33c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 05/06/2021
-  ms.locfileid: "108685049"
+  ms.lasthandoff: 05/12/2021
+  ms.locfileid: "109818294"

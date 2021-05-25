@@ -11,15 +11,15 @@ hero:
   imageUrl: /learn/media/topics/dynamics365-header-background.svg
 featuredSection:
 - title: Acara
-  subTitle: Microsoft Business Applications Summit
-  summary: Daftar sekarang untuk acara digital global ini pada 4 Mei 2021.
+  subTitle: Sesi Build
+  summary: Saksikan sesi sesuai permintaan dari Build tentang berbagai solusi dan teknologi.
   imageUrl: /learn/media/topics/dynamics365-card-train.svg
   link:
-    url: https://mymbas.microsoft.com/home
-    text: Jelajahi acara
+    url: /events/build-may-2021/dynamics-365
+    text: Jelajahi sesi
 - title: Komunitas
-  subTitle: Komunitas Dynamics 365
-  summary: Menyambungkan dan mendiskusikan berita terbaru, pembaruan produk, dan praktik terbaik dengan profesional dan rekan-rekan Microsoft
+  subTitle: Microsoft Tech Community
+  summary: Terhubung dan diskusikan berita terbaru, informasi produk terbaru, dan praktik terbaik dengan rekan dan profesional Microsoft.
   imageUrl: /learn/media/topics/dynamics365-card-satellite.svg
   link:
     url: https://community.dynamics.com/
@@ -47,9 +47,9 @@ trendingSection:
     - dynamics-365
   linkText: Lihat apa yang sedang dipelajari orang lain
 metadata:
-  ms.openlocfilehash: dc0d5b7d6d1845cb42892a35ef24270be9f033e6
-  ms.sourcegitcommit: 1fa1003cc333b8ffcedf633730f56db4ff1f73c3
+  ms.openlocfilehash: 0d7d2d3d31d360dc0fd728b5eba8257f8dd127d4
+  ms.sourcegitcommit: 8309c73463be5fd84e25952f07192342da51f33c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 04/14/2021
-  ms.locfileid: "107696314"
+  ms.lasthandoff: 05/12/2021
+  ms.locfileid: "109818419"
