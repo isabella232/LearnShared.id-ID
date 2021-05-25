@@ -9,12 +9,12 @@ ms.prod: non-product-specific
 zone_pivot_groups: supportfaq
 zone_pivot_group_filename: learn-shared-zone-pivot-groups.yml
 breadcrumb_path: toc.yml
-ms.openlocfilehash: 75e7bfb6fa14990a2822c3f44a64690dc69567e4
-ms.sourcegitcommit: ec8469247233d6f7da5bcd0b782c2f2cf1bed6fa
+ms.openlocfilehash: cf9dfa8975454dceed366648ac2fbefe42dc4877
+ms.sourcegitcommit: 1221777ce416add76f0dd3e0988021572ef425c2
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "107696310"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110137838"
 ---
 # <a name="frequently-asked-questions"></a>Tanya jawab umum
 
@@ -70,6 +70,12 @@ Meskipun hanya memiliki waktu selama beberapa menit, Anda dapat mempelajari hal 
 Koleksi memungkinkan Anda dengan mudah memilih dan mengelola kumpulan konten serta membagikannya dengan siapa saja.
 
 Meskipun koleksi tidak muncul di hasil pencarian atau profil publik Anda, setiap orang yang memiliki URL koleksi dapat mengaksesnya.
+
+## <a name="what-happened-to-bookmarks"></a>Apa yang terjadi dengan bookmark?
+
+Bookmark telah dipindahkan ke koleksi "Favorit" yang baru. Anda dapat menemukan koleksi Favorit di tab Koleksi di profil.
+
+Anda dapat menambahkan favorit baru dengan mengklik tombol "Simpan" di halaman konten, dan memilih koleksi "Favorit" dari daftar.
 
 ## <a name="what-languages-does-microsoft-learn-support"></a>Bahasa apa yang didukung Microsoft Learn?
 
@@ -141,8 +147,9 @@ Untuk mengubah kata sandi akun Microsoft Anda, lihat [panduan ini](https://suppo
 ## <a name="can-i-merge-two-profiles-of-mine-into-one"></a>Dapatkah saya menggabungkan dua profil saya menjadi satu?
 Ya! Misalnya Anda memiliki profil A dan profil B, gabungkan penyelesaian dan prestasi profil B ke profil A dengan mengklik "tambahkan akun" di halaman [Edit Profil Anda](https://techprofile.microsoft.com/edit) saat masuk ke Profil A. Setelah digabungkan, hanya profil A yang akan aktif karena riwayat pembelajaran kedua profil akan digabungkan. Logika penggabungan adalah sebagai berikut:
 - Riwayat pembelajaran dan prestasi Anda akan digabungkan dari profil B ke profil A, dan duplikatnya dihapus.
-- Kontribusi dan aktivitas T&J Anda akan digabungkan dari profil B ke profil A, dan duplikatnya dihapus.
+- Kontribusi dan aktivitas Q&A Anda akan digabungkan, dan duplikatnya dihapus, dari profil B ke profil A. Perhatikan, data tentang siapa/apa yang Anda ikuti di platform Q&A kami tidak akan digabungkan. Harap catat siapa/apa yang Anda ikuti di profil B, lalu ikuti kembali secara manual setelah penggabungan selesai. 
 - Akun tertaut Anda akan digabungkan dari profil B ke profil A. Catatan: jika batas "hingga lima akun kerja atau sekolah dan satu akun pribadi" terlampaui selama proses penggabungan, permintaan penggabungan Anda akan dibatalkan. Jika hal tersebut terjadi, Anda harus mengatasi masalah ini sebelum mencoba lagi. 
+- Item yang Anda simpan dan tantangan yang Anda ikuti akan digabungkan, dan duplikatnya telah dihapus, dari profil B ke profil A. 
 - Mode profil privat akan diaktifkan jika salah satu dari dua profil mengaktifkan pengaturan ini.
 - Semua pengaturan lainnya tidak akan berubah di profil A dan dapat diedit di halaman [Edit Profil Anda](https://techprofile.microsoft.com/edit) setiap saat.
 
@@ -166,7 +173,7 @@ Di sebagian besar pelajaran, Anda tidak perlu menginstal alat pengembangan lokal
 
 ## <a name="do-i-need-an-azure-account-to-use-a-sandbox"></a>Apakah saya memerlukan akun Azure untuk menggunakan kotak pasir?
 
-Tidak. Anda hanya membutuhkan [akun Microsoft](https://account.microsoft.com/account) untuk masuk. Jika tidak memiliki akun, Anda dapat membuatnya secara gratis.
+Nomor. Anda hanya membutuhkan [akun Microsoft](https://account.microsoft.com/account) untuk masuk. Jika Anda tidak memilikinya, Anda dapat membuatnya secara gratis.
 
 ## <a name="can-i-use-the-sandbox-if-i-already-have-an-azure-subscription"></a>Dapatkah saya menggunakan kotak pasir jika sudah memiliki langganan Azure?
 
@@ -178,7 +185,7 @@ Kotak pasir tersedia di setiap modul yang berisi latihan langsung Azure. Setiap 
 
 ![Permintaan Aktifkan Kotak Pasir yang ditampilkan di setiap modul](./media/sandboxfaq1.png)
 
-Jika tombol **Aktifkan Kotak Pasir** dipilih, proses aktivasi akan dimulai. Jika ini adalah kali pertama Anda mengaktifkan kotak pasir di Microsoft Learn, permintaan kedua akan meminta Anda untuk menerima ketentuan lisensi. Untuk menerima ketentuan, Anda harus masuk dengan akun Microsoft, seperti akun Office 365 atau Outlook.com. Jika tidak memiliki akun tersebut, Anda dapat [membuatnya secara gratis.](https://signup.live.com/)
+Jika tombol **Aktifkan Kotak Pasir** dipilih, proses aktivasi akan dimulai. Jika ini adalah kali pertama Anda mengaktifkan kotak pasir di Microsoft Learn, permintaan kedua akan meminta Anda untuk menerima ketentuan lisensi. Untuk menerima ketentuan, Anda harus masuk dengan akun Microsoft, seperti akun Office 365 atau Outlook.com. Jika Anda tidak memilikinya, Anda dapat [membuatnya secara gratis.](https://signup.live.com/)
 
 Kemudian sistem akan membuat kotak pasir baru untuk Anda. Pembuatan kotak pasir memerlukan waktu selama beberapa menit.
 
@@ -201,7 +208,7 @@ Setiap kali mengaktifkan kotak pasir, satu grup sumber daya akan dibuat untuk An
 ![Menu menurun langganan memilih "Concierge Subscription"](./media/sandboxfaq4.png)
 
 ## <a name="can-i-activate-the-sandbox-on-mobile"></a>Dapatkah saya mengaktifkan kotak pasir di perangkat seluler?
-Tidak. Kotak pasir tidak tersedia di perangkat seluler, Anda tidak dapat mengaktifkan atau menggunakan kotak pasir di perangkat seluler. Gunakan desktop untuk menikmati pengalaman pengguna kotak pasir terbaik.
+Nomor. Kotak pasir tidak tersedia di perangkat seluler, Anda tidak dapat mengaktifkan atau menggunakan kotak pasir di perangkat seluler. Gunakan desktop untuk menikmati pengalaman pengguna kotak pasir terbaik.
 
 ## <a name="do-i-need-to-use-the-sandbox"></a>Apakah saya perlu menggunakan kotak pasir?
 
@@ -231,7 +238,7 @@ Ketika Anda mengaktifkan kotak pasir baru, lingkungan kotak pasir lama akan diha
 
 ## <a name="can-i-activate-multiple-sandbox-environments"></a>Dapatkah saya mengaktifkan beberapa lingkungan kotak pasir?
 
-Tidak. Setiap modul memberikan kotak pasir baru sehingga Anda selalu memulai di lingkungan yang benar-benar baru. Sistem mendeteksi ketika Anda beralih dari satu modul ke modul berikutnya, dan meminta Anda untuk mengaktifkan kotak pasir baru. Tampilan perintahnya sebagai berikut:
+Nomor. Setiap modul memberikan kotak pasir baru sehingga Anda selalu memulai di lingkungan yang benar-benar baru. Sistem mendeteksi ketika Anda beralih dari satu modul ke modul berikutnya, dan meminta Anda untuk mengaktifkan kotak pasir baru. Tampilan perintahnya sebagai berikut:
 
 ![Pemberitahuan bahwa kotak pasir lain aktif, dengan tombol untuk mengaktifkan kotak pasir baru.](./media/sandboxfaq8.png)
 
@@ -267,7 +274,7 @@ Tidak, kotak pasir terpisah dari Azure Cloud Shell. Mengatur ulang Azure Cloud S
 
 ## <a name="can-i-save-my-settings-in-the-sandbox-and-come-back-later"></a>Dapatkah saya menyimpan pengaturan di kotak pasir dan menggunakannya kembali nanti?
 
-Tidak. Kotak pasir Anda bersifat sementara dan hanya dapat diakses selama empat jam.
+Nomor. Kotak pasir Anda bersifat sementara dan hanya dapat diakses selama empat jam.
 
 ::: zone-end
 

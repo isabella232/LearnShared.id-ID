@@ -7,12 +7,12 @@ ms.date: 10/21/2020
 ms.topic: article
 ms.prod: non-product-specific
 breadcrumb_path: toc.yml
-ms.openlocfilehash: a8632c7b020e973560c1f3f011fa1a0b3a894d3b
-ms.sourcegitcommit: de16feb9bb4c576b39b9ea545212b2d4a35d2b13
+ms.openlocfilehash: 742083066e39c41531e31c0f81089705ed1ceeb0
+ms.sourcegitcommit: 1221777ce416add76f0dd3e0988021572ef425c2
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "107696291"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110137725"
 ---
 # <a name="microsoft-learn-for-educators"></a>Microsoft Learn untuk Pendidik
 
@@ -72,12 +72,6 @@ Kursus ini memberikan pengetahuan tingkat dasar tentang layanan cloud dan konsep
 
 Unduh lembar data kursus [di sini.](https://aka.ms/az-900-coursedatasheet)
 
-#### <a name="microsoft-power-platform-fundamentals"></a>Microsoft Power Platform Fundamentals
-
-Kursus ini memberikan pelatihan tentang nilai bisnis dan kemampuan Power Platform. Kursus ini akan membahas cara membuat dasbor Power BI, membuat pengalaman aplikasi kanvas Power Apps sederhana, menghubungkan data dengan Common Data Service untuk aplikasi, dan mengotomatiskan proses alur kerja dengan Power Automate. Penyelesaian kursus akan mempersiapkan siswa untuk ujian sertifikasi *[PL-900: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/learn/certifications/power-platform-fundamentals)* .
-
-Unduh lembar data kursus [di sini.](https://aka.ms/pl-900-coursedatasheet)
-
 #### <a name="azure-ai-fundamentals"></a>Azure AI Fundamentals
 
 Kursus ini memberikan pelatihan tentang cara mendemonstrasikan pengetahuan terkait beban kerja Pembelajaran Mesin (ML) dan Kecerdasan Buatan (AI) umum serta cara mengimplementasikannya di Azure. Kursus ini akan mencakup pengetahuan dasar tentang beban kerja AI, prinsip ML, serta fitur visi komputer dan AI percakapan yang terkait dengan layanan Microsoft Azure.  Penyelesaian kursus ini akan mempersiapkan siswa untuk ujian sertifikasi *[AI-900: Microsoft Azure AI Fundamentals](https://docs.microsoft.com/learn/certifications/exams/ai-900)* dan dapat digunakan untuk mempersiapkan, tetapi bukan prasyarat untuk sertifikasi berbasis peran Azure lainnya termasuk *Microsoft Certified: [Azure Data Scientist Associate](https://docs.microsoft.com/learn/certifications/azure-data-scientist)* atau *Microsoft Certified: [Azure AI Engineer Associate](https://docs.microsoft.com/learn/certifications/azure-ai-engineer).*
@@ -89,6 +83,30 @@ Unduh lembar data kursus [di sini.](https://aka.ms/ai-900-coursedatasheet)
 Kursus ini memberikan pelatihan tentang konsep data relasi dan non-relasi, serta berbagai jenis beban kerja data seperti transaksi atau analitis.  Kursus ini akan membahas konsep data inti dan bekerja dengan data relasi dan non-relasi di Microsoft Azure.  Penyelesaian kursus ini mempersiapkan siswa untuk ujian sertifikasi *[DP-900: Microsoft Azure Data Fundamentals](https://docs.microsoft.com/learn/certifications/exams/dp-900)* dan dapat digunakan untuk mempersiapkan, tetapi bukan prasyarat untuk sertifikasi berbasis peran Azure lainnya termasuk *Microsoft Certified: [Azure Database Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-database-administrator-associate)* atau *Microsoft Certified: [Azure Data Engineer Associate](https://docs.microsoft.com/learn/certifications/azure-data-engineer)* .
 
 Unduh lembar data kursus [di sini.](https://aka.ms/dp-900-coursedatasheet)
+
+#### <a name="microsoft-security-compliance-and-identity-fundamentals"></a>Microsoft Security, Compliance, and Identity Fundamentals
+
+Kursus ini akan memberi Anda pengantar umum tentang dasar-dasar keamanan, kepatuhan, dan identitas (SCI) di seluruh layanan Microsoft dan berbasis cloud. Kursus yang dirancang untuk siswa yang dapat menggunakan Microsoft Azure dan Microsoft 365 ini akan membahas konsep inti, prinsip, dan metodologi yang mendasari solusi keamanan, kepatuhan, dan identitas, termasuk Zero-Trust, tanggung jawab bersama, prinsip privasi kami, dan banyak lagi. Anda juga akan mempelajari tentang manajemen identitas dan akses beserta solusi kepatuhan di Microsoft Cloud. Penyelesaian kursus ini mempersiapkan siswa untuk ujian sertifikasi *[SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://docs.microsoft.com/learn/certifications/exams/sc-900)* dan dapat digunakan untuk mempersiapkan, tetapi bukan prasyarat untuk [sertifikasi berbasis peran SCI](https://docs.microsoft.com/learn/certifications/browse/?resource_type=certification&products=azure%2Cm365&terms=SC-&expanded=azure%2Cm365) lainnya.
+
+Unduh lembar data kursus [di sini.](https://aka.ms/sc-900-coursedatasheet)
+
+#### <a name="microsoft-power-platform-fundamentals"></a>Microsoft Power Platform Fundamentals
+
+Kursus ini memberikan pelatihan tentang nilai bisnis dan kemampuan Power Platform. Pelajari nilai bisnis dan kemampuan produk Power Platform. Buat Power Apps sederhana, hubungkan data dengan Dataverse, bangun Dasbor Power BI, otomatiskan proses dengan Power Automate, dan buat chatbot dengan Power Virtual Agents. Penyelesaian kursus akan mempersiapkan siswa untuk ujian sertifikasi *[PL-900: Microsoft Power Platform Fundamentals](https://docs.microsoft.com/learn/certifications/power-platform-fundamentals)* .
+
+Unduh lembar data kursus [di sini.](https://aka.ms/pl-900-coursedatasheet)
+
+#### <a name="dynamics-365-fundamentals-crm"></a>Dynamics 365 Fundamentals (CRM)
+
+Kursus ini akan memberi Anda pengantar umum tentang kemampuan keterlibatan pelanggan Dynamics 365. Anda akan mengenal konsep keterlibatan pelanggan, serta setiap aplikasi keterlibatan pelanggan, termasuk Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, dan kemampuan manajemen hubungan pelanggan (CRM) Dynamics 365 Project Operations. Kursus ini akan mencakup kuliah serta praktik langsung.  Penyelesaian kursus akan mempersiapkan siswa untuk ujian sertifikasi *[MB-910: Dynamics Fundamentals (CRM)](https://docs.microsoft.com/learn/certifications/exams/mb-910)* .
+
+Unduh lembar data kursus [di sini.](https://aka.ms/mb-910-coursedatasheet)
+
+#### <a name="dynamics-365-fundamentals-erp"></a>Dynamics 365 Fundamentals (CRM)
+
+Kursus ini akan memberi Anda pengantar umum tentang kemampuan operasi dan keuangan Dynamics 365. Anda akan mengenal konsep manajemen sumber daya perusahaan (ERP), serta setiap aplikasi keuangan dan operasi, termasuk Dynamics 365 Supply Chain Management, Dynamics 365 Finance, Dynamics 365 Commerce, Dynamics 365 Human Resources, dan kemampuan ERP Dynamics 365 Project Operations. Kursus ini akan mencakup kuliah serta praktik langsung.  Penyelesaian kursus akan mempersiapkan siswa untuk ujian sertifikasi *[MB-920: Dynamics Fundamentals (ERP)](https://docs.microsoft.com/learn/certifications/exams/mb-920)* .
+
+Unduh lembar data kursus [di sini.](https://aka.ms/mb-920-coursedatasheet)
 
 ### <a name="microsoft-certification-practice-exam"></a>Ujian praktik Sertifikasi Microsoft
 

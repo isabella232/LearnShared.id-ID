@@ -7,6 +7,13 @@ hero:
   summary: Solusi keamanan, kepatuhan, dan identitas Microsoft dibuat untuk memberdayakan organisasi Anda, membuat Anda tetap tangguh dan gesit. Ini terintegrasi di seluruh platform, cloud, dan layanan, dan membantu memperkuat keamanan beban kerja cloud dan merampingkan manajemen keamanan. Jelajahi sumber daya ini untuk mempelajari selengkapnya tentang solusi keamanan, identitas, dan kepatuhan Microsoft.
   imageUrl: /learn/media/topics/azure-header-background.svg
 featuredSection:
+- title: Video
+  subTitle: Sesi Build
+  summary: Saksikan sesi sesuai permintaan dari Build tentang berbagai solusi dan teknologi.
+  imageUrl: /learn/media/topics/azure-card-train.svg
+  link:
+    url: /events/build-may-2021/security-compliance-and-identity
+    text: Jelajahi sesi
 - title: Jelajahi
   subTitle: Microsoft Security Technical Content Library
   summary: Temukan konten teknis yang relevan untuk Anda. Cari berdasarkan peran, tingkat pengalaman, produk, topik, dan lainnya.
@@ -21,13 +28,6 @@ featuredSection:
   link:
     url: /learn/certifications/browse/?resource_type=certification&terms=SC-
     text: Jelajahi Sertifikasi
-- title: Video
-  subTitle: Sesi Ignite
-  summary: Lihat sesi sesuai permintaan dari Ignite di berbagai solusi dan teknologi.
-  imageUrl: /learn/media/topics/azure-card-train.svg
-  link:
-    url: /events/ignite-mar-2021/security-compliance-and-identity/
-    text: Jelajahi sesi
 curatedSection:
 - title: Jalur Anda untuk memulai
   items:
@@ -57,9 +57,9 @@ trendingSection:
     - security-engineer
   linkText: Lihat apa yang sedang dipelajari orang lain
 metadata:
-  ms.openlocfilehash: cbfc7d41c09b240f8c476c656c8a06f4f0d27483
-  ms.sourcegitcommit: ecfdd4ee4cfa904a0fabae38a9870ab820e426ab
+  ms.openlocfilehash: 7e4b60b7b0a4b38aa0304a47863688f80e165107
+  ms.sourcegitcommit: 8309c73463be5fd84e25952f07192342da51f33c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 03/04/2021
-  ms.locfileid: "107696278"
+  ms.lasthandoff: 05/12/2021
+  ms.locfileid: "109818384"
