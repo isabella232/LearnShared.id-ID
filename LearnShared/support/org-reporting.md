@@ -7,12 +7,12 @@ ms.date: 05/13/2021
 ms.topic: article
 ms.prod: non-product-specific
 org_reporting: true
-ms.openlocfilehash: 78d7c75520aab2392e08a1df8f38172873abd145
-ms.sourcegitcommit: 1221777ce416add76f0dd3e0988021572ef425c2
+ms.openlocfilehash: 32cb2ab392709199a7abd464dc88dcde5f975d8e
+ms.sourcegitcommit: 22bbe2b076476c24d91cf92554d64076f342a9d0
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110137854"
+ms.lasthandoff: 05/25/2021
+ms.locfileid: "110351750"
 ---
 # <a name="get-started-with-the-microsoft-learn-organizational-reporting-service"></a>Mulai menggunakan layanan Microsoft Learn Organizational Reporting
 
@@ -24,8 +24,7 @@ Microsoft Learn Organizational Reporting adalah layanan yang tersedia bagi pelan
 
 Organisasi dapat membuat dan mengelola bagian data mereka menggunakan UI tanpa kode Azure Data Share.
 
-<!--- <div id="org-reporting-container" class="has-margin-top-medium"><button id="org-reporting-button" class="button is-primary">Get started</button></div>
----->
+<div id="org-reporting-container" class="has-margin-top-medium"><button id="org-reporting-button" class="button is-primary">Mulai</button></div>
 
 Sistem ini memungkinkan organisasi untuk mengekstrak, mengubah, dan memuat (ETL) data kemajuan pengguna menjadi himpunan data, untuk diproses lebih lanjut atau ditampilkan dalam alat visualisasi seperti Power BI. Himpunan data dapat disimpan di Azure Data Lake, penyimpanan Azure Blob, database Azure SQL, atau Azure Synapse SQL Pool. Organisasi dapat membuat dan mengelola bagian data mereka menggunakan UI tanpa kode Azure Data Share.
 
@@ -52,10 +51,6 @@ Dalam himpunan data, setiap pengguna akan diberi ID objek unik dan informasi pen
 > Dengan menggunakan layanan berbagi data ini, Anda menerima dan menyetujui **[Perjanjian Akses dan Berbagi Data Microsoft Learn](/legal/learn/reporting/terms)** untuk mengizinkan Microsoft berbagi data Learn dengan organisasi Anda untuk pengguna Learn yang masuk dengan ID penyewa organisasi Anda.
 
 ## <a name="setup-learn-organizational-reporting"></a>Siapkan Learn Organizational Reporting  
-
-
-> [!NOTE]
-> Layanan Microsoft Learn Organizational Reporting dihentikan untuk sementara untuk onboarding baru. Jika memiliki pertanyaan, silakan hubungi dukungan di learnfororg@microsoft.com.
 
 Membuat instans Learn Organizational Reporting untuk organisasi Anda memerlukan beberapa langkah: 
 
@@ -203,7 +198,7 @@ Untuk mengunduh daftar pengguna:
 1. Buka **Azure Active Directory > Pengguna**. 
 1. Pilih **pengguna yang ingin Anda sertakan dalam unduhan** dengan mencentang kotak di kolom kiri di samping setiap pengguna. *Catatan: Saat ini, tidak ada cara untuk memilih semua pengguna yang akan diekspor. Setiap pengguna harus dipilih satu per satu.*
 1. Di Azure AD, pilih  **Pengguna > Unduh pengguna**.
-1. Pada halaman **Unduh pengguna**, pilih **Mulai** untuk mendapatkan file CSV yang berisi properti profil pengguna. Jika ada kesalahan, Anda dapat mengunduh dan melihat file hasil di halaman hasil operasi Massal. File berisi alasan untuk setiap kesalahan.
+1. Pada halaman **Unduh pengguna**, pilih **Mulai** untuk mendapatkan file CSV yang berisi properti profil pengguna. Jika terjadi kesalahan, Anda dapat mengunduh dan melihat file hasil di halaman Hasil operasi massal. File berisi alasan untuk setiap kesalahan.
 
     :::image type="content" source="media/Download_csv.png" alt-text="Portal Azure memperlihatkan tombol untuk mengunduh file CSV pengguna.":::
 
@@ -213,23 +208,23 @@ Untuk mengunduh daftar pengguna:
 
     - userPrincipalName
     - displayName
-    - nama belakang
+    - surname
     - mail
     - givenName
     - objectId
     - userType
-    - jabatan
-    - departemen
+    - jobTitle
+    - department
     - accountEnabled
     - usageLocation
     - streetAddress
-    - status
-    - negara
+    - state
+    - country
     - physicalDeliveryOfficeName
-    - kota
+    - city
     - postalCode
     - telephoneNumber
-    - seluler
+    - mobile
     - authenticationAlternativePhoneNumber
     - authenticationEmail
     - alternateEmailAddress
