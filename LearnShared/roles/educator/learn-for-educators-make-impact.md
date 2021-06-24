@@ -7,18 +7,20 @@ ms.date: 11/16/2020
 ms.topic: article
 ms.prod: non-product-specific
 breadcrumb_path: toc.yml
-ms.openlocfilehash: 4195c8dfc8c093f3eb701e6ee866d15b2a08c040
-ms.sourcegitcommit: 7b98b56c8e5bb1bdf66dda665bc9e6f307c65845
+ms.openlocfilehash: b197109bc19dc31ff5101ede0c861763bb23a312
+ms.sourcegitcommit: 957fb8da5fdd8828bdcf0c5d21f7c0e3eac49d98
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "107696258"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "111446978"
 ---
 # <a name="influence"></a>Pengaruh
 
 ## <a name="make-an-impact"></a>Membuat dampak
 
 Keahlian fakultas, ditambah dengan program Microsoft Learn for Educators, telah memberi siswa keterampilan teknis yang berharga dan sertifikasi Microsoft. Berikut adalah beberapa contoh bagaimana institusi di seluruh dunia membuat dampak dalam kehidupan siswa dengan program ini:
+
+- [Keterampilan dan sertifikasi keamanan siber membuka kesempatan untuk mendapatkan pekerjaan favorit berikutnya bagi lulusan baru](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/cybersecurity-skills-and-certifications-open-doors-to-the-next/ba-p/1820644)
 
 - [Melengkapi Generasi Masa Depan: Kisah Dua Universitas](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/skilling-future-generations-a-tale-of-two-universities/ba-p/1489672)
 

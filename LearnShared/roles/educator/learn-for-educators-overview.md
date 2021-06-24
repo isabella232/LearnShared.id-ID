@@ -7,12 +7,12 @@ ms.date: 10/21/2020
 ms.topic: article
 ms.prod: non-product-specific
 breadcrumb_path: toc.yml
-ms.openlocfilehash: 742083066e39c41531e31c0f81089705ed1ceeb0
-ms.sourcegitcommit: 1221777ce416add76f0dd3e0988021572ef425c2
+ms.openlocfilehash: 2e726000392e7efe258d88bea531002460d6ef04
+ms.sourcegitcommit: 957fb8da5fdd8828bdcf0c5d21f7c0e3eac49d98
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110137725"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "111447003"
 ---
 # <a name="microsoft-learn-for-educators"></a>Microsoft Learn untuk Pendidik
 
@@ -24,21 +24,23 @@ Sebagai pendidik, Anda berperan penting dalam memberdayakan siswa agar sukses di
 
 Apakah Anda anggota pengajar yang ingin membangun keterampilan teknis siswa Anda? Apakah departemen atau lembaga Anda ingin mengubah kurikulum teknologinya untuk mempersiapkan siswa meniti karier di masa depan? Lihat opsi kami untuk menentukan pendekatan yang tepat untuk Anda.
 
-|     Penawaran                            |Lembaga Pendidikan |Pendidik Individu |
-|:----------------------------------------|:-------------------:|:-------------:|
-|[Kurikulum dan bahan ajar Microsoft](#microsoft-curriculum-and-teaching-materials)| Ya| Ya|
+| Penawaran | Lembaga Pendidikan | Pendidik Individu |
+|:---------|:------------------------|:--------------------|
+|[Kurikulum dan bahan ajar Microsoft*](#microsoft-curriculum-and-teaching-materials)| Ya| Ya|
 |[Ujian praktik Microsoft Certification](#microsoft-certification-practice-exam)|Gratis|Diskon|
 |[Voucher ujian Microsoft Certification](#microsoft-certification-exam-voucher)|Gratis|Diskon|
-|[Jam kerja](#office-hours)|Ya                  |Tidak             |
-|[Manajer program pelatihan](#training-program-manager)|Ya                  |Tidak             |
+|[Jam kerja*](#office-hours)|Ya                  |Tidak             |
+|[Manajer program pelatihan*](#training-program-manager)|Ya                  |Tidak             |
 |[Dukungan integrasi kurikulum](#curriculum-integration-support)|Ya                  |Tidak             |
-|[Pelaporan wawasan dan data](#data-and-insights-reporting)|Ya                  |Tidak             |
-|[Peluang Humas bersama dengan Microsoft PR Tool Kit](#pr-toolkit)|Ya|Tidak|
-|[Rekaman Sesi Persiapan Pendidik Virtual Sesuai Permintaan](learn-for-educators-training.md#get-ready-to-teach)|Ya |Ya |
-|[Sesi Persiapan Pendidik Virtual Langsung](learn-for-educators-training.md#get-ready-to-teach)|Ya |Tidak |
-|[Pelatihan teknis melalui Microsoft Virtual Training Days](learn-for-educators-training.md#get-skilled)|Ya |Ya|
+|[Pelaporan data dan wawasan*](#data-and-insights-reporting)|Ya                  |Tidak             |
+|[Peluang Humas bersama dengan Microsoft PR Tool Kit*](#pr-toolkit)|Ya|Tidak|
+|[Rekaman Sesi Persiapan Pendidik Virtual Sesuai Permintaan*](learn-for-educators-training.md#get-ready-to-teach)|Ya |Ya |
+|[Sesi Persiapan Pendidik Virtual Langsung*](learn-for-educators-training.md#get-ready-to-teach)|Ya |Tidak |
+|[Pelatihan teknis melalui Microsoft Virtual Training Days*](learn-for-educators-training.md#get-skilled)|Ya |Ya|
 |[Alat pilihan untuk mengajar](learn-for-educators-training.md#tools-for-teaching)|Ya|Ya|
-|[Komunitas Microsoft Learn untuk Pendidik](learn-for-educators-make-impact.md#community)|Ya|Ya|
+|[Komunitas Microsoft Learn untuk Pendidik*](learn-for-educators-make-impact.md#community)|Ya|Ya|
+
+**penawaran gratis*
 
 ### <a name="sign-up"></a>Daftar
 

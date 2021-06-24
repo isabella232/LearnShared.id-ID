@@ -7,12 +7,12 @@ ms.date: 05/13/2021
 ms.topic: article
 ms.prod: non-product-specific
 org_reporting: true
-ms.openlocfilehash: 32cb2ab392709199a7abd464dc88dcde5f975d8e
-ms.sourcegitcommit: 22bbe2b076476c24d91cf92554d64076f342a9d0
+ms.openlocfilehash: 86353b272f48525e85ea31bcdb3e5b799b62ee15
+ms.sourcegitcommit: 4706d5a0a2b222fe2e48811f843bc1f79c7aea55
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "110351750"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "110601541"
 ---
 # <a name="get-started-with-the-microsoft-learn-organizational-reporting-service"></a>Mulai menggunakan layanan Microsoft Learn Organizational Reporting
 
@@ -214,14 +214,14 @@ Untuk mengunduh daftar pengguna:
     - objectId
     - userType
     - jobTitle
-    - department
+    - departemen
     - accountEnabled
     - usageLocation
     - streetAddress
-    - state
-    - country
+    - status
+    - negara
     - physicalDeliveryOfficeName
-    - city
+    - kota
     - postalCode
     - telephoneNumber
     - mobile
@@ -320,3 +320,9 @@ Azure Data Share memungkinkan satu penyewa per bagian data untuk layanan pelapor
 ### <a name="is-a-data-explorer-available-for-this-data-share-service"></a>Apakah penjelajah data tersedia untuk layanan berbagi data ini?
 
 Pelanggan dapat melihat himpunan data yang tersedia di portal Azure melalui Azure Data Share. Setelah himpunan data dipetakan ke tujuan oleh pelanggan ke penyewa pelanggan, data dapat ditampilkan menggunakan alat yang berlaku untuk setiap tipe tujuan. Misalnya, peralatan terkait SQL dapat digunakan untuk tujuan SQL. 
+
+### <a name="my-data-stopped-syncing-how-do-i-fix-this"></a>Data saya berhenti disinkronkan, bagaimana cara memperbaikinya?
+
+Masalah ini muncul jika Anda membuat berbagi data pelaporan organisasi sebelum 24 Mei 2021. Kami memperbarui layanan dengan cara yang mengharuskan Anda menyiapkan ulang berbagi data dan menyambungkan sumber data baru ke laporan yang sudah ada jika Anda ingin terus menerima data pelaporan organisasi. Anda tidak harus menerima persyaratan baru. Untuk memperbarui koneksi Anda, buka [bagian Penyiapan Pelajari pelaporan organisasi](#setup-learn-organizational-reporting) di atas lalu ikuti langkah-langkahnya.
+
+Setelah itu, Anda akan dapat melihat Azure Data Share baru dari Portal Azure, mirip dengan sebelumnya. Anda juga masih dapat melihat Azure Data Share yang lama di sana, tetapi Anda dapat memilih untuk menghapusnya karena berbagi data yang baru juga menyediakan riwayat lengkap. Jika Anda memiliki pertanyaan tentang hal ini, silakan hubungi tim [Pelaporan Organisasi Microsoft Learn](mailto:learnfororg@microsoft.com).
