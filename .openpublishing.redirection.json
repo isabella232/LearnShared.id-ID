@@ -2,8 +2,38 @@
     "redirections": [
         {
             "source_path": "LearnShared/support/educator-resources.md",
-            "redirect_url": "https://docs.microsoft.com/learn/roles/educator/",
+            "redirect_url": "https://docs.microsoft.com/learn/educator-center/programs/MSLE",
             "redirect_document_id": true
+             },
+        {
+            "source_path": "LearnShared/roles/educator/learn-for-educators-make-impact.md",
+            "redirect_url": "https://docs.microsoft.com/learn/educator-center/programs/msle/influence",
+            "redirect_document_id": true
+             },
+        {
+             "source_path": "LearnShared/roles/educator/faq.md",
+             "redirect_url": "https://docs.microsoft.com/learn/educator-center/programs/msle/faq",
+             "redirect_document_id": true
+             },
+        {
+             "source_path": "LearnShared/roles/educator/learn-for-educators-overview.md",
+             "redirect_url": "https://docs.microsoft.com/learn/educator-center/programs/msle/overview",
+             "redirect_document_id": true
+             },
+        {
+             "source_path": "LearnShared/roles/educator/learn-for-educators-program-instructions.md",
+             "redirect_url": "https://docs.microsoft.com/learn/educator-center/programs/msle/program-instructions",
+             "redirect_document_id": true
+             },
+        {
+             "source_path": "LearnShared/roles/educator/learn-for-educators-support.md",
+             "redirect_url": "https://docs.microsoft.com/learn/educator-center/programs/msle/support",
+             "redirect_document_id": true
+             },
+        {
+             "source_path": "LearnShared/roles/educator/learn-for-educators-training.md",
+             "redirect_url": "https://docs.microsoft.com/learn/educator-center/programs/msle/training",
+             "redirect_document_id": true
              },
         ]
  }
