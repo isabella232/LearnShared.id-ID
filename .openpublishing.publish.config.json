@@ -11,12 +11,11 @@
       "type_mapping": {
         "Conceptual": "Content",
         "LearnHome": "Content",
-        "LearnProduct": "Content",
         "ContentBrowser": "Content",
         "ZonePivotGroups": "Toc",
         "ModuleAvailability": "Toc",
         "TopicLanding": "Content",
-        "LearnTV": "Content"
+        "Challenge": "Content"
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
