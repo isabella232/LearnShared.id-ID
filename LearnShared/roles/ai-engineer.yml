@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Insinyur AI di Microsoft Learn
 summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Insinyur AI.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: 42479010037fdbf4f3ae6835396d3f0a923d4a2c
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438826"
 hero:
   title: Microsoft Learn Untuk Insinyur AI
   subTitle: Mendefinisikan dan mengimplementasikan solusi AI mutakhir
@@ -37,10 +46,3 @@ trendingSection:
     - ai-engineer
     - ai-edge-engineer
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 8f8701043c6dc7158e66a43aba911a851d55594d
-  ms.sourcegitcommit: d4954a401a5bf10ff10685425b84db1c4adc80c3
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 10/29/2020
-  ms.locfileid: "107696222"

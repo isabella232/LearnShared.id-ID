@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Administrator di Microsoft Learn
 summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Administrator.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: 36e7eed2d6ffcf38e6eb21d5310ca541f70caeac
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122439796"
 hero:
   title: Microsoft Learn Untuk Administrator
   subTitle: Skalakan solusi teknis di seluruh perusahaan
@@ -40,10 +49,3 @@ trendingSection:
     - administrator
     - technology-manager
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 9c9961b18239024feac61c7a12a5c1579ea1f8ff
-  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/26/2020
-  ms.locfileid: "107696195"

@@ -1,12 +1,14 @@
 ### YamlMime:TopicLanding
 metadata:
   isGsi: true
-  ms.openlocfilehash: 1408e206ccba610bd94d53e0cde2f2f4437aaff9
-  ms.sourcegitcommit: a0ba28352da3bb95884c156f78a65500aad0e001
+  ms.topic: landing-page
+  ms.prod: learning-azure
+  ms.openlocfilehash: a909d45cd5083ef20a1961776d679df7140e3ca0
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 02/16/2021
-  ms.locfileid: "107696271"
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438343"
 title: Selamat datang di Microsoft Learn
 summary: Pelajari cara mendesain, membangun, menguji, dan memelihara aplikasi dan layanan cloud di lingkungan cloud dan hibrid dengan Microsoft Azure. Apakah Anda sudah atau ingin menjadi Pengembang Microsoft Azure, bangun keterampilan teknis yang Anda butuhkan untuk kembali bekerja.
 hero:

@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Analis Data di Microsoft Learn
 summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Analis Data.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: 63a5a63cf4d3f9db32b6e6ff69ecac3370e089a3
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438573"
 hero:
   title: Microsoft Belajar Untuk Analis Data
   subTitle: 'Analis Data: Membuat keputusan yang bermakna dengan data Anda'
@@ -32,10 +41,3 @@ trendingSection:
     roles:
     - data-analyst
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 17523eb7169be0a15a07b396e933ef74ee5c4522
-  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/26/2020
-  ms.locfileid: "107696184"

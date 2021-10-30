@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Insinyur Data di Microsoft Learn
 summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Insinyur Data.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: 8547df3a2e4c8618f6b6b1ac1d14c565b386b94d
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438446"
 hero:
   title: Microsoft Learn Untuk Insinyur Data
   subTitle: Jadikan data kompleks Anda tersedia dan dapat diakses
@@ -27,7 +36,7 @@ featuredSection:
 curatedSection:
 - title: Jalur Anda untuk memulai
   items:
-  - learn.data-ai.implement-sql-data-warehouse
+  - learn.wwl.realize-integrated-analytical-solutions-with-azure-synapse-analytics
   - learn.wwl.build-oss-analytical-solutions-az-hdinsight
   - learn.wwl.migrate-application-workloads-data-azure
   - learn.data-ai.azure-for-the-data-engineer
@@ -39,10 +48,3 @@ trendingSection:
     roles:
     - data-engineer
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 189b039afac55baacaf8f9a097d4977b508dff93
-  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/26/2020
-  ms.locfileid: "107696178"

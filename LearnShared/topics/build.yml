@@ -4,59 +4,61 @@ metadata:
   adobe-target-activity: DocsExp–396341–Learn–BuildOneDestinationPage–FY21Q4
   adobe-target-experience: Experience B
   adobe-target-content: ./build.treatment-a
-  ms.openlocfilehash: 55903daa9253ed0e22848a632abf3eccb048cda0
-  ms.sourcegitcommit: 8309c73463be5fd84e25952f07192342da51f33c
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: 98167ddc5c38aa548014fe59eb643f0a2731fda5
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 05/12/2021
-  ms.locfileid: "109819931"
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122437952"
 title: Build di Microsoft Learn
 summary: Microsoft Build hanya dilaksanakan setahun sekali, tetapi itu tidak berarti Anda tidak dapat terus mempelajari lebih lanjut tentang produk dan fitur baru yang Anda temukan selama acara berlangsung. Serangkaian jalur dan modul pembelajaran kami yang dikuratori membantu Anda tidak hanya dalam meningkatkan keterampilan yang sudah dimiliki, tetapi juga membantu Anda terus bergerak maju dengan ide-ide baru dan peluang pelatihan.
 hero:
   title: Microsoft Learn untuk Build
   subTitle: Terus tingkatkan keahlian Anda dengan Microsoft Learn
   summary: Microsoft Build hanya dilaksanakan setahun sekali, tetapi itu tidak berarti Anda tidak dapat terus mempelajari lebih lanjut tentang produk dan fitur baru yang Anda temukan selama acara berlangsung. Serangkaian jalur dan modul pembelajaran kami yang dikuratori membantu Anda tidak hanya dalam meningkatkan keterampilan yang sudah dimiliki, tetapi juga membantu Anda terus bergerak maju dengan ide-ide baru dan peluang pelatihan.
-  imageUrl: /learn/media/topics/ignite/ignite-header-background.png
+  imageUrl: /learn/media/topics/build/header-background.svg
 featuredSection:
 - title: Gambaran Umum
   subTitle: Azure
   summary: Pelajari cara membuat dan mengelola aplikasi yang kuat menggunakan layanan cloud Microsoft Azure. Dapatkan dokumentasi, contoh kode, tutorial, dan lainnya.
-  imageUrl: /learn/media/topics/azure-card-satellite.svg
+  imageUrl: /learn/media/topics/build/azure-card.svg
   link:
     url: /learn/azure
     text: Jelajahi Azure
 - title: Gambaran Umum
   subTitle: Dynamics 365
   summary: Beradaptasi dan berinovasi dengan satu-satunya portofolio aplikasi bisnis yang memberdayakan organisasi Anda untuk memberikan keunggulan operasional dan memuaskan setiap pelanggan.
-  imageUrl: /learn/media/topics/dynamics365-card-windfarm.svg
+  imageUrl: /learn/media/topics/build/dynamics365-card.svg
   link:
     url: /learn/dynamics365
     text: Jelajahi Dynamics 365
 - title: Gambaran Umum
   subTitle: Microsoft 365 & Teams
   summary: Temukan solusi, skenario, dan sumber daya yang Anda perlukan untuk mulai menggunakan Microsoft 365 dan Teams untuk bisnis atau organisasi Anda.
-  imageUrl: /learn/media/topics/m365-card-bridge.svg
+  imageUrl: /learn/media/topics/build/m365-card.svg
   link:
     url: /learn/m365
     text: Jelajahi Microsoft 365
 - title: Gambaran Umum
   subTitle: Power Platform
   summary: Pelajari cara menganalisis data, membuat aplikasi kustom, mengotomatiskan alur kerja, dan membangun bot cerdas dengan Microsoft Power Platform.
-  imageUrl: /learn/media/topics/powerbi-card-train.svg
+  imageUrl: /learn/media/topics/build/powerplatform-card.svg
   link:
     url: /learn/powerplatform
     text: Jelajahi Power Platform
 - title: Gambaran Umum
   subTitle: Keamanan, Kepatuhan, dan Identitas
   summary: Temukan video teknis, panduan interaktif, dan sumber daya pembelajaran lainnya yang mencakup keamanan, kepatuhan, dan identitas.
-  imageUrl: /learn/media/topics/teams-card-airplane.svg
+  imageUrl: /learn/media/topics/build/security-card.svg
   link:
     url: /learn/topics/sci
     text: Jelajahi selengkapnya
 - title: Acara
   subTitle: Microsoft Virtual Training Days
   summary: Acara virtual 1 dan 2 hari ini akan memberi Anda kesempatan untuk memperluas keterampilan Anda dan terhubung dengan pakar Microsoft.
-  imageUrl: /learn/media/topics/powerapps-card-balloon.svg
+  imageUrl: /learn/media/topics/build/vtd-card.svg
   link:
     url: https://mvtd.events.microsoft.com?wt.mc_id=onedestination
     text: Menelusuri acara pelatihan

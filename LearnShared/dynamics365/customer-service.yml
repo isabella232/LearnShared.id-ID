@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Dynamics 365 Customer Service di Microsoft Learn
 summary: Dukung agen Anda dalam memberikan tingkat bantuan yang tepat kepada pelanggan dengan Customer Service.
+metadata:
+  ms.topic: landing-page
+  ms.prod: dynamics-365
+  ms.openlocfilehash: 88386d8f6af4a156be92ab5c2bf4a6ee024b3f93
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122439448"
 hero:
   title: Microsoft Learn untuk Dynamics 365 Customer Service
   subTitle: Dynamics 365 Customer Service
@@ -47,10 +56,3 @@ trendingSection:
     - dynamics-customer-service
     - dynamics-cust-svc-insights
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 2688047cb87592ac56a9bdf8456ca51b165a4df6
-  ms.sourcegitcommit: 27d7155732224a3368bec6b6d972d252672305e2
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 04/29/2021
-  ms.locfileid: "108214299"

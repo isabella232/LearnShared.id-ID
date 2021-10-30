@@ -1,12 +1,14 @@
 ### YamlMime:TopicLanding
 metadata:
   isGsi: true
-  ms.openlocfilehash: ec553b954282a1e98449fa07243ca03aee9cf037
-  ms.sourcegitcommit: 8dba38534a593fb21a8ae6eaba04f41a2bb05c2a
+  ms.topic: landing-page
+  ms.service: power-platform
+  ms.openlocfilehash: dd7cbcf2549e3b63c3e3b081612c7d6da42ac317
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/01/2020
-  ms.locfileid: "107696204"
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438366"
 title: Selamat datang di Microsoft Learn
 summary: Buat solusi aplikasi untuk menyederhanakan, mengotomatiskan, dan mengubah tugas dan proses. Apakah Anda sudah atau ingin menjadi Pembuat Aplikasi Power Platform, bangun keterampilan teknis yang Anda butuhkan untuk kembali bekerja.
 hero:

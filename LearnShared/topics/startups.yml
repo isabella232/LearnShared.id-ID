@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Startup di Microsoft Learn
 summary: Cadangkan bisnis Anda di Microsoft Cloud, semakin berkembang startup sambil memastikan keamanan dan kepatuhan bagi pelanggan Anda.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: 068aba2d56a21b810d5c35f53913fac6e0650957
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122437493"
 hero:
   title: Microsoft Learn untuk Startup
   subTitle: Berdayakan startup Anda dengan Microsoft
@@ -51,10 +60,3 @@ trendingSection:
     - azure-synapse-analytics
     - power-apps
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 6a60cbd1fa4df99c9ec98575f21f94af94c55820
-  ms.sourcegitcommit: 1221777ce416add76f0dd3e0988021572ef425c2
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/19/2021
-  ms.locfileid: "110137716"

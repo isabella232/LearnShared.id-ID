@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Power BI di Microsoft Learn
 summary: Membaca, membuat, atau memperluas laporan dan dasbor? Tingkatkan keterampilan Anda di sini.
+metadata:
+  ms.topic: landing-page
+  ms.service: power-platform
+  ms.openlocfilehash: 1cb24e11d5b918c0d20d3b5458c02ccf47190110
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438849"
 hero:
   title: Microsoft Learn untuk Power BI
   subTitle: Temukan pelatihan Power BI yang tepat untuk Anda
@@ -42,10 +51,3 @@ trendingSection:
     products:
     - power-bi
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 019a14c84762001ccb343321d9d527fb58cab006
-  ms.sourcegitcommit: a232c14edfbe85637a8124c5306c36027f0eab2b
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 11/26/2020
-  ms.locfileid: "107696233"

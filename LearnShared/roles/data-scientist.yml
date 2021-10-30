@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Data Scientist di Microsoft Learn
 summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Insinyur AI.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: e04f6742a3c5443376a6f7a2cdd24ce43e63df87
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438527"
 hero:
   title: Microsoft Learn Untuk Ilmuwan Data
   subTitle: Temukan tren dan kembangkan solusi berbasis data untuk bisnis Anda
@@ -38,10 +47,3 @@ trendingSection:
     roles:
     - data-scientist
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 3234ca7aef2e4f2b636ebc8a5e52ce32c8659ded
-  ms.sourcegitcommit: 48123434f54904a396a5616c7c05f9a03bd3a0df
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 03/26/2021
-  ms.locfileid: "107696300"

@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Dynamics 365 Finance di Microsoft Learn
 summary: Optimalkan operasi keuangan Anda dengan Dynamics 365 Finance.
+metadata:
+  ms.topic: landing-page
+  ms.prod: dynamics-365
+  ms.openlocfilehash: ef0ca757914c540e2390d6bf03ec7f57025cb40d
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122439457"
 hero:
   title: Microsoft Learn untuk Dynamics 365 Finance
   subTitle: Dynamics 365 Finance
@@ -46,10 +55,3 @@ trendingSection:
     products:
     - dynamics-finance
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 606e012e1d44c5a625cb39c4dcfe20711c2d5249
-  ms.sourcegitcommit: 27d7155732224a3368bec6b6d972d252672305e2
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 04/29/2021
-  ms.locfileid: "108214301"

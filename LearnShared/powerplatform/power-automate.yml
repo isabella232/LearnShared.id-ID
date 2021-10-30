@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Power Automate di Microsoft Learn
 summary: Pelajari cara membebaskan organisasi Anda dari tugas biasa dengan alur otomatis dan otomatisasi proses robotik (RPA).
+metadata:
+  ms.topic: landing-page
+  ms.service: power-platform
+  ms.openlocfilehash: 5bf322ad5a9024e95ab767f61c5bc4a22fef9180
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122439819"
 hero:
   title: Microsoft Learn untuk Power Automate
   subTitle: Microsoft Power Automate
@@ -43,10 +52,3 @@ trendingSection:
     products:
     - power-automate
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 5485c9d38a67348c7841ea87ac7c7b8333b4d1be
-  ms.sourcegitcommit: 48123434f54904a396a5616c7c05f9a03bd3a0df
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 03/26/2021
-  ms.locfileid: "107696301"

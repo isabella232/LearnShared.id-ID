@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Organisasi Nirlaba di Microsoft Learn
 summary: Temukan konten pelatihan yang relevan dari Microsoft untuk membantu mendapatkan keterampilan yang dibutuhkan untuk memajukan misi Anda. Di sini Anda akan menemukan konten pelatihan khusus nirlaba dari TechSoup dan mitra lainnya, pelatihan tingkat sertifikasi, dan memiliki kemampuan untuk terhubung langsung dengan karyawan Microsoft Store.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: 60cdb53a40cd8a37bf3e887cbbe3914f70d5aee8
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438551"
 hero:
   title: Microsoft Learn untuk Organisasi Nirlaba
   subTitle: Berdayakan staf nirlaba Anda dengan pelatihan cloud Microsoft
@@ -49,10 +58,3 @@ trendingSection:
     - database-administrator
     - administrator
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 0013431872c15d8229b6314bf89e618c835fd00f
-  ms.sourcegitcommit: dc697daddbd84d662ca45c09c02914d4b7721dcc
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/06/2021
-  ms.locfileid: "108700248"

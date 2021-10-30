@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: GitHub di Microsoft Learn
 summary: Pelajari, kembangkan, dan kuasai keterampilan penting Git dan GitHub dan bergabunglah dengan jutaan pengembang dan perusahaan di seluruh dunia untuk membangun, mengirim, dan memelihara perangkat lunak di GitHub - platform pengembangan terbesar dan tercanggih di dunia. Mulailah di sini untuk memulai karir Anda dan tunjukkan tujuan pembelajaran GitHub dasar melalui modul dan jalur interaktif yang menyenangkan.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: 24385db91cbf9c0f659ce816ea0fa705be0b088b
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438941"
 hero:
   title: Microsoft Learn untuk GitHub
   subTitle: Di mana dunia membangun perangkat lunak
@@ -41,10 +50,3 @@ trendingSection:
     products:
     - github
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: ffdf2b33ccb0731c910eed516d69a8717065cac3
-  ms.sourcegitcommit: 0fbe528389331959b1f74e98a194455cede2e21f
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 12/04/2020
-  ms.locfileid: "107696237"

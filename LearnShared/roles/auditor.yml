@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Auditor di Microsoft Learn
 summary: Dapatkan pemahaman keseluruhan tentang praktik keamanan dan privasi dasar Microsoft untuk melindungi data pelanggan Anda.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: cbe2836fd0da9373d499aa75e692e047fce8d604
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438803"
 hero:
   title: Microsoft Learn untuk Auditor
   subTitle: Pelajari cara Microsoft melindungi data pelanggan
@@ -34,22 +43,15 @@ featuredSection:
 curatedSection:
 - title: Jalur Anda untuk memulai
   items:
+  - learn-m365.audit-safeguard-customer-data
   - learn-m365.audit-architecture
   - learn-m365.audit-incident-management
   - learn-m365.audit-identity-access-management
   - learn-m365.audit-encryption
   - learn-m365.audit-privacy
-  - learn-m365.audit-physical-security
 trendingSection:
   title: Jalur dan modul pembelajaran populer untuk Auditor
   filters:
     roles:
     - auditor
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 1c6e5ac1003fa38c4fd991dc6ee01d4761221bd0
-  ms.sourcegitcommit: 4d622dbcd05a5130d5aa471c60fb3f085f16e63b
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 03/31/2021
-  ms.locfileid: "107696307"

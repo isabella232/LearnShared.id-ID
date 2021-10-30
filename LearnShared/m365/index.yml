@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Microsoft 365 di Microsoft Learn
 summary: Raih lebih banyak hal dengan aplikasi Office yang inovatif, layanan cloud cerdas, dan keamanan kelas dunia.
+metadata:
+  ms.topic: landing-page
+  ms.prod: microsoft-365
+  ms.openlocfilehash: be72c04c0b50ebe4c812dbfc57c8710cfada95cc
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438895"
 hero:
   title: Microsoft Learn untuk Microsoft 365
   subTitle: Microsoft 365
@@ -46,10 +55,3 @@ trendingSection:
     products:
     - m365
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 65a6148d48a00a33c7f950082a64f028178570a8
-  ms.sourcegitcommit: 8309c73463be5fd84e25952f07192342da51f33c
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/12/2021
-  ms.locfileid: "109818294"

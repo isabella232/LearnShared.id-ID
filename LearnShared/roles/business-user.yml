@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Pemilik dan Pengguna Bisnis di Microsoft Learn
 summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk meningkatkan efisiensi dan produktivitas dalam bisnis Anda.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: 3b75f5c63eecf44676e092823768b78d31381c66
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438780"
 hero:
   title: Microsoft Learn untuk Pemilik dan Pengguna Bisnis
   subTitle: Meningkatkan efisiensi dan produktivitas dalam bisnis Anda
@@ -34,10 +43,8 @@ featuredSection:
 curatedSection:
 - title: Jalur Anda untuk memulai
   items:
-  - learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
   - learn-wwl.ai-strategy-to-create-business-value
   - learn-wwl.learn-business-value-of-azure-v1-1
-  - learn-dynamics.wwl.dynamics-365-fundamentals
   - learn-bizapps.wwl.power-plat-fundamentals
   - learn.foster-an-ai-ready-culture-in-business
 trendingSection:
@@ -48,10 +55,3 @@ trendingSection:
     - business-owner
     - business-user
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 77267b8e44206bf3a82bdc819437500de0e78ce0
-  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/26/2020
-  ms.locfileid: "107696185"

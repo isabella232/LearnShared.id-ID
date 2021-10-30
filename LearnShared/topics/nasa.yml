@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: NASA di Microsoft Learn
 summary: Jelajahi modul dan jalur pembelajaran yang terinspirasi oleh para ilmuwan NASA untuk mempersiapkan Anda berkarier dalam eksplorasi luar angkasa.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: 6c53d006db98e37d260cf34cde0e81c2834e3303
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122437514"
 hero:
   title: Microsoft Learn untuk NASA
   subTitle: Bangun keterampilan teknologi untuk eksplorasi ruang angkasa
@@ -44,10 +53,3 @@ trendingSection:
     - student
     - data-scientist
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 6e603ffc363f49932ead12130c36656486fa818b
-  ms.sourcegitcommit: f7d374f74a097d84439c9f8db06af8ea2cffe88c
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 10/23/2020
-  ms.locfileid: "107696220"

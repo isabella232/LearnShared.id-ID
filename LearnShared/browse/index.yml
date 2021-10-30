@@ -1,11 +1,13 @@
 ### YamlMime:ContentBrowser
 title: Telusuri semua
-browseType: learn
-summary: Pelajari keterampilan baru dan temukan kekuatan produk Microsoft dengan panduan langkah demi langkah. Mulailah perjalanan Anda hari ini dengan menjelajahi jalur dan modul pembelajaran kami.
 metadata:
-  ms.openlocfilehash: 52838eeaf4afdc9735a290af3526e09bc4f4becb
-  ms.sourcegitcommit: 482496d835f1dfdc3aaaa0096fd5cecc1b86a4e4
+  ms.topic: hub-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: fe848b4325b2b4defa385d7b89dcf4f7f6b74ff8
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 05/04/2020
-  ms.locfileid: "107696157"
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122439359"
+browseType: learn
+summary: Pelajari keterampilan baru dan temukan kekuatan produk Microsoft dengan panduan langkah demi langkah. Mulailah perjalanan Anda hari ini dengan menjelajahi jalur dan modul pembelajaran kami.

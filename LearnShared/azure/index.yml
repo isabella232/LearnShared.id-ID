@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Azure di Microsoft Learn
 summary: Kembangkan keterampilan Anda untuk membangun dan mengelola aplikasi di cloud, lokal, dan di tepi.
+metadata:
+  ms.topic: landing-page
+  ms.prod: learning-azure
+  ms.openlocfilehash: e1bf72c27b6f27f1766eae9dff840633e021310b
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438389"
 hero:
   title: Microsoft Learn untuk Azure
   subTitle: Microsoft Azure
@@ -46,10 +55,3 @@ trendingSection:
     products:
     - azure
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 531bf609226a7202e45487f1f55c132676410f75
-  ms.sourcegitcommit: 8309c73463be5fd84e25952f07192342da51f33c
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/12/2021
-  ms.locfileid: "109818379"

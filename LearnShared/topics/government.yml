@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Pemerintah di Microsoft Learn
 summary: Teknologi mengubah pemerintah dan memberdayakan karyawan. Melalui Microsoft Learn, Anda dapat menguasai konsep baru dengan kecepatan dan jadwal, mengembangkan keterampilan praktis melalui modul dan jalur interaktif.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: ae3213b284e588fd3824061f4a4fc99533dfd121
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122437607"
 hero:
   title: Microsoft Learn untuk Pemerintah
   subTitle: Mendorong transformasi dalam pemerintahan
@@ -48,10 +57,3 @@ trendingSection:
     - security-engineer
     - technology-manager
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 7ce10b8414256b975cfcadcbed9f4a002e97afc2
-  ms.sourcegitcommit: 1221777ce416add76f0dd3e0988021572ef425c2
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/19/2021
-  ms.locfileid: "110137772"

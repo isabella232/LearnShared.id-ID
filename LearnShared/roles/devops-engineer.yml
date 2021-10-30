@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Insinyur DevOps di Microsoft Learn
 summary: Microsoft Learn membantu Anda menemukan alat dan keterampilan yang Anda butuhkan untuk menjadi Insinyur DevOps.
+metadata:
+  ms.topic: landing-page
+  ms.prod: devops
+  ms.openlocfilehash: 7cb5ec051fe5ff517266bdc2fd6338ce0680fd9b
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122439726"
 hero:
   title: Microsoft Learn Untuk Insinyur DevOps
   subTitle: Padukan keahlian teknis Anda dengan kecerdasan bisnis
@@ -39,10 +48,3 @@ trendingSection:
     roles:
     - devops-engineer
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: ec1d2a9456a2676373249f0a3d2b6ad797b72785
-  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/26/2020
-  ms.locfileid: "107696179"

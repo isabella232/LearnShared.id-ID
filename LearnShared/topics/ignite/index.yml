@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Ignite di Microsoft Learn
 summary: Belajar tidak berakhir hanya karena acara berakhir. Favoritkan halaman ini dan lanjutkan apa yang Anda mulai di Ignite dari satu lokasi yang nyaman. Temukan cara Anda untuk konten, opsi pelatihan, komunitas, dan detail sertifikasi yang lebih dalam di semua solusi cloud Microsoft di sini.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: 4b2fad08a6c78d462b8fe46f1df214561769b46e
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122439865"
 hero:
   title: Microsoft Learn untuk Ignite
   subTitle: Lanjutkan pembelajaran Anda dengan Microsoft
@@ -66,10 +75,3 @@ trendingSection:
     - student
     - technology-manager
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 8d85ba476c57497363819f5ed69b41fb0b8ed633
-  ms.sourcegitcommit: 8309c73463be5fd84e25952f07192342da51f33c
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/12/2021
-  ms.locfileid: "109818344"

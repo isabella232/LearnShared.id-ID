@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Dynamics 365 Supply Chain Management di Microsoft Learn
 summary: Bangun ketahanan dengan rantai pasokan yang tangkas.
+metadata:
+  ms.topic: landing-page
+  ms.prod: dynamics-365
+  ms.openlocfilehash: 36851d202d2363deec4985dd80c899fdfed7980e
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122439012"
 hero:
   title: Microsoft Learn untuk Dynamics 365 Supply Chain Management
   subTitle: Dynamics 365 Supply Chain Management
@@ -46,10 +55,3 @@ trendingSection:
     products:
     - dynamics-scm
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: f07d07b7ab14e6fc0db27d1d897ac688526c979f
-  ms.sourcegitcommit: dc697daddbd84d662ca45c09c02914d4b7721dcc
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/06/2021
-  ms.locfileid: "108685024"

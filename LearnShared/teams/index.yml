@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Microsoft Teams di Microsoft Learn
 summary: 'Hub untuk kerja tim di Microsoft 365: menyatukan orang, percakapan, dan konten.'
+metadata:
+  ms.topic: landing-page
+  ms.prod: microsoft-teams
+  ms.openlocfilehash: eea0579835f422d1eb2325699b1cc35e9167dd6c
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122437883"
 hero:
   title: Microsoft Learn untuk Microsoft Teams
   subTitle: Mempelajari Microsoft Teams
@@ -46,10 +55,3 @@ trendingSection:
     products:
     - office-teams
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: b7ad3c85f59915f5f896ed8c775ba252432bcfbc
-  ms.sourcegitcommit: efcd13a433184945fe825bca63aa6f2d486089f0
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "107696218"

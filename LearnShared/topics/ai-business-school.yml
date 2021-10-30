@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: AI Business School di Microsoft Learn
 summary: AI mengubah cara kerja bisnis di semua industri. AI Business School dirancang untuk mendukung siswa dan profesional dengan wawasan dan panduan praktis dari eksekutif top tentang cara menerapkan AI dan mengubah organisasi secara strategis.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: b832b39b006cf4319756360bb85fb3037a23ea72
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122437976"
 hero:
   title: Microsoft Learn untuk Sekolah Bisnis AI
   subTitle: Mewujudkan kekuatan transformasional AI
@@ -44,10 +53,3 @@ trendingSection:
     - ai-engineer
     - data-scientist
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 297151792849425184c32990c7acad595c020a2d
-  ms.sourcegitcommit: 2a7e07339b932e84f3cb146e514c0cfb6977451a
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 06/19/2020
-  ms.locfileid: "107696201"

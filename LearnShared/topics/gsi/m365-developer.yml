@@ -1,12 +1,14 @@
 ### YamlMime:TopicLanding
 metadata:
   isGsi: true
-  ms.openlocfilehash: 749ae13789e1f09becc07ab5d3694a9e69d57a12
-  ms.sourcegitcommit: e081b764f79a9e92cd71db74c19626a0efefb3c0
+  ms.topic: landing-page
+  ms.prod: microsoft-365
+  ms.openlocfilehash: 62d98be7af01a6d23b869c810df7668d995c6091
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "107696209"
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122437584"
 title: Selamat datang di Microsoft Learn
 summary: Pelajari cara merancang, membangun, menguji, dan memelihara solusi cerdas yang aman yang dioptimalkan untuk produktivitas dan kolaborasi. Apakah Anda sudah atau ingin menjadi Pengembang Microsoft 365, bangun keterampilan teknis yang Anda butuhkan untuk kembali bekerja.
 hero:

@@ -1,12 +1,14 @@
 ### YamlMime:TopicLanding
 metadata:
   isGsi: true
-  ms.openlocfilehash: f0a7b47af9c92b9b9a88802bd71c51699e33f769
-  ms.sourcegitcommit: e081b764f79a9e92cd71db74c19626a0efefb3c0
+  ms.topic: landing-page
+  ms.prod: microsoft-365
+  ms.openlocfilehash: 596d853ee5374177471869b3b4c71fc8216c977a
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "107696211"
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438320"
 title: Selamat datang di Microsoft Learn
 summary: Pelajari cara menerapkan, mengelola, dan memantau aplikasi, layanan, data, perangkat, dan pengguna di seluruh lingkungan cloud produktivitas. Apakah Anda sudah atau ingin menjadi Administrator Microsoft 365, bangun keterampilan teknis yang Anda butuhkan untuk kembali bekerja.
 hero:

@@ -1,12 +1,14 @@
 ### YamlMime:TopicLanding
 metadata:
   isGsi: true
-  ms.openlocfilehash: 8cc93ade9f3a647a30527e3f53a6a864ba4f4f8a
-  ms.sourcegitcommit: 8dba38534a593fb21a8ae6eaba04f41a2bb05c2a
+  ms.topic: landing-page
+  ms.service: security
+  ms.openlocfilehash: 3f791075b491676c22ee17096f3405c356e3e978
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/01/2020
-  ms.locfileid: "107696203"
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122437929"
 title: Selamat datang di Microsoft Learn
 summary: Pelajari cara merancang dan menerapkan kontrol keamanan digital dan perlindungan ancaman di jaringan cloud dan lingkungan hibrid. Apakah Anda sudah atau ingin menjadi Insinyur Keamanan, bangun keterampilan teknis yang Anda butuhkan untuk kembali bekerja.
 hero:

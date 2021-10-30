@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Arsitek Solusi di Microsoft Learn
 summary: Microsoft Learn membantu Anda menemukan konten dan mendapatkan pengalaman yang Anda butuhkan untuk membantu Anda sukses sebagai Arsitek Solusi.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: a91598ca8b6444f21bcd87939cd347994fbac171
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122439502"
 hero:
   title: Microsoft Learn untuk Arsitek Solusi
   subTitle: Tentukan visi dan implementasi solusi teknologi yang hebat
@@ -39,10 +48,3 @@ trendingSection:
     roles:
     - solution-architect
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 5eb9785717dc5caf291816e4a574c618a91500fd
-  ms.sourcegitcommit: 4996b62456f0dd66d92fd8b2d61abcbe29b1c6a1
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/26/2020
-  ms.locfileid: "107696182"

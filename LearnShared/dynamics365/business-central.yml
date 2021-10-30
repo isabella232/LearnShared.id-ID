@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Dynamics 365 Business Central di Microsoft Learn
 summary: Hubungkan operasi di seluruh bisnis kecil atau bisnis berskala menengah Anda dengan Business Central.
+metadata:
+  ms.topic: landing-page
+  ms.prod: dynamics-365-business-central
+  ms.openlocfilehash: d5a77ba9608d3a12d29f58f75279d392c97046fc
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122439515"
 hero:
   title: Microsoft Learn untuk Dynamics 365 Business Central
   subTitle: Pusat Bisnis Dynamics 365
@@ -46,10 +55,3 @@ trendingSection:
     products:
     - dynamics-business-central
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 217b2dcfe0191b07180e09ff79ef4619e4613aea
-  ms.sourcegitcommit: 27d7155732224a3368bec6b6d972d252672305e2
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 04/29/2021
-  ms.locfileid: "108214164"

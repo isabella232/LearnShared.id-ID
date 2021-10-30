@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Power Apps di Microsoft Learn
 summary: Pelajari cara membuat aplikasi berkode rendah yang memodernisasi proses dan menyelesaikan tantangan berat.
+metadata:
+  ms.topic: landing-page
+  ms.service: power-platform
+  ms.openlocfilehash: f03b677ae25cea3ad5063d5d5aaf3492ab534ad7
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438872"
 hero:
   title: Microsoft Learn untuk Power Apps
   subTitle: Microsoft Power Apps
@@ -43,10 +52,3 @@ trendingSection:
     products:
     - power-apps
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: d6fde149142e738c3a512418aafffacc61ae1ca1
-  ms.sourcegitcommit: a232c14edfbe85637a8124c5306c36027f0eab2b
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 11/26/2020
-  ms.locfileid: "107696232"

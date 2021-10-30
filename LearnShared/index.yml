@@ -3,12 +3,16 @@ metadata:
   title: Microsoft Learn
   description: Keterampilan yang diperlukan untuk memajukan karir Anda dan mendapatkan tempat Anda di puncak tidak datang dengan mudah. Sekarang ada pendekatan yang lebih bermanfaat untuk pembelajaran langsung yang membantu Anda mencapai tujuan Anda lebih cepat. Dapatkan poin, level, dan raih lebih banyak!
   adobe-target: true
-  ms.openlocfilehash: c1b1fe635932b921f06221dd63d5ef7f90abf096
-  ms.sourcegitcommit: 8d331d035c789c5fc9d5b1c9d391d92a958fc182
+  adobe-target-activity: DocsExp–409532–A/B–Docs/LearnHomePage–NewBlogCard-FY22Q1
+  adobe-target-experience: Experience B
+  adobe-target-content: ./index.treatment-a
+  ms.prod: non-product-specific
+  ms.openlocfilehash: b6b2c1357172aae600d0e9afc6fc70669c90cdd4
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 03/16/2021
-  ms.locfileid: "107696297"
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438918"
 featuredSection:
   title: Favorit kami saat ini
   authenticatedTitle: Baru dan baru diperbarui

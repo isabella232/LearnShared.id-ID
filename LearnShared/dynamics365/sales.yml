@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Dynamics 365 Sales di Microsoft Learn
 summary: Dukung penjualan digital dengan Dynamics 365 Sales.
+metadata:
+  ms.topic: landing-page
+  ms.prod: dynamics-365
+  ms.openlocfilehash: 6ac1674903cf7a605fe7b832dd2387f560e17aae
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122439035"
 hero:
   title: Microsoft Learn untuk Dynamics 365 Sales
   subTitle: Dynamics 365 Sales
@@ -38,10 +47,3 @@ trendingSection:
     - dynamics-sales
     - dynamics-sales-insights
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: f8fca2b663f0043c90ab12ac95c57e926a75750a
-  ms.sourcegitcommit: 27d7155732224a3368bec6b6d972d252672305e2
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 04/29/2021
-  ms.locfileid: "108214302"

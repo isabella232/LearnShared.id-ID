@@ -1,12 +1,14 @@
 ### YamlMime:TopicLanding
 metadata:
   isGsi: true
-  ms.openlocfilehash: 0fcf658b27662c071c50515d2ad3af62606a10eb
-  ms.sourcegitcommit: 8dba38534a593fb21a8ae6eaba04f41a2bb05c2a
+  ms.topic: landing-page
+  ms.prod: learning-power-bi
+  ms.openlocfilehash: 54bda87baf76eae0418f6dbbc07cbbcdb7e03e66
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 07/01/2020
-  ms.locfileid: "107696205"
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122437653"
 title: Selamat datang di Microsoft Learn
 summary: Pelajari cara mendesain dan menyusun model data untuk mendorong nilai bisnis yang bermakna meskipun visualisasi data yang mudah dipahami menggunakan Microsoft Power BI. Apakah Anda sudah atau ingin menjadi Analis Data, bangun keterampilan teknis yang Anda butuhkan untuk kembali bekerja.
 hero:
