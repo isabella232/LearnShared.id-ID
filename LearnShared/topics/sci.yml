@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Keamanan, Kepatuhan, dan Identitas di Microsoft Learn
 summary: Solusi keamanan, kepatuhan, dan identitas Microsoft dibuat untuk memberdayakan organisasi Anda, membuat Anda tetap tangguh dan gesit. Ini terintegrasi di seluruh platform, cloud, dan layanan, dan membantu memperkuat keamanan beban kerja cloud dan merampingkan manajemen keamanan. Jelajahi sumber daya ini untuk mempelajari selengkapnya tentang solusi keamanan, identitas, dan kepatuhan Microsoft.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: 7b03bd069982b771bb0ef45a0f2c5719bcda5cd6
+  ms.sourcegitcommit: 08cff2d5529ec8f562053c40993d6f190d2cf71f
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 10/04/2021
+  ms.locfileid: "129439543"
 hero:
   title: Microsoft Learn untuk Keamanan, Kepatuhan, dan Identitas
   subTitle: Terintegrasi untuk kesederhanaan
@@ -14,16 +23,16 @@ featuredSection:
   link:
     url: /events/build-may-2021/security-compliance-and-identity
     text: Jelajahi sesi
-- title: Jelajahi
+- title: Sumber
   subTitle: Microsoft Security Technical Content Library
   summary: Temukan konten teknis yang relevan untuk Anda. Cari berdasarkan peran, tingkat pengalaman, produk, topik, dan lainnya.
   imageUrl: /learn/media/topics/azure-card-satellite.svg
   link:
     url: https://aka.ms/MicrosoftSecurityTechnicalContentLibrary
-    text: Jelajahi Microsoft Security Technical Content Library
+    text: Jelajahi pustaka
 - title: Sertifikasi
   subTitle: Dapatkan Sertifikasi
-  summary: Tingkatkan karier Anda, dapatkan pengakuan, dan validasi pengetahuan dan kemampuan teknis Anda dalam peran pekerjaan industri saat ini dengan Microsoft Security melalui sertifikasi AZ500 dan MS500.
+  summary: Tingkatkan karier, dapatkan penghargaan, dan validasi pengetahuan teknis Anda dengan sertifikasi berbasis peran Keamanan, Kepatuhan, dan Identitas baru dari Microsoft.
   imageUrl: /learn/media/topics/azure-card-lakes.svg
   link:
     url: /learn/certifications/browse/?resource_type=certification&terms=SC-
@@ -37,7 +46,7 @@ curatedSection:
   - learn-m365.m365-compliance-information
   - learn-m365.m365-compliance-insider
   - learn-m365.compmgmt
-  - learn-m365.identity-and-access
+  - learn.security.manage-identity-and-access
   - learn.azure-admin-manage-identities-governance
   - learn-m365.identity-associate
 trendingSection:
@@ -56,10 +65,3 @@ trendingSection:
     roles:
     - security-engineer
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 7e4b60b7b0a4b38aa0304a47863688f80e165107
-  ms.sourcegitcommit: 8309c73463be5fd84e25952f07192342da51f33c
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/12/2021
-  ms.locfileid: "109818384"

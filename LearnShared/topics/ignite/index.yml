@@ -4,39 +4,60 @@ summary: Belajar tidak berakhir hanya karena acara berakhir. Favoritkan halaman 
 metadata:
   ms.topic: landing-page
   ms.prod: non-product-specific
-  ms.openlocfilehash: 4b2fad08a6c78d462b8fe46f1df214561769b46e
-  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.openlocfilehash: 2bf2b6946959af835be893aa5ceffedd83221725
+  ms.sourcegitcommit: b39b124844477584aae6479ee732f98c5c42ae3c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/19/2021
-  ms.locfileid: "122439865"
+  ms.lasthandoff: 10/30/2021
+  ms.locfileid: "130961318"
 hero:
   title: Microsoft Learn untuk Ignite
   subTitle: Lanjutkan pembelajaran Anda dengan Microsoft
   summary: Belajar tidak berakhir hanya karena acara berakhir. Favoritkan halaman ini dan lanjutkan apa yang Anda mulai di Ignite dari satu lokasi yang nyaman. Temukan cara Anda untuk konten, opsi pelatihan, komunitas, dan detail sertifikasi yang lebih dalam di semua solusi cloud Microsoft di sini.
-  imageUrl: /learn/media/topics/ignite/ignite-header-background.png
+  imageUrl: /learn/media/topics/ignite/ignite-2021-header-background.svg
 featuredSection:
-- title: Video
-  subTitle: Sesi Ignite
-  summary: Lihat sesi sesuai permintaan dari Ignite di berbagai solusi dan teknologi.
-  imageUrl: /learn/media/topics/azure-card-balloon.svg
+- title: Gambaran Umum
+  subTitle: Azure
+  summary: Pelajari cara membuat dan mengelola aplikasi yang kuat menggunakan layanan cloud Microsoft Azure. Dapatkan dokumentasi, contoh kode, tutorial, dan lainnya.
+  imageUrl: /learn/media/topics/build/azure-card.svg
   link:
-    url: /events/ignite-mar-2021
-    text: Jelajahi sesi
-- title: Komunitas
-  subTitle: Microsoft Tech Community
-  summary: Terhubung dan diskusikan berita terbaru, informasi produk terbaru, dan praktik terbaik dengan rekan dan profesional Microsoft.
-  imageUrl: /learn/media/topics/azure-card-train.svg
+    url: /learn/azure
+    text: Jelajahi Azure
+- title: Gambaran Umum
+  subTitle: Dynamics 365
+  summary: Beradaptasi dan berinovasi dengan satu-satunya portofolio aplikasi bisnis yang memberdayakan organisasi Anda untuk memberikan keunggulan operasional dan memuaskan setiap pelanggan.
+  imageUrl: /learn/media/topics/build/dynamics365-card.svg
   link:
-    url: https://techcommunity.microsoft.com/
-    text: Bergabunglah dengan komunitas kami
-- title: Acara
-  subTitle: Microsoft Virtual Training Days
-  summary: Acara virtual 1 dan 2 hari ini akan memberi Anda kesempatan untuk memperluas keterampilan Anda dan terhubung dengan pakar Microsoft.
-  imageUrl: /learn/media/topics/powerapps-card-airplane.svg
+    url: /learn/dynamics365
+    text: Jelajahi Dynamics 365
+- title: Gambaran Umum
+  subTitle: Microsoft 365 & Teams
+  summary: Temukan solusi, skenario, dan sumber daya yang Anda perlukan untuk mulai menggunakan Microsoft 365 dan Teams untuk bisnis atau organisasi Anda.
+  imageUrl: /learn/media/topics/build/m365-card.svg
   link:
-    url: https://mvtd.events.microsoft.com?wt.mc_id=onedestination
-    text: Menelusuri acara pelatihan
+    url: /learn/m365
+    text: Jelajahi Microsoft 365
+- title: Gambaran Umum
+  subTitle: Power Platform
+  summary: Pelajari cara menganalisis data, membuat aplikasi kustom, mengotomatiskan alur kerja, dan membangun bot cerdas dengan Microsoft Power Platform.
+  imageUrl: /learn/media/topics/build/powerplatform-card.svg
+  link:
+    url: /learn/powerplatform
+    text: Jelajahi Power Platform
+- title: Gambaran Umum
+  subTitle: Keamanan, Kepatuhan, dan Identitas
+  summary: Temukan video teknis, panduan interaktif, dan sumber daya pembelajaran lainnya yang mencakup keamanan, kepatuhan, dan identitas.
+  imageUrl: /learn/media/topics/build/security-card.svg
+  link:
+    url: /learn/topics/sci
+    text: Jelajahi selengkapnya
+- title: Sumber
+  subTitle: Konten teknis Pasca-Microsoft Ignite
+  summary: Terus belajar untuk terhubung dengan pakar dan komunitas teknis menggunakan konten dan acara langsung setelah Microsoft Ignite.
+  imageUrl: /learn/media/topics/build/vtd-card.svg
+  link:
+    url: https://aka.ms/Ignite/LearnTV/PostEvent
+    text: Jelajahi konten teknis pasca-Ignite
 curatedSection:
 - title: Jalan Anda untuk memulai
   items:

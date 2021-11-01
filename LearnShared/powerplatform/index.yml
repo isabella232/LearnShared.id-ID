@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Power Platform di Microsoft Learn
 summary: Pelajari cara bekerja sama untuk menghadapi tantangan secara efektif dengan Microsoft Power Platform dengan menganalisis data, membangun aplikasi, mengotomatiskan proses, dan membuat agen virtual.
+metadata:
+  ms.topic: landing-page
+  ms.service: power-platform
+  ms.openlocfilehash: 3bfccf90882cf9d75c533e91ef20976feb187aa7
+  ms.sourcegitcommit: b39b124844477584aae6479ee732f98c5c42ae3c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 10/30/2021
+  ms.locfileid: "130960810"
 hero:
   title: Microsoft Learn untuk Power Platform
   subTitle: Microsoft Power Platform
@@ -10,26 +19,26 @@ hero:
     text: Jelajahi semua jalur pembelajaran Power Platform
   imageUrl: /learn/media/topics/powerplatform-header-background.svg
 featuredSection:
-- title: Acara
-  subTitle: Sesi Build
-  summary: Saksikan sesi sesuai permintaan dari Build tentang berbagai solusi dan teknologi.
-  imageUrl: /learn/media/topics/powerbi-card-train.svg
+- title: Video
+  subTitle: Sesi Ignite
+  summary: Tonton seluruh pustaka sesi Power Platform yang dibuat untuk Ignite.
+  imageUrl: /learn/media/topics/powerbi-card-lakes.svg
   link:
-    url: /events/build-may-2021/power-platform
-    text: Jelajahi sesi
+    url: /events/ignite-nov-2021/power-platform/
+    text: Jelajahi Sertifikasi
 - title: Komunitas
-  subTitle: Microsoft Tech Community
+  subTitle: Komunitas Power Platform
   summary: Menyambungkan dan mendiskusikan berita terbaru, pembaruan produk, dan praktik terbaik dengan profesional dan rekan-rekan Microsoft
-  imageUrl: /learn/media/topics/powerbi-card-satellite.svg
+  imageUrl: /learn/media/topics/powerbi-card-train.svg
   link:
     url: https://powerusers.microsoft.com/
     text: Bergabunglah dengan komunitas kami
 - title: Acara
   subTitle: Hari Pelatihan Virtual
-  summary: Acara virtual 1 dan 2 hari ini akan memberi Anda kesempatan untuk memperluas keterampilan Anda dan terhubung dengan pakar Microsoft.
-  imageUrl: /learn/media/topics/powerbi-card-lakes.svg
+  summary: Teruskan pembelajaran dengan Microsoft Virtual Training Days yang menyediakan keterampilan teknis gratis yang dipandu instruktur, dalam berbagai bahasa dan zona waktu di berbagai topik.
+  imageUrl: /learn/media/topics/powerbi-card-satellite.svg
   link:
-    url: https://mvtd.events.microsoft.com/PowerPlatform?wt.mc_id=onedestination
+    url: https://mvtd.events.microsoft.com/PowerPlatform?evt=ignite&wt.mc_id=Ignite2021_corp_bn_oo_bn_onedest_vtd
     text: Menelusuri acara pelatihan
 curatedSection:
 - title: Jalur Anda untuk memulai
@@ -46,10 +55,3 @@ trendingSection:
     products:
     - power-platform
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: cb7f1e30bdae4ec4a06731bce7ad0d1bf19b9161
-  ms.sourcegitcommit: 8309c73463be5fd84e25952f07192342da51f33c
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/12/2021
-  ms.locfileid: "109818319"

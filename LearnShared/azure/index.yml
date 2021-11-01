@@ -4,12 +4,12 @@ summary: Kembangkan keterampilan Anda untuk membangun dan mengelola aplikasi di 
 metadata:
   ms.topic: landing-page
   ms.prod: learning-azure
-  ms.openlocfilehash: e1bf72c27b6f27f1766eae9dff840633e021310b
-  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.openlocfilehash: 76be8ea09ef9cdada6de664147299ad2d4c84e60
+  ms.sourcegitcommit: b39b124844477584aae6479ee732f98c5c42ae3c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/19/2021
-  ms.locfileid: "122438389"
+  ms.lasthandoff: 10/30/2021
+  ms.locfileid: "130960856"
 hero:
   title: Microsoft Learn untuk Azure
   subTitle: Microsoft Azure
@@ -20,11 +20,11 @@ hero:
   imageUrl: /learn/media/topics/azure-header-background.svg
 featuredSection:
 - title: Video
-  subTitle: Sesi Build
-  summary: Saksikan sesi sesuai permintaan dari Build tentang berbagai solusi dan teknologi.
+  subTitle: Sesi Ignite
+  summary: Tonton pustaka lengkap sesi Azure yang dibuat untuk Ignite.
   imageUrl: /learn/media/topics/azure-card-balloon.svg
   link:
-    url: /events/build-may-2021/azure
+    url: /events/ignite-nov-2021/azure/
     text: Jelajahi sesi
 - title: Komunitas
   subTitle: Microsoft Tech Community
@@ -35,10 +35,10 @@ featuredSection:
     text: Bergabunglah dengan komunitas kami
 - title: Acara
   subTitle: Hari Pelatihan Virtual
-  summary: Acara virtual 1 dan 2 hari ini akan memberi Anda kesempatan untuk memperluas keterampilan Anda dan terhubung dengan pakar Microsoft.
+  summary: Teruskan pembelajaran dengan Microsoft Virtual Training Days yang menyediakan keterampilan teknis gratis yang dipandu instruktur, dalam berbagai bahasa dan zona waktu di berbagai topik.
   imageUrl: /learn/media/topics/azure-card-lakes.svg
   link:
-    url: https://mvtd.events.microsoft.com/Azure?wt.mc_id=onedestination
+    url: https://mvtd.events.microsoft.com/Azure/?evt=ignite&wt.mc_id=Ignite2021_corp_bn_oo_bn_onedest_vtd
     text: Menelusuri acara pelatihan
 curatedSection:
 - title: Jalur Anda untuk memulai
