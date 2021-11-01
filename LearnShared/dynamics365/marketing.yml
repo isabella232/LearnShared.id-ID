@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Dynamics 365 Marketing di Microsoft Learn
 summary: Tingkatkan pengalaman pelanggan dengan Dynamics 365 Marketing.
+metadata:
+  ms.topic: landing-page
+  ms.prod: dynamics-365
+  ms.openlocfilehash: 9349eb8e26d5a3c7c9a2c2257b37d0f9b570aae5
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122439220"
 hero:
   title: Microsoft Learn untuk Dynamics 365 Marketing
   subTitle: Dynamics 365 Marketing
@@ -46,10 +55,3 @@ trendingSection:
     products:
     - dynamics-marketing
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 3e9e56a851fb67322ec12d20269a5c02acb72d8d
-  ms.sourcegitcommit: 27d7155732224a3368bec6b6d972d252672305e2
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 04/29/2021
-  ms.locfileid: "108214300"
