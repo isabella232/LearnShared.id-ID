@@ -1,15 +1,22 @@
 - name: Tanya jawab umum
   href: faq.md
-- name: Pemecahan Masalah
+- name: Masalah umum
   href: troubleshooting.md
 - name: Dukungan sertifikasi
   href: 'https://docs.microsoft.com/learn/certifications/help?source=docs'
 - name: Sumber
   expanded: true
   items:
-    - name: Sumber daya API
-      href: catalog-api.md
-    - name: Aplikasi LTI
-      href: lti-application.md
-    - name: Cara menjalankan latihan Microsoft Learn di langganan Anda sendiri
+    - name: Integrasi
+      expanded: true
+      items:
+        - name: Memanfaatkan Learn di organisasi Anda
+          href: integrations.md
+        - name: API Katalog
+          href: catalog-api.md
+        - name: Pelaporan Organisasi
+          href: org-reporting.md
+        - name: Aplikasi LTI
+          href: lti-application.md
+    - name: Jalankan latihan Learn dalam langganan Anda sendiri
       href: use-your-own-subscription.md

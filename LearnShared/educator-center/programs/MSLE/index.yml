@@ -1,0 +1,129 @@
+### YamlMime:Marketing
+title: Program Microsoft Learn untuk Pendidik
+sections:
+  - componentType: hero
+    supertitle: Microsoft Learn for Educators Program
+    title: Memberikan instruksi teknologi mutakhir kepada siswa
+    size: small
+    background:
+      componentType: image
+      src: 'https://docs.microsoft.com/media/learn/topics/blue-hero-background-02.svg'
+    subtitle: 'Sebagai pendidik, Anda berperan penting dalam memberdayakan siswa agar sukses di masa depan! Di Microsoft, kami berkomitmen untuk membantu dan mendukung Anda dalam misi ini. '
+    links:
+      - componentType: link
+        url: program-instructions.md#sign-up
+        text: Daftar
+  - componentType: hero
+    title: Pengumuman keamanan cyber
+    layout: indented
+    textColor: dark
+    size: small
+    background:
+      componentType: image
+      src: /learn/media/msle/white-hero.svg
+    summary: 'Dengan meningkatnya permintaan akan bakat keamanan cyber, Microsoft berkomitmen untuk mendukung program perguruan tinggi terbuka keamanan cyber, fakultas, dan siswa. Baca tentang kampanye kami untuk mengatasi krisis keterampilan keamanan cyber di aka.ms/cyberskills'
+    links:
+      - componentType: link
+        url: 'https://aka.ms/cyberskills'
+        text: Pelajari lebih lanjut
+  - componentType: markdown
+    backgroundColor: alternating-grey
+    content: |
+      ## <a name="what-is-the-microsoft-learn-for-educators-program"></a>**Apa itu program Microsoft Learn untuk Pendidik?**
+      Microsoft Learn untuk Pendidik memberikan jalur pembelajaran Microsoft Learn terbaik dan membantu Anda menghadirkan Kurikulum Resmi Microsoft ini dan materi pelatihan yang dipandu instruktur dalam kursus Anda. Anggota pengajar dan pendidik di perguruan tinggi, universitas, perguruan tinggi komunitas, politeknik, dan sekolah menengah yang memenuhi syarat dapat mengajar materi pengajaran dan kurikulum siap ajar Microsoft yang sesuai dengan Microsoft Certifications yang telah diakui industri. Sertifikasi ini menambah jalur gelar siswa yang ada dan memvalidasi keterampilan yang diperlukan agar meraih kesuksesan di berbagai karier teknis.
+      </br><br>
+  - componentType: bifold
+    alignment: center
+    blocks:
+      - src: /learn/media/msle/gear.svg
+        alt: gambar bola lampu
+        componentType: image
+      - title: Ajarkan keterampilan teknologi untuk masa depan
+        summary: Bangun keterampilan teknis siswa Anda dengan kurikulum dan materi pendidikan yang disediakan oleh Microsoft.
+        componentType: text
+        links:
+          - componentType: link
+            url: overview.md
+            text: Mulai
+  - componentType: bifold
+    alignment: center
+    blocks:
+      - title: Bersiap untuk pengiriman kursus
+        summary: 'Sebagai bagian dari Microsoft Learn untuk Pendidik, Anda akan mendapatkan akses ke pelatihan dan alat untuk mempersiapkan Anda memberikan instruksi teknis mutakhir di kelas Anda.'
+        componentType: text
+        links:
+          - componentType: link
+            url: training.md
+            text: Pelajari lebih lanjut
+      - src: /learn/media/msle/key.svg
+        alt: gambar komputer
+        componentType: image
+  - componentType: bifold
+    alignment: center
+    blocks:
+      - src: /learn/media/msle/lightbulb.svg
+        alt: gambar komputer
+        componentType: image
+      - title: Membuat dampak dalam kehidupan siswa
+        summary: Pelajari bagaimana fakultas di seluruh dunia membangun keterampilan teknis siswa mereka dan membantu mereka mempersiapkan diri untuk karir masa depan.
+        componentType: text
+        links:
+          - componentType: link
+            url: influence.md
+            text: Info selengkapnya
+  - componentType: cards
+    title: Jalur pembelajaran dan modul yang direkomendasikan
+    backgroundColor: alternating-grey
+    blocks:
+      - componentType: card
+        title: Menerapkan sertifikasi dalam program akademik
+        summary: 'Dalam jalur pembelajaran ini, Anda akan mempelajari cara menerapkan Sertifikasi Microsoft pada program gelar akademik baru atau yang sudah ada.'
+        imageUrl: 'https://docs.microsoft.com/en-us/learn/achievements/student-evangelism/academic-program-certifications-path-social.png'
+        links:
+          - componentType: link
+            url: 'https://docs.microsoft.com/learn/paths/academic-program-certifications/'
+            text: Mulai
+      - componentType: card
+        title: 'Azure Fundamentals bagian 1: Menjelaskan konsep inti Azure'
+        summary: 'Baru di cloud? Dasar-dasar Azure adalah seri enam bagian yang mengajarkan konsep cloud dasar kepada Anda, memberikan gambaran umum yang efisien tentang banyak layanan Azure, dan memandu Anda dengan latihan langsung untuk menerapkan layanan pertama Anda secara gratis.'
+        imageUrl: 'https://docs.microsoft.com/en-us/learn/achievements/az-900-describe-cloud-concepts-social.png'
+        links:
+          - componentType: link
+            url: 'https://docs.microsoft.com/learn/paths/az-900-describe-cloud-concepts/'
+            text: Mulai
+      - componentType: card
+        title: 'Microsoft Security, Compliance, and Identity Fundamentals (SC-900): Menjelaskan konsep keamanan, kepatuhan, dan identitas'
+        summary: 'Pelajari tentang konsep inti, prinsip, dan metodologi yang mendasar bagi solusi keamanan, kepatuhan, dan identitas, termasuk Zero-Trust, tanggung jawab berbagi, peran IdP, dan banyak lagi.'
+        imageUrl: 'https://docs.microsoft.com/en-us/learn/achievements/describe-the-concepts-of-security-compliance-and-identity-social.png'
+        links:
+          - componentType: link
+            url: 'https://docs.microsoft.com/learn/paths/describe-concepts-of-security-compliance-identity/'
+            text: Mulai
+      - componentType: card
+        title: 'AZ-104: Mengelola identitas dan tata kelola di Azure'
+        summary: 'Pelajari cara mengelola objek Azure Active Directory, kontrol akses berbasis peran (RBAC), langganan, dan tata kelola di Azure.'
+        imageUrl: 'https://docs.microsoft.com/en-us/learn/achievements/az-104-manage-identities-governance-social.png'
+        links:
+          - componentType: link
+            url: 'https://docs.microsoft.com/learn/paths/az-104-manage-identities-governance/'
+            text: Mulai
+  - componentType: grid
+    backgroundColor: alternating-grey
+    title: Sumber daya yang direkomendasikan untuk pendidik
+    blocks:
+      - componentType: summary-card
+        title: Tanya jawab umum - program Microsoft Learn untuk Pendidik
+        summary: Dapatkan jawaban atas pertanyaan umum tentang Microsoft Learn untuk Pendidik
+        url: 'https://docs.microsoft.com/learn/educator-center/programs/msle/faq'
+      - componentType: summary-card
+        title: Konten pendidik di Microsoft Learn
+        summary: 'Microsoft Learn pengembangan profesional gratis, sertifikasi, dan bahan pelatihan pendukung untuk digunakan di kelas bagi para pendidik.'
+        url: 'https://docs.microsoft.com/learn/roles/educator'
+      - componentType: summary-card
+        title: Konten siswa di Microsoft Learn
+        summary: 'Kuasai konsep inti dengan kecepatan Anda dan sesuai jadwal Anda. Mulailah di sini untuk mengembangkan keterampilan praktis melalui modul dan jalur pembelajaran interaktif yang menyenangkan. Selain itu, pendidik bisa mendapatkan akses ke materi dan kurikulum kelas Microsoft.'
+        url: 'https://docs.microsoft.com/learn/roles/student'
+      - componentType: summary-card
+        title: Konten universitas di Microsoft Learn
+        summary: Jelajahi modul dan jalur pembelajaran dari universitas seperti Universitas Carnegie Mellon dan University of Oxford untuk mempersiapkan Anda berkarier di cloud.
+        url: 'https://docs.microsoft.com/learn/topics/universities'

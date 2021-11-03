@@ -1,27 +1,27 @@
 ---
 title: Katalog API Microsoft Learn
 description: API web berbasis REST untuk menampilkan informasi tentang konten yang diterbitkan di Microsoft Learn.
-ms.author: smmark
-author: markjulmar
-ms.date: 03/10/20
+ms.author: asjohnso
+author: asajohnson
+ms.date: 10/27/2021
 ms.topic: article
 ms.prod: non-product-specific
 breadcrumb_path: toc.yml
-ms.openlocfilehash: aef08013af6bd2f48100909afb65d85e57d3da19
-ms.sourcegitcommit: 48123434f54904a396a5616c7c05f9a03bd3a0df
+ms.openlocfilehash: 4f708c0776ecac8d304f527dd319c2b1c219426c
+ms.sourcegitcommit: b39b124844477584aae6479ee732f98c5c42ae3c
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "107696299"
+ms.lasthandoff: 10/30/2021
+ms.locfileid: "130960534"
 ---
 # <a name="microsoft-learn-catalog-api"></a>Microsoft Learn Catalog API
 
-Microsoft Learn Catalog API memungkinkan Anda mengirim kueri berbasis web ke Microsoft Learn dan mendapatkan detail tentang konten yang diterbitkan seperti judul, produk yang dibahas, dan tautan ke pelatihan. Pelanggan dapat menggunakan informasi yang diberikan dan menampilkannya dalam sistem manajemen pembelajaran (LMS) mereka dengan konten pelatihan lainnya.
+Microsoft Learn Catalog API memungkinkan Anda mengirim kueri berbasis web ke Microsoft Learn dan mendapatkan detail tentang konten yang diterbitkan seperti judul, produk yang dibahas, dan tautan ke pelatihan. Pelanggan dapat menggunakan informasi yang diberikan dan menampilkannya dalam sistem manajemen pembelajaran (LMS) mereka bersama konten pelatihan lainnya.
 
 > [!NOTE]
-> Pelanggan dapat menggunakan API ini untuk menampilkan informasi tentang pelatihan yang tersedia, tetapi pelatihan harus diselesaikan di Microsoft Learn.
+> Pelanggan dapat menggunakan API ini untuk menanyakan informasi tentang pelatihan apa yang tersedia untuk digunakan dalam sistem mereka sendiri. Untuk mengeksplorasi cara mengintegrasikan ini dengan fitur lain dari Microsoft Learn, lihat artikel [Memanfaatkan Learn di organisasi Anda](integrations.md).
 
-Catalog API ditawarkan berdasarkan [Ketentuan Penggunaan API Microsoft.](https://docs.microsoft.com/legal/microsoft-apis/terms-of-use) Halaman ini menyediakan detail teknis terkait API dan cara menginterpretasikan informasi yang ditampilkan.
+Catalog API ditawarkan berdasarkan [Ketentuan Penggunaan API Microsoft.](/legal/microsoft-apis/terms-of-use) Halaman ini menyediakan detail teknis terkait API dan cara menginterpretasikan informasi yang ditampilkan.
 
 ## <a name="modules-and-learning-paths"></a>Modul dan Jalur Pembelajaran
 
@@ -29,13 +29,13 @@ Konten di Microsoft Learn diatur menurut dua elemen: yaitu _modul_ dan _jalur pe
 
 ### <a name="modules"></a>Modul
 
-_Modul_ adalah konten pelatihan yang sebenarnya. Satu modul terdiri dari beberapa halaman web yang menjelaskan tentang layanan atau teknologi dan sering kali memberikan beberapa bentuk interaktivitas untuk mencoba teknologi tersebut. Setiap modul memiliki metadata terkait untuk dengan cepat mengidentifikasi target modulnya, isi yang dibahas, dan waktu yang diperlukan untuk menyelesaikannya. Detail ini dapat ditemukan di ubin grafis pada [halaman penelusuran Microsoft Learn](https://docs.microsoft.com/learn/browse), seperti yang diperlihatkan dalam cuplikan layar berikut ini.
+_Modul_ adalah konten pelatihan yang sebenarnya. Satu modul terdiri dari beberapa halaman web yang menjelaskan tentang layanan atau teknologi dan sering kali memberikan beberapa bentuk interaktivitas untuk mencoba teknologi tersebut. Setiap modul memiliki metadata terkait untuk dengan cepat mengidentifikasi target modulnya, isi yang dibahas, dan waktu yang diperlukan untuk menyelesaikannya. Detail ini dapat ditemukan di ubin grafis pada halaman penelusuran Microsoft Learn, seperti yang diperlihatkan dalam cuplikan layar berikut ini.
 
 ![Cuplikan layar memperlihatkan satu modul dengan semua detail dari situs web Microsoft Learn](media/module-details.png)
 
 ### <a name="learning-paths"></a>Jalur Pembelajaran
 
-_Jalur pembelajaran_ adalah kumpulan modul terkait yang disajikan dalam urutan tertentu sehingga modul tersebut saling melengkapi untuk mengajarkan topik yang lebih luas. Jalur pembelajaran juga menyertakan metadata deskriptif yang mirip dengan modul, seperti yang ditunjukkan pada cuplikan layar dari halaman penelusuran di bawah ini.
+_Jalur pembelajaran_ adalah kumpulan modul terkait yang disajikan dalam urutan tertentu sehingga modul tersebut saling melengkapi untuk mengajarkan keterampilan yang lebih luas. Jalur pembelajaran juga menyertakan metadata deskriptif yang mirip dengan modul, seperti yang ditunjukkan pada cuplikan layar dari halaman penelusuran di bawah ini.
 
 ![Cuplikan layar memperlihatkan jalur pembelajaran dari situs web Microsoft Learn](media/learning-path-details.png)
 
@@ -58,7 +58,7 @@ Berikut adalah parameter kueri yang dapat disertakan dalam permintaan. Kolom **W
 
 | Nama | Nilai | Jenis | Diperlukan |
 |------|-------|------|----------|
-| bahasa | Kode bahasa yang valid dari [daftar bahasa yang didukung](https://docs.microsoft.com/locale/), misalnya 'id-id'. Metadata yang diberikan akan disajikan dalam bahasa yang diminta jika tersedia. Jika parameter ini tidak ditentukan, default 'id-id' akan digunakan. | string | Tidak |
+| bahasa | Kode bahasa yang valid dari [daftar bahasa yang didukung](/locale), misalnya 'id-id'. Metadata yang diberikan akan disajikan dalam bahasa yang diminta jika tersedia. Jika parameter ini tidak ditentukan, default 'id-id' akan digunakan. | string | Tidak |
 
 ## <a name="api-response"></a>Respons API
 
@@ -147,7 +147,7 @@ Setiap modul akan memiliki bentuk berikut:
 | `type` | string | Tipe data. Nilainya akan selalu 'module'. |
 | `title` | string | Judul modul dalam bahasa yang diminta, atau bahasa Inggris AS sebagai alternatif. |
 | `duration_in_minutes` | integer | Waktu rata-rata yang diperlukan untuk menyelesaikan modul ini dalam hitungan menit. |
-| `rating` | objek | Tipe data ini berisi `count`, yaitu jumlah orang yang telah menilai modul, dan `average`, yang merupakan gabungan nilai, yaitu 1-5 |
+| `rating` | objek | Berisi `count`, yaitu jumlah orang yang telah menilai modul, dan `average`, yang merupakan gabungan nilai, yaitu 1-5 |
 | `popularity` | double | Nilai yang dinormalkan dari 0-1 menunjukkan popularitas modul | 
 | `icon_url` | string | URL yang sepenuhnya memenuhi syarat untuk gambar **.svg** atau **.png** berukuran 100x100 yang mewakili modul. |
 | `locale` | string | Bahasa yang digunakan dalam data JSON ini. Nilai ini akan menggunakan bahasa yang diminta jika tersedia, jika tidak 'en-us'. |
@@ -217,7 +217,7 @@ Setiap Jalur pembelajaran akan memiliki bentuk berikut:
 | `type` | string | Tipe data. Nilainya selalu 'learningPath'. |
 | `title` | string | Judul jalur pembelajaran dalam bahasa yang diminta, atau bahasa Inggris AS sebagai alternatif. |
 | `duration_in_minutes` | integer | Waktu rata-rata yang diperlukan untuk menyelesaikan jalur pembelajaran ini dalam hitungan menit. Nilai ini merupakan jumlah data dari semua modul yang disertakan. |
-| `rating` | objek | Tipe data ini berisi `count`, yaitu jumlah orang yang telah menilai jalur pembelajaran, dan `average`, yang merupakan gabungan nilai, yaitu 1-5 |
+| `rating` | objek | Berisi `count`, yaitu jumlah orang yang telah menilai jalur pembelajaran, dan `average`, yang merupakan gabungan nilai, yaitu 1-5 |
 | `popularity` | double | Nilai yang dinormalkan dari 0-1 menunjukkan popularitas jalur pembelajaran | 
 | `icon_url` | string | URL yang sepenuhnya memenuhi syarat untuk gambar **.svg** atau **.png** berukuran 100x100 yang mewakili jalur pembelajaran. |
 | `locale` | string | Bahasa yang digunakan dalam data JSON ini. Nilai ini akan menggunakan bahasa yang diminta jika tersedia, jika tidak 'en-us'. |

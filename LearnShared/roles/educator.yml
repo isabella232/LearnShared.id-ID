@@ -1,0 +1,58 @@
+### YamlMime:TopicLanding
+title: Microsoft Learn untuk Pendidik
+summary: Microsoft Learn pengembangan profesional gratis, sertifikasi, dan bahan pelatihan pendukung untuk digunakan di kelas bagi para pendidik.
+hero:
+  title: Microsoft Learn untuk Pendidik
+  subTitle: Melakukan transformasi pengajaran dan pembelajaran secara digital
+  summary: Sebagai pendidik, Anda berperan penting dalam memberdayakan siswa agar sukses di masa depan! Microsoft Learn pengembangan profesional gratis, sertifikasi, dan bahan pelatihan pendukung untuk digunakan di kelas bagi para pendidik.
+  link:
+    url: /learn/browse/?roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Jelajahi semua jalur untuk Pendidik
+  imageUrl: https://docs.microsoft.com/media/learn/topics/blue-hero-background-02.svg
+featuredSection:
+- title: Gambaran Umum
+  subTitle: Baru di Microsoft Learn?
+  summary: Ikuti modul pengantar kami "Menavigasi Microsoft Learn untuk Pendidik dan Pemimpin Sekolah" guna mempelajari hal-hal penting untuk menggunakan Microsoft Learn
+  imageUrl: /learn/media/topics/powerapps-card-airplane.svg
+  link:
+    url: https://docs.microsoft.com/learn/modules/navigate-microsoft-learn-for-educators-school-leaders/
+    text: Memulai
+- title: Dukungan
+  subTitle: Bantuan & pembelajaran Pendidikan
+  summary: Ajarkan dan belajar di mana pun Anda berada dengan dokumentasi dan jawaban tentang Microsoft Teams dan Office 365
+  imageUrl: /learn/media/topics/powerapps-card-balloon.svg
+  link:
+    url: https://support.microsoft.com/education
+    text: Pelajari lebih lanjut
+- title: Program
+  subTitle: Ajarkan keterampilan teknologi untuk masa depan
+  summary: Microsoft Learn untuk Pendidik mengambil jalur pembelajaran online Microsoft Learn terbaik dan menyediakan kurikulum dan materi pelatihan pendukung kepada pendidik untuk digunakan di kelas.
+  imageUrl: /learn/media/topics/powerapps-card-satellite.svg
+  link:
+    url: /learn/educator-center/programs/msle/
+    text: Daftar sekarang
+curatedSection:
+- title: Modul dan jalur pembelajaran yang direkomendasikan
+  items:
+  - learn.mec.transform-education-strategic-leadership
+  - learn.mec.staying-connected-remote-learning-microsoft-teams-office-365
+  - learn.mec.build-sel-skills-with-reflect
+  - learn.mec.teach-forward-best-strategies-hybrid-remote-blended-learning
+  - learn.academic-program-certifications
+  - learn.mec.minecraft-intro-game-based-learning
+trendingSection:
+  title: Jalur pembelajaran dan modul populer untuk pendidik
+  filters:
+    roles:
+    - k-12-educator
+    - higher-ed-educator
+    - school-leader
+    - parent-guardian
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: ca7ab350a30cb23da7736fa4d3aedd3d8e21086d
+  ms.sourcegitcommit: e8f2e5fc2e985a9e6aa87dbe36cc60b3c377833f
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 09/29/2021
+  ms.locfileid: "129244608"

@@ -1,0 +1,65 @@
+### YamlMime:TopicLanding
+title: Meningkatkan keamanan cyber bangsa
+summary: Microsoft berkomitmen untuk membantu pemerintah federal memodernisasi keamanan untuk mendukung Perintah Eksekutif Gedung Putih untuk Meningkatkan Keamanan Cyber Bangsa.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: 9d7fa965504b02a3fac0703feeaef9cd00d4c4c2
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122438015"
+hero:
+  title: Meningkatkan keamanan cyber bangsa
+  subTitle: Sumber daya dan pelatihan pemerintah AS
+  summary: Microsoft berkomitmen untuk membantu pemerintah federal memodernisasi keamanan untuk mendukung Perintah Eksekutif Gedung Putih untuk Meningkatkan Keamanan Cyber Bangsa.
+  imageUrl: /learn/media/topics/azure-header-background.svg
+featuredSection:
+- title: Sertifikasi
+  subTitle: Dapatkan Sertifikasi
+  summary: Tingkatkan karier Anda, dapatkan pengakuan, dan validasi pengetahuan teknis Anda. Sertifikasi Dasar Keamanan, Kepatuhan, dan Identitas Microsoft membantu Anda mendapatkan info terkini dan relevan dalam karier Anda.
+  imageUrl: /learn/media/topics/azure-card-lakes.svg
+  link:
+    url: /learn/certifications/security-compliance-and-identity-fundamentals/
+    text: Jelajahi sertifikasi
+- title: Sumber
+  subTitle: Microsoft Security Technical Content Library
+  summary: Temukan konten teknis yang relevan untuk kebutuhan keamanan Anda. Cari berdasarkan peran, tingkat pengalaman, produk, topik, dan lainnya.
+  imageUrl: /learn/media/topics/azure-card-satellite.svg
+  link:
+    url: https://www.microsoft.com/security/content-library/
+    text: Jelajahi pustaka
+- title: Arsitektur
+  subTitle: Arsitektur referensi keamanan cyber
+  summary: Jelajahi kemampuan Keamanan Microsoft melalui diagram teknis terperinci ini. Membahas masalah seperti zero trust, akses pengguna, operasi keamanan, beberapa kemampuan cloud, dan banyak lagi.
+  imageUrl: /learn/media/topics/azure-card-train.svg
+  link:
+    url: https://docs.microsoft.com/security/cybersecurity-reference-architecture/mcra
+    text: Temukan solusi Anda
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn-m365.cybersecurity-secure-cloud-adoption
+  - learn.wwl.examine-zero-trust-approach-to-security-microsoft-365
+  - learn.azure-security.secure-aad-users-with-mfa
+  - learn-m365.m365-defender-endpoint-secure-organization
+  - learn-m365.cybersecurity-data
+  - learn-m365.cybersecurity-secure-software
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - azure-active-directory
+    - azure-key-vault
+    - azure-security-center
+    - azure-sentinel
+    - m365-ems
+    - m365-information-protection
+    - m365-security-center
+    - m365-threat-protection
+    - mdatp
+    roles:
+    - security-engineer
+    - security-operations-analyst
+  linkText: Lihat apa yang sedang dipelajari orang lain

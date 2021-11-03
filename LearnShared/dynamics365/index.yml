@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Dynamics 365 di Microsoft Learn
 summary: Pelajari bagaimana Anda dapat menggunakan Dynamics 365 untuk memenuhi tantangan hari ini dengan menyatukan pelanggan dan bisnis Anda dengan aplikasi CRM dan ERP generasi berikutnya.
+metadata:
+  ms.topic: landing-page
+  ms.prod: dynamics-365
+  ms.openlocfilehash: 602ac7410d39cdfd8ab842f8b0b3edb55c209116
+  ms.sourcegitcommit: b39b124844477584aae6479ee732f98c5c42ae3c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 10/30/2021
+  ms.locfileid: "130960902"
 hero:
   title: Microsoft Learn untuk Dynamics 365
   subTitle: Microsoft Dynamics 365
@@ -10,26 +19,26 @@ hero:
     text: Telusuri semua jalur pembelajaran Dynamics 365
   imageUrl: /learn/media/topics/dynamics365-header-background.svg
 featuredSection:
-- title: Acara
-  subTitle: Sesi Build
-  summary: Saksikan sesi sesuai permintaan dari Build tentang berbagai solusi dan teknologi.
-  imageUrl: /learn/media/topics/dynamics365-card-train.svg
+- title: Video
+  subTitle: Sesi Ignite
+  summary: Tonton pustaka lengkap sesi Dynamics 365 yang dibuat untuk Ignite.
+  imageUrl: /learn/media/topics/dynamics365-card-lakes.svg
   link:
-    url: /events/build-may-2021/dynamics-365
-    text: Jelajahi sesi
+    url: /events/ignite-nov-2021/dynamics-365/
+    text: Jelajahi Sertifikasi
 - title: Komunitas
-  subTitle: Microsoft Tech Community
+  subTitle: Komunitas Dynamics 365
   summary: Terhubung dan diskusikan berita terbaru, informasi produk terbaru, dan praktik terbaik dengan rekan dan profesional Microsoft.
-  imageUrl: /learn/media/topics/dynamics365-card-satellite.svg
+  imageUrl: /learn/media/topics/dynamics365-card-train.svg
   link:
     url: https://community.dynamics.com/
     text: Bergabunglah dengan komunitas kami
 - title: Acara
   subTitle: Hari Pelatihan Virtual
-  summary: Acara virtual 1 dan 2 hari ini akan memberi Anda kesempatan untuk memperluas keterampilan Anda dan terhubung dengan pakar Microsoft.
-  imageUrl: /learn/media/topics/dynamics365-card-lakes.svg
+  summary: Teruskan pembelajaran dengan Microsoft Virtual Training Days yang menyediakan keterampilan teknis gratis yang dipandu instruktur, dalam berbagai bahasa dan zona waktu di berbagai topik.
+  imageUrl: /learn/media/topics/dynamics365-card-satellite.svg
   link:
-    url: https://mvtd.events.microsoft.com/Dynamics365?wt.mc_id=onedestination
+    url: https://mvtd.events.microsoft.com/Dynamics365/?evt=ignite&wt.mc_id=Ignite2021_corp_bn_oo_bn_onedest_vtd
     text: Menelusuri acara pelatihan
 curatedSection:
 - title: Jalur Anda untuk memulai
@@ -46,10 +55,3 @@ trendingSection:
     products:
     - dynamics-365
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: 0d7d2d3d31d360dc0fd728b5eba8257f8dd127d4
-  ms.sourcegitcommit: 8309c73463be5fd84e25952f07192342da51f33c
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 05/12/2021
-  ms.locfileid: "109818419"

@@ -1,0 +1,55 @@
+### YamlMime:LearnHome
+metadata:
+  title: Microsoft Learn
+  description: Keterampilan yang diperlukan untuk memajukan karir Anda dan mendapatkan tempat Anda di puncak tidak datang dengan mudah. Sekarang ada pendekatan yang lebih bermanfaat untuk pembelajaran langsung yang membantu Anda mencapai tujuan Anda lebih cepat. Dapatkan poin, level, dan raih lebih banyak!
+  robots: noindex
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: cb68b8386258d8f8956d83c3de1d5b704cb3f3fc
+  ms.sourcegitcommit: 34c24963810275d5b0ebd1945dd81ccec0160ee4
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 10/22/2021
+  ms.locfileid: "130191971"
+featuredSection:
+  title: Favorit kami saat ini
+  authenticatedTitle: Baru dan baru diperbarui
+  learnItems:
+  - learn.azure-well-architected-introduction
+  - learn.static-apps-gatsby
+  - learn.github.github-actions-automate-tasks
+hero:
+  superTitle: Selamat datang di Microsoft Learn
+  link:
+    url: /learn/browse/
+    text: Telusuri semua jalur
+  authenticatedSummary: Kuasai konsep inti dengan kecepatan Anda dan sesuai jadwal Anda. Baik Anda memiliki waktu 15 menit atau satu jam, Anda dapat mengembangkan keterampilan praktis melalui modul dan jalur interaktif.
+summary: Baik pemula maupun profesional berpengalaman, pendekatan langsung kami akan membantu Anda mencapai tujuan lebih cepat dan lebih percaya diri, sesuai keinginan.
+title: Temukan jalur Anda
+resources:
+- title: Dapatkan sertifikasi Microsoft
+  superTitle: Sertifikasi
+  summary: Kembangkan karier dan tunjukkan pencapaian Anda melalui sertifikasi Microsoft yang diakui industri.
+  imageUrl: https://docs.microsoft.com/en-us/media/learn/home/featured_certifications_tablet.png
+  link:
+    url: /learn/certifications/
+    text: Jelajahi Sertifikasi
+- title: Tonton acara langsung dan rekaman
+  superTitle: Learn TV
+  summary: Saksikan streaming konten teknis tentang produk Microsoft dari para pakar yang merancang dan menggunakan produk setiap hari.
+  imageUrl: tv/media/learn-tv-tile.jpg
+  link:
+    url: /learn/tv/
+    text: Mulai menonton sekarang
+- title: Dapatkan pembaruan terbaru
+  superTitle: Blog
+  summary: Temukan pengumuman pelatihan dan sertifikasi, tips dan trik, dan kisah sukses dari komunitas pembelajaran kami.
+  imageUrl: ./media/home-card-blog.svg
+  link:
+    url: https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
+    text: Baca sekarang
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  link:
+    url: /learn/browse/
+    text: Lihat apa yang sedang dipelajari orang lain

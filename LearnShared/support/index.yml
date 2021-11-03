@@ -1,15 +1,15 @@
 ### YamlMime:Hub
 title: Dukungan Microsoft Learn
-summary: 'Dapatkan jawaban atas pertanyaan yang sering diajukan, pecahkan masalah umum, dan laporkan bug yang terkait dengan Microsoft Learn.'
+summary: 'Dapatkan jawaban atas pertanyaan yang sering diajukan, pecahkan masalah umum, dan temukan fitur yang terkait dengan Microsoft Learn.'
 metadata:
   title: Dukungan Microsoft Learn
-  description: 'Dapatkan jawaban atas pertanyaan yang sering diajukan, pecahkan masalah umum, dan laporkan bug yang terkait dengan Microsoft Learn.'
+  description: 'Dapatkan jawaban atas pertanyaan yang sering diajukan, pecahkan masalah umum, dan temukan fitur yang terkait dengan Microsoft Learn.'
   services: service
   ms.topic: hub-page
   ms.collection: collection
   author: sadadow
   ms.author: saadad
-  ms.date: 01/20/2020
+  ms.date: 10/28/2021
   ms.prod: non-product-specific
 productDirectory:
   items:
@@ -24,32 +24,34 @@ productDirectory:
           text: Sandbox
         - url: ./faq.md?pivots=support
           text: Dukungan
+        - url: ./faq.md?pivots=educators
+          text: Pendidik
     - title: Pemecahan Masalah
       imageSrc: ./media/i_tools.svg
       links:
         - url: ./troubleshooting.md
-          text: Jelajahi isu yang diketahui
+          text: Telusuri masalah umum
         - url: ./troubleshooting.md#report-feedback
           text: Laporkan umpan balik
-    - title: API/Sumber Daya
+    - title: Integrasi / Sumber Daya
       imageSrc: ./media/i_api-reference.svg
       links:
+        - url: ./integrations.md
+          text: Memanfaatkan Learn di organisasi Anda
         - url: ./catalog-api.md
           text: API Katalog
-        - url: ./lti-application.md
-          text: Aplikasi LMS
-        - url: ./use-your-own-subscription.md
-          text: Cara menjalankan latihan Microsoft Learn di langganan Anda sendiri
         - url: ./org-reporting.md
-          text: Pelaporan Organisasi
-        - url: 'https://docs.microsoft.com/learn/roles/educator'
-          text: Materi pendidik
+          text: Pelaporan organisasi
+        - url: ./lti-application.md
+          text: Aplikasi LTI LMS
+        - url: ./use-your-own-subscription.md
+          text: Jalankan latihan Learn dalam langganan Anda sendiri
     - title: Dukungan sertifikasi
       imageSrc: ./media/certification-advanced.svg
       links:
         - url: 'https://docs.microsoft.com/learn/certifications/help'
           text: Dukungan sertifikasi
         - url: 'https://docs.microsoft.com/learn/certifications/certification-exam-policies'
-          text: Kebijakan ujian dan FAQ
+          text: Kebijakan ujian dan FAQ Sertifikasi
         - url: 'https://docs.microsoft.com/learn/certifications/certification-and-training-help'
           text: Bantuan Microsoft Official Courseware (MOC)

@@ -3,16 +3,17 @@ title: Mulai menggunakan layanan Microsoft Learn Organizational Reporting
 description: Organisasi dapat menampilkan serta melacak kemajuan dan prestasi pelatihan pengguna mereka menggunakan Microsoft Learn Organizational Reporting.
 author: asajohnson
 ms.author: asjohnso
-ms.date: 05/13/2021
+ms.date: 10/27/2021
 ms.topic: article
 ms.prod: non-product-specific
 org_reporting: true
-ms.openlocfilehash: 86353b272f48525e85ea31bcdb3e5b799b62ee15
-ms.sourcegitcommit: 4706d5a0a2b222fe2e48811f843bc1f79c7aea55
+breadcrumb_path: toc.yml
+ms.openlocfilehash: 3689cf3e82a621c639a182085696fbde92a4feb2
+ms.sourcegitcommit: b39b124844477584aae6479ee732f98c5c42ae3c
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "110601541"
+ms.lasthandoff: 10/30/2021
+ms.locfileid: "130961385"
 ---
 # <a name="get-started-with-the-microsoft-learn-organizational-reporting-service"></a>Mulai menggunakan layanan Microsoft Learn Organizational Reporting
 
@@ -71,9 +72,12 @@ Berikut adalah tutorial langkah demi langkah tentang pembuatan dan penyiapan ber
 
 ## <a name="manage-your-data-share"></a>Kelola berbagi data Anda 
 
-Bagian data adalah sekelompok himpunan data yang dibagikan sebagai satu entitas. Himpunan data dapat berasal dari beberapa sumber data Azure yang didukung oleh Azure Data Share. Saat ini, Azure Data Share mendukung Azure Blob Storage dan Azure Data Lake Storage. Kunjungi [halaman terminologi Azure Data Share](/azure/data-share/terminology) terkait elemen layanan ini.
+Bagian data adalah sekelompok himpunan data yang dibagikan sebagai satu entitas. Himpunan data dapat berasal dari banyak sumber data Azure yang didukung oleh Azure Data Share. Saat ini, Azure Data Share mendukung Azure Blob Storage dan Azure Data Lake Storage. Kunjungi [halaman terminologi Azure Data Share](/azure/data-share/terminology) terkait elemen layanan ini.
 
 Dalam bagian data, Anda akan memiliki kontrol untuk memperbarui jadwal sinkronisasi, menyinkronkan secara manual, serta meninjau status dan riwayat eksekusi terakhir.  
+
+> [!Important]
+> Jika Anda memilih untuk menyinkronkan ke SQL Database dan ingin menggunakan templat Power BI kami di bawah ini tanpa konfigurasi tambahan di Power BI, jangan izinkan Azure Data Share Anda membuat tabel dengan ID penyewa dalam nama. Anda seharusnya dapat menghapus ID penyewa dari nama tabel sebagai bagian dari proses sinkronisasi Azure Data Share. Jika memilih untuk menggunakan konvensi penamaan kustom yang masih dapat menggunakan templat Power BI, Anda hanya perlu mengedit kueri di Power BI untuk menggunakan nama tabel yang benar.
 
 :::image type="content" source="media/Data Share items.JPG" alt-text="Cuplikan layar portal Azure di panel konfigurasi Data Share menyoroti pengaturan jepretan layar Pemicu.":::
 
@@ -125,7 +129,7 @@ Himpunan data **Kemajuan** berisi informasi tentang jumlah poin XP yang diperole
 
 #### <a name="users"></a>Pengguna
 
-Himpunan data **Pengguna** berisi informasi tentang semua pengguna yang direferensikan dalam himpunan data khusus penyewa lainnya. Perlu diperhatikan, himpunan data ini tidak berisi informasi PII. Anda perlu menggabungkannya dengan daftar pengguna Azure Active Directory untuk memeriksa daftar informasi pengguna yang lebih lengkap terhadap data lain.  
+Himpunan data **Pengguna** berisi informasi tentang semua pengguna yang direferensikan dalam himpunan data khusus penyewa lainnya. Perlu diperhatikan bahwa himpunan data ini tidak berisi informasi PII. Saat melaporkan, Anda perlu menggabungkan data ini dengan daftar pengguna Azure Active Directory untuk memeriksa daftar informasi pengguna yang lebih lengkap terhadap data lain.  
 <br>
 
 | tenantId | userId | AADObjectId | CreatedOn |
@@ -143,10 +147,9 @@ Himpunan data **HierarchyLearningPath** berisi informasi katalog tentang semua J
 Lihat contoh Jalur Pembelajaran di situs langsung Microsoft Learn: [Dasar-dasar Microsoft Power Platform](/learn/paths/power-plat-fundamentals/).  
 <br>
 
-| LearningPathUid | title | url | durationInMinutes | points | iconUrl | levels | products | peran |
-|-|-|-|-|-|-|-|-|-|
-| learn.accessibility-fundamentals | Dasar aksesibilitas | /learn/paths/accessibility-fundamentals/ | 145 | 700 | /learn/achievements/accessibility-features.svg | ["beginner"] | ["m365"] | ["administrator","student"] |
-| learn.administer-containers-in-azure | Memberikan wadah di Azure | /learn/paths/administer-containers-in-azure/ | 310 | 1225 | /learn/achievements/administer-containers-in-azure.svg | ["beginner"] | ["azure","azure-container-instances","azure-container-registry"] | ["administrator"] |
+| LearningPathUid | title | url | durationInMinutes | points | iconUrl | levels | products | peran | languages |
+|-|-|-|-|-|-|-|-|-|-|
+| learn.create-serverless-applications | Membuat aplikasi tanpa server | /learn/paths/create-serverless-applications/ | 517 | 1925 | /learn/achievements/create-serverless-applications.svg | ["beginner","intermediate"] | ["azure","azure-functions","azure-portal","azure-cosmos-db","azure-storage","azure-cloud-shell"] | ["developer","student"] | ["powershell"] |
 
 #### <a name="hierarchylearningpathmodule"></a>HierarchyLearningPathModule
 
@@ -167,10 +170,9 @@ Himpunan data **HierarchyModule** berisi informasi katalog tentang semua Modul (
 Lihat contoh Modul di situs langsung Microsoft Learn: [Diskusikan konsep dasar Azure](/learn/modules/fundamental-azure-concepts/).  
 <br>
 
-| moduleUid | title | url | iconUrl | durationInMinutes | points | levels | products | peran |
-|-|-|-|-|-|-|-|-|-|
-| azure.query-data-sentinel | Membuat kueri, memvisualkan, dan memantau data di Azure Sentinel | /learn/modules/query-data-sentinel/ | /learn/achievements/query-data-sentinel.svg | 48 | 200 | ["beginner"] | ["azure"] | ["solution-architect"] |
-| learn.access-data-with-cosmos-db-and-sql-api | Menyisipkan dan membuat kueri data dalam database Azure Cosmos DB | /learn/modules/access-data-with-cosmos-db-and-sql-api/ | /learn/achievements/access-data-with-cosmos-db-and-sql-api.svg | 58 | 200 | ["beginner"] | ["azure","azure-cosmos-db","azure-clis","azure-portal"] | ["developer","solution-architect"] |
+| moduleUid | title | url | iconUrl | durationInMinutes | points | levels | products | peran | languages |
+|-|-|-|-|-|-|-|-|-|-|
+| learn.languages.powershell-write-first | Tulis kode PowerShell pertama Anda | /learn/modules/powershell-write-first/ | /learn/achievements/powershell/powershell-write-first-code.svg | 17 | 200 | ["beginner"] | ["dotnet"] | ["developer","student"] | ["powershell"] |
 
 #### <a name="hierarchyunit"></a>HierarchyUnit
 
@@ -187,7 +189,7 @@ Lihat contoh Modul beserta daftar unitnya di situs langsung Microsoft Learn: [Di
 
 ## <a name="download-user-list-in-azure-active-directory-portal"></a>Unduh daftar pengguna di portal Azure Active Directory  
 
-Untuk melihat informasi yang lebih lengkap tentang pengguna yang tercantum dalam himpunan data kemajuan dan penyelesaian, Anda harus menggabungkan himpunan data Microsoft Learn dengan informasi pengguna dari Azure Active Directory. Anda dapat melakukannya dengan mengunduh daftar pengguna dari portal Azure Active Directory. 
+Untuk melihat informasi yang lebih lengkap tentang pengguna yang tercantum dalam himpunan data kemajuan dan penyelesaian, Anda harus menggabungkan himpunan data Microsoft Learn dengan informasi pengguna dari Azure Active Directory. Anda bisa mendapatkan daftar pengguna dan informasi mereka dengan mengunduhnya dari portal Azure Active Directory. 
 
 > [!IMPORTANT]
 > Untuk mengunduh daftar pengguna dari pusat admin Azure AD, Anda harus masuk dengan pengguna yang ditetapkan ke satu atau beberapa peran administrator tingkat organisasi di Azure AD (minimum memerlukan peran Administrator Pengguna). Pengundang Tamu dan Pengembang Aplikasi tidak dianggap sebagai peran administrator.
@@ -208,23 +210,23 @@ Untuk mengunduh daftar pengguna:
 
     - userPrincipalName
     - displayName
-    - surname
+    - nama belakang
     - mail
     - givenName
     - objectId
     - userType
     - jobTitle
-    - departemen
+    - department
     - accountEnabled
     - usageLocation
     - streetAddress
     - status
-    - negara
+    - country
     - physicalDeliveryOfficeName
     - kota
     - postalCode
     - telephoneNumber
-    - mobile
+    - seluler
     - authenticationAlternativePhoneNumber
     - authenticationEmail
     - alternateEmailAddress
@@ -234,20 +236,64 @@ Untuk mengunduh daftar pengguna:
 
 Lihat langkah-langkah dan detail selengkapnya di artikel [Mengunduh daftar pengguna di portal Azure Active Directory](/azure/active-directory/enterprise-users/users-bulk-download).
 
-## <a name="example-power-bi-report"></a>Contoh laporan Power BI
+## <a name="power-bi-template-for-sql-db-storage"></a>Templat Power BI untuk penyimpanan SQL DB
 
-Kami membuat contoh laporan Power BI untuk memvisualkan manfaat data ini untuk melaporkan kemajuan pelatihan individu di organisasi Anda. Kami menampilkan tampilan gabungan dari pelatihan yang dilakukan dalam MS Learn dan pemahaman yang lebih mendetail tentang jalur pembelajaran tertentu seperti Azure Fundaments, jalur pembelajaran kami yang paling populer.  
+Kami telah membuat templat Power BI berdasarkan konfigurasi standar SQL Server dan DB dari Azure Data Share (yaitu pemetaan 1:1 antara himpunan data dan DB). Ini adalah titik awal untuk memvisualisasikan dan melaporkan himpunan data pelaporan organisasi, termasuk pandangan tingkat tinggi serta kemajuan pelatihan tingkat pengguna individu dalam organisasi Anda, tetapi juga dapat diperluas untuk membangun pelaporan lebih lanjut dan digabungkan dengan data lain.
 
-Berikut adalah langkah-langkah awal untuk mengekspor data ini:  
+:::image type="content" source="media/orgreporting-pbi-1.png" alt-text="Contoh dasbor Power BI memperlihatkan data penyelesaian Learn tingkat tinggi yang dihasilkan dari Organizational Reporting.":::
 
-1. Masuk ke Power BI
-1. File -> Dapatkan Data -> Pilih sumber (hubungkan ke himpunan data atau db SQL).  
+:::image type="content" source="media/orgreporting-pbi-2.png" alt-text="Contoh dasbor Power BI memperlihatkan data penyelesaian jalur pembelajaran Learn pengguna yang dihasilkan dari Organizational Reporting.":::
 
-Lihat detail selengkapnya tentang cara menerapkan di Power BI di sini: [Tutorial: Menghubungkan himpunan data ke database SQL Server](/power-bi/connect-data/service-gateway-sql-tutorial#connect-a-dataset-to-a-sql-server-database)
+:::image type="content" source="media/orgreporting-pbi-3.png" alt-text="Contoh dasbor Power BI memperlihatkan data penyelesaian modul Learn pengguna yang dihasilkan dari Organizational Reporting.":::
 
-:::image type="content" source="media/Organization Reporting Power BI1.jpg" alt-text="Contoh dasbor Power BI memperlihatkan data penyelesaian modul Learn pengguna yang dihasilkan dari Organizational Reporting.":::
+### <a name="requirements-to-use-this-template"></a>Persyaratan untuk menggunakan templat ini:
+> [!div class="checklist"]
+> * Anda harus mengonfigurasi Azure Data Share untuk memetakan ke SQL Server & DB.
+> * Nama tabel SQL DB Anda harus mengikuti nama tabel DB standar dari Azure Data Share dan tidak memiliki ID penyewa yang ditambahkan ke akhir. *Jika Anda memiliki ID penyewa yang ditambahkan ke akhir tabel Anda, atau Anda telah mengganti nama tabel - Anda dapat memodifikasi konfigurasi agar sesuai dengan templat - atau mengedit kueri di Power BI agar sesuai dengan konfigurasi Anda. Instruksi yang tercantum di bawah ini di bagian 'Pemecahan masalah umum'.*
+> * Anda telah mengunduh daftar pengguna dari Portal Azure Active Directory Anda. *Jika belum melakukan ini, Anda akan melihat bidang kosong di mana nama pengguna seharusnya tercantum.*
+> * Anda harus menginstal [Power BI Desktop](https://powerbi.microsoft.com/downloads/) untuk membuat laporan awal dan melakukan pengeditan selanjutnya. *Pengguna tidak memerlukan Power BI Desktop untuk melihat laporan setelah dipublikasikan.*
 
-:::image type="content" source="media/Organization Reporting Power BI2.jpg" alt-text="Contoh dasbor Power BI memperlihatkan data penyelesaian jalur pembelajaran Learn pengguna yang dihasilkan dari Organizational Reporting.":::
+### <a name="steps-to-use-this-template"></a>Langkah-langkah untuk menggunakan templat ini
+
+Pertama, Anda harus mengunduh templat dan memasukkan SQL Server dan DB Anda sebagai koneksi:
+
+1. **Unduh templat** dari GitHub repo [mslearn-organizational-template](https://github.com/MicrosoftDocs/mslearn-organizational-reporting/raw/main/pbi-templates/msft-learn-org-report-sqldb-source.pbit). *Catatan: Anda tidak memerlukan akun GitHub untuk mengunduh templat.*
+1. **Buka** file.
+1. Masukkan **SQL Server dan DB**.
+1. Klik **Muat**.
+
+Selanjutnya, Anda perlu mengunggah data pengguna Azure Active Directory dari CSV yang Anda ekspor sebelumnya untuk melihat nama pengguna dan informasi pribadi dengan data.
+
+1. Klik **Dapatkan Data**.
+1. Klik **Teks/CSV**.
+1. Pilih **File**.
+1. Klik **Buka**.
+1. Klik **Muat**.
+1. Dari Layar Laporan **temukan** tabel **UserAADInfo** di kolom kanan.
+1. Klik kanan **UserAADInfo**.
+1. pilih **Edit Kueri**.
+1. Dalam daftar tabel, pastikan **UserADDInfo disorot**.
+1. Di menu atas di sisi kanan, klik **Tambah Kueri**.
+1. Pastikan **Dua tabel** dipilih.
+1. Di drop-down **Tabel untuk ditambahkan**, pilih yang Anda buat melalui impor dalam langkah-langkah sebelumnya (sebagian besar dimulai dengan exportUser).
+1. Klik **OK**. 
+
+Nama pengguna seharusnya sudah terisi ke dalam laporan.
+
+Ada banyak cara lain untuk membuat laporan ini lebih efisien, seperti mengaktifkan sinkronisasi reguler data pengguna AAD Anda ke dalam tabel yang kemudian ditarik secara dinamis ke dalam laporan ini. Templat ini dimaksudkan untuk menjadi titik awal. Ada juga beberapa [opsi berbagi laporan](/power-bi/fundamentals/desktop-getting-started#share-your-work).
+
+### <a name="troubleshooting-common-issues-when-using-the-template"></a>Memecahkan masalah umum saat menggunakan templat
+
+**Jika Anda membuat nama tabel kustom dan tidak cocok dengan nama tabel di templat Power BI atau nama tabel Anda memiliki ID penyewa ditambahkan ke akhir mereka (dan karena itu, tidak cocok dengan nama tabel dalam templat Power BI):**  
+
+Anda dapat [mengganti nama tabel](/sql/relational-databases/tables/rename-tables-database-engine) agar sesuai dengan templat - atau [mengedit kueri di Power BI menggunakan editor tingkat lanjut](/power-bi/transform-model/desktop-query-overview#advanced-editor) untuk mencocokkan konfigurasi Anda dengan mengganti nama tabel dengan yang ada di pengaturan Anda.
+
+Jika Anda mempertimbangkan untuk mengganti nama tabel SQL DB, pikirkan baik-baik sebelum Anda melakukannya! Jika kueri, tampilan, fungsi yang ditentukan pengguna, prosedur tersimpan, atau program yang ada mengacu pada tabel itu, modifikasi nama akan membuat objek tersebut tidak valid. Anda mungkin harus memperbarui pemetaan Azure Data Share untuk menunjuk ke tabel yang baru diganti namanya.
+
+### <a name="more-power-bi-resources"></a>Sumber daya Power BI lainnya
+* [Komunitas Power BI (T&J)](https://community.powerbi.com/)
+* [Dokumentasi Power BI](/power-bi/fundamentals/power-bi-overview)
+* [Pelatihan Power BI](/learn/browse/?expanded=power-platform&products=power-bi)
 
 ## <a name="frequently-asked-questions-faq"></a>Pertanyaan Umum (FAQ)
 
@@ -261,7 +307,7 @@ Azure Data Share memungkinkan organisasi berbagi data secara aman dengan beberap
 
 :::image type="content" source="media/invitation-flow.png" alt-text="bagan alur memperlihatkan undangan yang dikirim kepada pengguna dan jepretan layar data yang disimpan di penyimpanan data target.":::
 
-Bagian data adalah sekelompok himpunan data yang dibagikan sebagai satu entitas. Himpunan data dapat berasal dari beberapa sumber data Azure yang didukung oleh Azure Data Share. Saat ini, Azure Data Share mendukung Azure Blob Storage dan Azure Data Lake Storage. Kunjungi [halaman terminologi Azure Data Share](/azure/data-share/terminology) terkait elemen layanan ini.
+Bagian data adalah sekelompok himpunan data yang dibagikan sebagai satu entitas. Himpunan data dapat berasal dari banyak sumber data Azure yang didukung oleh Azure Data Share. Saat ini, Azure Data Share mendukung Azure Blob Storage dan Azure Data Lake Storage. Kunjungi [halaman terminologi Azure Data Share](/azure/data-share/terminology) terkait elemen layanan ini.
 
 Tautan cepat untuk referensi:
 
@@ -283,7 +329,7 @@ Kemajuan akan melaporkan jenis sumber berikut melalui Kemajuan: JalurPembelajara
 
 ### <a name="are-certifications-earned-by-an-individual-viewable-in-this-data"></a>Apakah sertifikasi yang diperoleh oleh individu dapat ditampilkan dalam data ini?
 
-Sertifikasi bukan bagian dari data bersama pelanggan saat ini. Kami berupaya untuk menyediakan data melalui layanan ini pada Musim Semi 2021.  
+Sertifikasi bukan bagian dari data bersama pelanggan saat ini. Kami berupaya untuk menyediakan data melalui layanan ini pada Agustus 2021.  
  
 ### <a name="can-i-request-different-data-attributes-or-a-subset-of-this-data"></a>Dapatkah saya meminta atribut data lain atau subset data ini?
 
@@ -315,7 +361,7 @@ Ya, selama pelanggan dapat bekerja dengan salah satu tipe tujuan Azure Data Shar
 
 ### <a name="my-organization-has-multiple-tenants-how-does-this-reporting-service-support-this-scenario"></a>Organisasi saya memiliki beberapa penyewa, bagaimana cara layanan pelaporan ini mendukung skenario ini?
 
-Azure Data Share memungkinkan satu penyewa per bagian data untuk layanan pelaporan ini. Setiap bagian data harus disiapkan per penyewa. Anda dapat menarik data kolektif dari semua bagian data ke laporan PowerBI melalui database SQL tempat data dikelola dengan langkah minimal antar sinkronisasi.
+Azure Data Share memungkinkan satu penyewa per bagian data untuk layanan pelaporan ini. Setiap berbagi data harus disiapkan per penyewa. Anda dapat menarik data kolektif dari semua bagian data ke laporan PowerBI melalui database SQL tempat data dikelola dengan langkah minimal antar sinkronisasi.
  
 ### <a name="is-a-data-explorer-available-for-this-data-share-service"></a>Apakah penjelajah data tersedia untuk layanan berbagi data ini?
 

@@ -4,12 +4,12 @@ summary: Raih lebih banyak hal dengan aplikasi Office yang inovatif, layanan clo
 metadata:
   ms.topic: landing-page
   ms.prod: microsoft-365
-  ms.openlocfilehash: be72c04c0b50ebe4c812dbfc57c8710cfada95cc
-  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.openlocfilehash: 2618d9022e24010686f336101dea277330c09d6a
+  ms.sourcegitcommit: b39b124844477584aae6479ee732f98c5c42ae3c
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/19/2021
-  ms.locfileid: "122438895"
+  ms.lasthandoff: 10/30/2021
+  ms.locfileid: "130961247"
 hero:
   title: Microsoft Learn untuk Microsoft 365
   subTitle: Microsoft 365
@@ -28,17 +28,17 @@ featuredSection:
     text: Bergabunglah dengan komunitas kami
 - title: Acara
   subTitle: Hari Pelatihan Virtual
-  summary: Acara virtual 1 dan 2 hari ini akan memberi Anda kesempatan untuk memperluas keterampilan Anda dan terhubung dengan pakar Microsoft.
+  summary: Teruskan pembelajaran dengan Microsoft Virtual Training Days yang menyediakan keterampilan teknis gratis yang dipandu instruktur, dalam berbagai bahasa dan zona waktu di berbagai topik.
   imageUrl: /learn/media/topics/m365-card-lakes.svg
   link:
-    url: https://mvtd.events.microsoft.com/Microsoft365?wt.mc_id=onedestination
+    url: https://mvtd.events.microsoft.com/Microsoft365/?evt=ignite&wt.mc_id=Ignite2021_corp_bn_oo_bn_onedest_vtd
     text: Menelusuri acara pelatihan
-- title: Jalur pembelajaran
-  subTitle: Pengembang Microsoft 365 & Teams
-  summary: Temukan jalur pembelajaran online yang mempelajari secara mendalam tentang topik pengembangan Microsoft 365 &amp; Teams termasuk Microsoft Graph, identitas, SharePoint, add-in Office, dan banyak lagi.
+- title: Produk
+  subTitle: Microsoft Teams
+  summary: Temukan video kedalaman teknis, panduan interaktif, dan sumber daya pembelajaran tambahan yang mencakup Microsoft Teams.
   imageUrl: /learn/media/topics/m365-card-balloon.svg
   link:
-    url: /learn/browse/?products=m365&roles=developer&resource_type=learning%20path
+    url: /learn/teams
     text: Telusuri jalur pembelajaran
 curatedSection:
 - title: Jalur Anda untuk memulai

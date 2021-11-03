@@ -1,0 +1,22 @@
+- name: Program Microsoft Learn untuk Pendidik
+  href: index.yml
+  expanded: true
+  items:
+    - name: Ikhtisar program
+      href: overview.md
+      expanded: true
+      items:
+        - name: Fundamental
+          href: fundamentals.md
+        - name: Advanced Role-Based
+          href: advanced-role-based.md
+    - name: Instruksi pendaftaran & akses
+      href: program-instructions.md
+    - name: Pelatihan & alat
+      href: training.md
+    - name: Pengaruh
+      href: influence.md
+    - name: FAQ
+      href: faq.md
+    - name: Dukungan
+      href: support.md

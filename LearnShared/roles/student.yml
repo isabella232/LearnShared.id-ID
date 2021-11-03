@@ -1,6 +1,15 @@
 ### YamlMime:TopicLanding
 title: Siswa di Microsoft Learn
 summary: Kuasai konsep inti dengan kecepatan Anda dan sesuai jadwal Anda. Mulailah di sini untuk mengembangkan keterampilan praktis melalui modul dan jalur interaktif yang menyenangkan. Selain itu, pendidik bisa mendapatkan akses ke materi dan kurikulum kelas Microsoft.
+metadata:
+  ms.topic: landing-page
+  ms.prod: non-product-specific
+  ms.openlocfilehash: e5349b8de10266340cdf35022a610917d574c6a1
+  ms.sourcegitcommit: b39b124844477584aae6479ee732f98c5c42ae3c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 10/30/2021
+  ms.locfileid: "130961040"
 hero:
   title: Microsoft Learn untuk Siswa
   subTitle: Ajarkan keterampilan teknologi untuk masa depan
@@ -10,13 +19,13 @@ hero:
     text: Jelajahi semua jalur untuk siswa
   imageUrl: https://docs.microsoft.com/media/learn/topics/hero-student.svg
 featuredSection:
-- title: Jalur Pembelajaran
-  subTitle: Bangun keterampilan teknologi untuk eksplorasi ruang angkasa
-  summary: Jelajahi modul dan jalur pembelajaran yang terinspirasi oleh para ilmuwan NASA untuk mempersiapkan Anda berkarier dalam eksplorasi luar angkasa.
-  imageUrl: /learn/media/topics/powervirtualagents-card-satellite.svg
+- title: Imagine Cup
+  subTitle: Bersaing di Imagine Cup
+  summary: Selesaikan tantangan komunitas yang mendesak, bangun keterampilan untuk portofolio pribadi Anda, dan menangkan hadiah besar sekaligus.
+  imageUrl: /learn/media/topics/azure-card-balloon.svg
   link:
-    url: /learn/topics/nasa
-    text: Jelajahi jalur pembelajaran NASA
+    url: https://imaginecup.microsoft.com/?ocid=pre_web_learn_card_all
+    text: Jelajahi Imagine Cup
 - title: Program
   subTitle: Menjadi Microsoft Learn Student Ambassador
   summary: Kami mencari pemimpin di kampus dengan semangat untuk membuat perbedaan dan berbagi teknologi dengan rekan-rekan mereka.
@@ -24,32 +33,25 @@ featuredSection:
   link:
     url: https://studentambassadors.microsoft.com/?id=0&ocid=pre_web_learn_card_all
     text: Jelajahi program Student Ambassador
-- title: Koleksi
-  subTitle: Belajar dengan kursus universitas
-  summary: Jelajahi program studi dari universitas seperti Universitas Carnegie Mellon dan University of Oxford untuk memperluas keterampilan cloud Anda.
+- title: Sertifikasi Microsoft
+  subTitle: Menjadi profesional bersertifikat
+  summary: Dapatkan sertifikasi yang menunjukkan bahwa Anda mengikuti peran dan persyaratan teknis saat ini.
   imageUrl: /learn/media/topics/teams-card-train.svg
   link:
-    url: /learn/topics/universities
-    text: Jelajahi koleksi universitas
+    url: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+    text: Kembangkan keterampilan Anda dan dapatkan sertifikasi sekarang juga
 curatedSection:
 - title: Dapatkan inspirasi untuk mempelajari teknologi baru
   items:
-  - learn.language.react-get-started
-  - learn.language.vue-get-started
-  - learn.student-evangelism.introduction-python-nasa
-  - learn.language.typescript-get-started
-  - learn.powershell.scripting-with-powershell
-  - learn.django.get-started
+  - learn.student-evangelism.web-development-101
+  - learn.java-on-azure
+  - learn.start-career-in-tech
+  - learn.student-evangelism.tech-resilience
+  - learn.languages.python-first-steps
+  - learn.student-evangelism.intro-to-vc-git
 trendingSection:
   title: Jalur dan modul pembelajaran populer untuk siswa
   filters:
     roles:
     - student
   linkText: Lihat apa yang sedang dipelajari orang lain
-metadata:
-  ms.openlocfilehash: d13d837f145b27b687f7c4c75eb6c318174d0b04
-  ms.sourcegitcommit: e4584883251381e4936461855beffceb032b32f1
-  ms.translationtype: HT
-  ms.contentlocale: id-ID
-  ms.lasthandoff: 04/25/2021
-  ms.locfileid: "107981306"

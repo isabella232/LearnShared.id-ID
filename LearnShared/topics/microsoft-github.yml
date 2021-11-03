@@ -1,0 +1,52 @@
+### YamlMime:TopicLanding
+metadata:
+  robots: noindex,nofollow
+  ms.topic: landing-page
+  ms.prod: github
+  ms.openlocfilehash: 18fd241236ef052764a4c1bab442380a0e68795e
+  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 08/19/2021
+  ms.locfileid: "122439911"
+title: Microsoft Learn untuk GitHub pembelajaran karyawan Microsoft
+summary: Jutaan pengembang dan perusahaan membangun, mengirimkan, dan memelihara perangkat lunak mereka di GitHub — platform pengembangan terbesar dan paling canggih di dunia.
+hero:
+  title: Microsoft Learn untuk GitHub pembelajaran karyawan Microsoft
+  subTitle: Di mana dunia membangun perangkat lunak
+  summary: Jutaan pengembang dan perusahaan membangun, mengirimkan, dan memelihara perangkat lunak mereka di GitHub — platform pengembangan terbesar dan paling canggih di dunia.
+  imageUrl: /learn/media/topics/azure-header-background.svg
+featuredSection:
+- title: Koleksi
+  subTitle: Dasar-dasar GitHub
+  summary: Pahami bagaimana pelanggan Anda dapat menggunakan GitHub untuk berkolaborasi.
+  imageUrl: /learn/media/topics/azure-card-satellite.svg
+  link:
+    url: /users/githubtraining/collections/p0ygh4erdrmkp7
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: GitHub Actions
+  summary: Pahami bagaimana pelanggan Anda dapat menggunakan Tindakan GitHub untuk mengotomatisasi alur kerja CI/CD mereka.
+  imageUrl: /learn/media/topics/azure-card-train.svg
+  link:
+    url: /users/githubtraining/collections/n5p4a5z7keznp5
+    text: Jelajahi koleksi
+curatedSection:
+- title: Jalur pembelajaran dan modul yang direkomendasikan untuk pembelajaran tambahan
+  items:
+  - learn.github.communicate-using-markdown
+  - learn.github.create-host-web-sites-github-pages
+  - learn.github.manage-innersource-program-github
+  - learn.github.upload-project-github
+  - learn.github.migrate-repository-github
+  - learn.github.merge-conflict-resolution-github
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - github
+    - azure-devops
+    roles:
+    - solution-architect
+    - support-engineer
+  linkText: Lihat apa yang sedang dipelajari orang lain
