@@ -4,17 +4,17 @@ summary: Belajar tidak berakhir hanya karena acara berakhir. Favoritkan halaman 
 metadata:
   ms.topic: landing-page
   ms.prod: non-product-specific
-  ms.openlocfilehash: 2bf2b6946959af835be893aa5ceffedd83221725
-  ms.sourcegitcommit: b39b124844477584aae6479ee732f98c5c42ae3c
+  ms.openlocfilehash: f6bf599d81099b36821a21b542691c8f9e22efec
+  ms.sourcegitcommit: 86d5f6ff2b8c53f5215a6f48393c176b68a6d1e9
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 10/30/2021
-  ms.locfileid: "130961318"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "131151436"
 hero:
   title: Microsoft Learn untuk Ignite
   subTitle: Lanjutkan pembelajaran Anda dengan Microsoft
   summary: Belajar tidak berakhir hanya karena acara berakhir. Favoritkan halaman ini dan lanjutkan apa yang Anda mulai di Ignite dari satu lokasi yang nyaman. Temukan cara Anda untuk konten, opsi pelatihan, komunitas, dan detail sertifikasi yang lebih dalam di semua solusi cloud Microsoft di sini.
-  imageUrl: /learn/media/topics/ignite/ignite-2021-header-background.svg
+  imageUrl: /learn/media/topics/ignite/ignite-2021-header-background.png
 featuredSection:
 - title: Gambaran Umum
   subTitle: Azure
