@@ -7,14 +7,23 @@ ms.date: 10/21/2021
 ms.topic: article
 ms.prod: non-product-specific
 breadcrumb_path: toc.yml
-ms.openlocfilehash: a0e442162946db1badb5cb68979af110c7a797be
-ms.sourcegitcommit: b39b124844477584aae6479ee732f98c5c42ae3c
+ms.openlocfilehash: 469bd83d66077fc2a037e4271da54ad50c20109a
+ms.sourcegitcommit: a9c38113756b8ac1e268563f0450c623a10992b4
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/30/2021
-ms.locfileid: "130960994"
+ms.lasthandoff: 11/11/2021
+ms.locfileid: "132270404"
 ---
 # <a name="microsoft-learn-for-educators"></a>Microsoft Learn untuk Pendidik
+
+Membantu menutup kesenjangan keterampilan keamanan cyber dengan akses ke kurikulum gratis, pelatihan pendidik, dan alat untuk mengajar termasuk materi kursus yang selaras dengan sertifikasi untuk [Dasar-Dasar Keamanan, Kepatuhan, dan Identitas Microsoft (SC-900)](fundamentals.md#microsoft-security-compliance-and-identity-fundamentals)dan [Teknologi Keamanan Microsoft Azure (AZ-500)](advanced-role-based.md#microsoft-azure-security-technologies).
+
+Tiga langkah untuk memulai:
+
+1. Tinjau [opsi program](#program-options-and-sign-up)
+1. [Terapkan](program-instructions.md) untuk bergabung
+1. Tunggu email aktivasi (biasanya diterima dalam waktu 3 hari kerja)
+1. Ikuti [petunjuk langkah demi langkah](program-instructions.md#material-access-instructions) untuk mengakses kurikulum dan manfaat.
 
 ## <a name="program-overview"></a>Ikhtisar program
 

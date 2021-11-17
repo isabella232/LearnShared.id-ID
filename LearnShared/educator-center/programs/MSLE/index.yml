@@ -21,11 +21,11 @@ sections:
     background:
       componentType: image
       src: /learn/media/msle/white-hero.svg
-    summary: 'Dengan meningkatnya permintaan akan bakat keamanan cyber, Microsoft berkomitmen untuk mendukung program perguruan tinggi terbuka keamanan cyber, fakultas, dan siswa. Baca tentang kampanye kami untuk mengatasi krisis keterampilan keamanan cyber di aka.ms/cyberskills'
+    summary: 'Dengan meningkatnya permintaan akan bakat keamanan cyber, Microsoft berkomitmen untuk mendukung program perguruan tinggi terbuka keamanan cyber, fakultas, dan siswa. Bergabunglah dengan program Microsoft Learn untuk Pendidik (MSLE) untuk mendapatkan akses ke kurikulum gratis, pelatihan pendidik, dan alat untuk mengajar.'
     links:
       - componentType: link
-        url: 'https://aka.ms/cyberskills'
-        text: Pelajari lebih lanjut
+        url: 'https://docs.microsoft.com/learn/educator-center/programs/msle/overview'
+        text: Memulai
   - componentType: markdown
     backgroundColor: alternating-grey
     content: |
