@@ -13,26 +13,26 @@ featuredSection:
 - title: Gambaran Umum
   subTitle: Baru di Microsoft Learn?
   summary: Ikuti modul pengantar kami "Menavigasi Microsoft Learn untuk Pendidik dan Pemimpin Sekolah" guna mempelajari hal-hal penting untuk menggunakan Microsoft Learn
-  imageUrl: /learn/media/topics/powerapps-card-airplane.svg
+  imageUrl: /learn/media/educator-center/blue-card-racoon.svg
   link:
     url: https://docs.microsoft.com/learn/modules/navigate-microsoft-learn-for-educators-school-leaders/
     text: Memulai
 - title: Dukungan
   subTitle: Bantuan & pembelajaran Pendidikan
   summary: Ajarkan dan belajar di mana pun Anda berada dengan dokumentasi dan jawaban tentang Microsoft Teams dan Office 365
-  imageUrl: /learn/media/topics/powerapps-card-balloon.svg
+  imageUrl: /learn/media/educator-center/blue-card-docs.svg
   link:
     url: https://support.microsoft.com/education
     text: Pelajari lebih lanjut
 - title: Program
   subTitle: Ajarkan keterampilan teknologi untuk masa depan
   summary: Microsoft Learn untuk Pendidik mengambil jalur pembelajaran online Microsoft Learn terbaik dan menyediakan kurikulum dan materi pelatihan pendukung kepada pendidik untuk digunakan di kelas.
-  imageUrl: /learn/media/topics/powerapps-card-satellite.svg
+  imageUrl: /learn/media/educator-center/topic-card-suitcase.svg
   link:
     url: /learn/educator-center/programs/msle/
     text: Daftar sekarang
 curatedSection:
-- title: Modul dan jalur pembelajaran yang direkomendasikan
+- title: Jalur Anda untuk memulai
   items:
   - learn.mec.transform-education-strategic-leadership
   - learn.mec.staying-connected-remote-learning-microsoft-teams-office-365
@@ -50,9 +50,9 @@ trendingSection:
     - parent-guardian
   linkText: Lihat apa yang sedang dipelajari orang lain
 metadata:
-  ms.openlocfilehash: ca7ab350a30cb23da7736fa4d3aedd3d8e21086d
-  ms.sourcegitcommit: e8f2e5fc2e985a9e6aa87dbe36cc60b3c377833f
+  ms.openlocfilehash: a0b5876d83f1dd8e8f03f46e773c9937dcb10960
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 09/29/2021
-  ms.locfileid: "129244608"
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133262276"
