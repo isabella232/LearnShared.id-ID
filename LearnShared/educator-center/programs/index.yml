@@ -1,0 +1,139 @@
+### YamlMime:Marketing
+title: Program pendidik - Microsoft Learn Educator Center
+sections:
+  - componentType: hero
+    supertitle: Microsoft Learn Educator Center
+    title: Program Pendidik
+    background:
+      componentType: image
+      src: /learn/media/educator-center/learn-banner-teal.svg
+  - componentType: bifold
+    backgroundColor: alternating-grey
+    alignment: center
+    blocks:
+      - title: Microsoft Innovative Educator
+        summary: 'Langkah pertama proses transformasi digital.  Dengan menyelesaikan konten pembelajaran profesional berdurasi 2 jam, peserta akan mendapatkan lencana MIE. Program ini cocok untuk:'
+        componentType: text
+        links:
+          - componentType: link
+            url: 'https://education.microsoft.com/resource/18485a7b'
+            text: Pelajari lebih lanjut
+        list:
+          componentType: list
+          style: unordered
+          children:
+            - K-12 educators
+            - School leaders
+            - Higher education faculty
+      - src: /learn/media/educator-center/programs/mie-program.svg
+        alt: Lencana Microsoft Innovative Educator.
+        componentType: image
+  - componentType: bifold
+    backgroundColor: alternating-grey
+    alignment: center
+    blocks:
+      - src: /learn/media/educator-center/programs/mie-trainer-program.svg
+        alt: Ikon Pelatih MIE
+        componentType: image
+      - title: Microsoft Innovative Educator - Pelatih
+        summary: 'Dengan menjadi Pelatih MIE, Anda akan bergabung dalam komunitas berisi orang-orang yang mendukung pendidik lain dalam mengembangkan cara teknologi digunakan di ruang kelas dan lainnya. Program ini menyediakan akses ke materi pelatihan yang dipandu instruktur, koneksi dengan pelatih di seluruh dunia melalui kelompok Linked-In, dan kemampuan mendapatkan lencana untuk berbagi prestasi. Program ini cocok untuk:'
+        componentType: text
+        links:
+          - componentType: link
+            url: 'https://education.microsoft.com/learningPath/c286f95b/course/32f02fdd/0'
+            text: Pelajari lebih lanjut
+        list:
+          componentType: list
+          style: unordered
+          children:
+            - K-12 educators
+            - Higher education faculty
+            - Government or school system trainers
+            - Professional development specialists
+            - Affiliates who want to train educators and school leaders on the effective use of technology
+  - componentType: bifold
+    backgroundColor: alternating-grey
+    alignment: center
+    blocks:
+      - title: Microsoft Innovative Educator - Pakar
+        summary: 'Program Pakar Microsoft Innovative Educator (MIE) adalah program pertama yang dibuat untuk memberikan penghargaan bagi pendidik global yang visioner. Pakar MIE sangat percaya diri dan bersemangat dalam mengintegrasikan teknologi dalam pengajaran dan pembelajaran, mendorong siswa dengan pemikiran kreatif, dan bekerja di lingkungan yang benar-benar kolaboratif untuk membagikan pembelajaran dengan rekan mereka dan dunia. Dalam program ini Anda akan memiliki akses ke panggilan koneksi bulanan dengan Pakar MIE di negara sendiri dan seluruh dunia, akses langsung ke tim di Microsoft untuk mendukung pekerjaan Anda di bidang pendidikan, kesempatan untuk mencoba alat dan produk baru yang sedang dikembangkan dan untuk memberikan umpan balik, kesempatan untuk menjadi pembicara di acara online dan tatap muka untuk membagikan kisah, berpartisipasi dalam acara online kami, Education Exchange | E2 dan banyak lagi. Program ini cocok untuk:'
+        componentType: text
+        links:
+          - componentType: link
+            url: 'https://education.microsoft.com/resource/1703c312'
+            text: Pelajari lebih lanjut
+        list:
+          componentType: list
+          style: unordered
+          children:
+            - K-12 educators
+            - School leaders
+            - Higher education faculty
+            - Professional learning specialists/trainers
+            - Curriculum specialists
+            - Anyone who impacts teaching and learning in their role
+      - src: /learn/media/educator-center/programs/mie-expert-program.svg
+        alt: Lencana Microsoft Innovative Educator.
+        componentType: image
+  - componentType: bifold
+    backgroundColor: alternating-grey
+    alignment: center
+    blocks:
+      - src: /learn/media/educator-center/programs/msle-program.svg
+        alt: Ikon Microsoft Certification.
+        componentType: image
+      - title: Program Microsoft Learn untuk Pendidik
+        summary: 'Microsoft Learn untuk Pendidik memberikan jalur pembelajaran online Microsoft Learn terbaik dan membantu Anda menghadirkan materi pelatihan yang dipandu instruktur dari Microsoft ke dalam kursus Anda. Program ini memberi anggota akses ke kurikulum siap ajar Microsoft dan bahan ajar yang sesuai dengan Microsoft Certification yang telah diakui industri. Sertifikasi ini menambah jalur gelar siswa yang ada dan memvalidasi keterampilan yang diperlukan agar sukses di berbagai karier teknis. Program ini cocok untuk:'
+        componentType: text
+        links:
+          - componentType: link
+            url: 'https://docs.microsoft.com/learn/educator-center/programs/msle/'
+            text: Pelajari lebih lanjut
+        list:
+          componentType: list
+          style: unordered
+          children:
+            - Higher education faculty
+            - Academic institution leaders
+            - Secondary school educators
+            - Educators with valid education email addresses preparing students for Microsoft Certifications
+  - componentType: bifold
+    backgroundColor: alternating-grey
+    alignment: center
+    blocks:
+      - title: Showcase Schools
+        summary: 'Program Microsoft Showcase Schools adalah program transformasi sekolah dan merupakan komunitas global bagi sekolah pelopor di seluruh dunia. Program ini memberikan kesempatan untuk berinteraksi dengan Microsoft dan para pemimpin sekolah yang memiliki tujuan yang sama di seluruh dunia untuk memperdalam dan memperluas transformasi pendidikan menggunakan Kerangka Kerja Transformasi Pendidikan Microsoft. Showcase Schools menciptakan pengalaman khusus siswa yang imersif, dan inklusif yang mendorong pembelajaran seumur hidup, meningkatkan pengembangan keterampilan penting yang modern sehingga siswa dapat meraih lebih banyak hal. Program ini ditujukan untuk:'
+        componentType: text
+        links:
+          - componentType: link
+            url: 'https://education.microsoft.com/resource/53ade767'
+            text: Pelajari lebih lanjut
+        list:
+          componentType: list
+          style: unordered
+          children:
+            - K-12 school leaders
+            - K-12 leadership teams
+      - src: /learn/media/educator-center/programs/showcase-schools.svg
+        alt: Lencana Showcase Schools.
+        componentType: image
+  - componentType: bifold
+    backgroundColor: alternating-grey
+    alignment: center
+    blocks:
+      - src: /learn/media/educator-center/programs/gtp-program.svg
+        alt: globe dengan pin penunjuk
+        componentType: image
+      - title: Mitra Pelatihan Global
+        summary: 'Komunitas global Mitra Pelatihan Pendidikan Microsoft yang terhubung dengan pendidik dan pemimpin sekolah melalui pelatihan mendalam dan pengembangan profesional. Terhubung dengan pemimpin pendidikan, staf, pendidik, dan siswa untuk memberikan layanan konsultasi, penilaian, pengembangan profesional, pelatihan serta program pengayaan untuk mendukung transformasi digital mulai dari menentukan visi hingga implementasi. Program ini ditujukan untuk:'
+        componentType: text
+        links:
+          - componentType: link
+            url: 'https://www.microsoft.com/education/training-and-events/global-training-partners'
+            text: Pelajari lebih lanjut
+        list:
+          componentType: list
+          style: unordered
+          children:
+            - Companies delivering in-depth learning experiences aligned to the Education Transformation Framework on behalf of Microsoft.
+            - School leaders interested in professional development training on behalf of Microsoft

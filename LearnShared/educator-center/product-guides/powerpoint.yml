@@ -1,0 +1,46 @@
+### YamlMime:TopicLanding
+title: PowerPoint untuk pendidikan di Microsoft Learn
+summary: Buat rencana pelaksanaan pembelajaran dan presentasi yang menarik dengan media, bagan, bantuan desain, dan lainnya. PowerPoint mendukung ruang kelas inklusif dengan fitur seperti Pelatih Penyaji, PowerPoint Live, dan keterangan langsung.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: PowerPoint untuk pendidikan
+  summary: Buat rencana pelaksanaan pembelajaran dan presentasi yang menarik dengan media, bagan, bantuan desain, dan lainnya. PowerPoint mendukung ruang kelas inklusif dengan fitur seperti Pelatih Penyaji, PowerPoint Live, dan keterangan langsung.
+  link:
+    url: /learn/browse/?products=office-powerpoint&roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten PowerPoint
+  imageUrl: /learn/media/educator-center/learn-banner-orange.svg
+featuredSection:
+- title: Video
+  subTitle: Jelajahi daftar putar video tips singkat kami
+  summary: Video untuk membantu Anda dan siswa memulai.
+  imageUrl: /learn/media/educator-center/orange-card-cloud.svg
+  link:
+    url: https://www.youtube.com/playlist?list=PLdHjJccRYryPw97g_lEx9SuEfjBMQWgP4
+    text: Tonton video
+- title: Dukungan
+  subTitle: Temukan bantuan & panduan pembelajaran untuk PowerPoint
+  summary: Mengajar dan belajar di mana pun Anda berada dengan panduan langkah demi langkah serta pemecahan masalah untuk PowerPoint.
+  imageUrl: /learn/media/educator-center/orange-card-docs.svg
+  link:
+    url: https://support.microsoft.com/en-us/powerpoint?ui=en-US&rs=en-US&ad=US
+    text: Mulai
+- title: Pelatihan
+  subTitle: Jelajahi panduan pelatihan tentang PowerPoint untuk Windows
+  summary: Buat slide yang menarik dan informatif dengan pelatihan PowerPoint untuk Windows
+  imageUrl: /learn/media/educator-center/orange-card-robot.svg
+  link:
+    url: https://support.microsoft.com/en-us/powerpoint?ui=en-US&rs=en-US&ad=US
+    text: Mulai
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.mec.countdown-successful-family-teacher-conferences
+  - learn.mec.flipped-instruction-powerpoint-recorder
+  - learn.accessible-content-m365
+metadata:
+  ms.openlocfilehash: 330570fdf6f169795ed3c1a5b46c9af25ad266d6
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264676"

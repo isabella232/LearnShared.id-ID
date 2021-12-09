@@ -1,0 +1,68 @@
+### YamlMime:TopicLanding
+title: Kepemimpinan pendidikan dan kolaborasi di Microsoft Learn
+summary: Perkuat komunitas pendidik Anda dengan alat kolaborasi dan peluang pengembangan profesional dari Microsoft Learn.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: Kepemimpinan pendidikan dan kolaborasi
+  summary: Perkuat komunitas pendidik Anda dengan alat kolaborasi dan peluang pengembangan profesional.
+  link:
+    url: /learn/browse/?roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten
+  imageUrl: /learn/media/educator-center/learn-banner-teal.svg
+featuredSection:
+- title: Program
+  subTitle: Kerangka Kerja Transformasi Pendidikan K-12 (SD-SMP-SMA) Microsoft
+  summary: Panduan holistik dan efektif untuk membantu pemimpin pendidikan mengatasi kompleksitas transformasi, memvisualkan kemungkinan, dan menyusun strategi untuk mencapainya.
+  imageUrl: /learn/media/educator-center/teal-card-suitcase.svg
+  link:
+    url: https://www.microsoft.com/education/school-leaders/k-12-microsoft-education-transformation-framework/leadership-and-policy
+    text: Pelajari lebih lanjut
+- title: Program
+  subTitle: Ubah sekolah Anda dengan memanfaatkan teknologi Microsoft untuk meningkatkan hasil siswa
+  summary: Program Microsoft Showcase School adalah program transformasi sekolah. Program ini memberikan kesempatan untuk berinteraksi dengan Microsoft dan para pemimpin sekolah yang memiliki tujuan yang sama di seluruh dunia untuk memperdalam dan memperluas transformasi pendidikan menggunakan Kerangka Kerja Transformasi Pendidikan Microsoft.
+  imageUrl: /learn/media/educator-center/teal-card-racoon.svg
+  link:
+    url: https://www.microsoft.com/en-us/education/school-leaders/showcase-schools
+    text: Pelajari lebih lanjut
+- title: Dukungan
+  subTitle: Arahkan pendidik ke sini untuk mendapatkan bantuan dan pemecahan masalah
+  summary: Akses konten yang dapat memberi Anda petunjuk langkah demi langkah dalam menggunakan Office 365 untuk Pendidikan.
+  imageUrl: /learn/media/educator-center/teal-card-docs.svg
+  link:
+    url: https://support.microsoft.com/education
+    text: Pelajari lebih lanjut
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.mec.create-inclusive-environment-cultural-leadership
+  - learn.mec.transform-education-strategic-leadership
+  - learn.mec.support-learn-environments-instructional-leadership
+  - learn.mec.leadership-policy-education-transformation-framework
+  - learn.mec.lead-forward-remote-hybrid-blended
+  - learn.mec.build-sel-skills-with-reflect
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - school-leader
+    products:
+    - office
+    - office-365
+    - office-teams
+    - windows
+    - flipgrid
+    - surface
+    - office-onenote
+    - office-powerpoint
+    - sway
+    - office-forms
+    - office-sp
+    - power-platform
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 47433c78908757a5bff538c60fc31526dcf3e648
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264705"

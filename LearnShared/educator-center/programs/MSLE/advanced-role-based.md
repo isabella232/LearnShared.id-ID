@@ -7,12 +7,12 @@ ms.date: 10/21/2021
 ms.topic: article
 ms.prod: non-product-specific
 breadcrumb_path: toc.yml
-ms.openlocfilehash: bd2580f8e600a95f9636c98cfe39af0bdea13158
-ms.sourcegitcommit: b39b124844477584aae6479ee732f98c5c42ae3c
+ms.openlocfilehash: f12a7d4d8a604a6a6d1d8fd59bbdc10d9bc11764
+ms.sourcegitcommit: 9bf06c4a21bfa4eb9767d1c0b379f412e6a93210
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/30/2021
-ms.locfileid: "130961641"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "133305736"
 ---
 # <a name="microsoft-advanced-role-based"></a>Microsoft Advanced Role-Based
 
@@ -24,13 +24,13 @@ Kursus ini membahas topik-topik seperti Mengelola identitas dan tata kelola Azur
 
 Siswa mungkin memenuhi syarat untuk kredit perguruan tinggi ACE jika lulus ujian sertifikasi ini. Lihat [kredit perguruan tinggi ACE untuk ujian sertifikasi](/learn/certifications/college-credit) untuk detailnya.
 
-Lembar data kursus – Segera hadir!
+[Unduh lembar data kursus di sini](https://Aka.ms/az-104-coursedatasheet)
 
 ## <a name="designing-and-implementing-a-microsoft-azure-ai-solution"></a>Merancang dan Menerapkan Solusi AI Microsoft Azure
 
 Kursus ini akan membahas topik-topik seperti Merancang dan Menerapkan Solusi AI Microsoft Azure; Membangun, mengelola, dan menyebarkan solusi AI yang memanfaatkan Azure Cognitive Services, Azure Cognitive Search, dan Microsoft Bot Framework. Kandidat untuk ujian ini harus memiliki pemahaman mendalam tentang komponen yang membentuk portofolio Azure AI dan opsi penyimpanan data yang tersedia; dan dapat menerapkan prinsip-prinsip AI yang bertanggung jawab. Penyelesaian kursus akan mempersiapkan siswa untuk [ujian sertifikasi AZ-102.](/learn/certifications/exams/ai-102)
 
-Lembar data kursus – Segera hadir!
+[Unduh lembar data kursus di sini](https://Aka.ms/ai-102-coursedatasheet)
 
 ## <a name="microsoft-azure-security-technologies"></a>Teknologi Keamanan Microsoft Azure
 

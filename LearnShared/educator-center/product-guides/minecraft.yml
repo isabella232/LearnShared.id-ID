@@ -1,0 +1,51 @@
+### YamlMime:TopicLanding
+title: 'Minecraft: Education Edition di Microsoft Learn'
+summary: Platform pembelajaran berbasis permainan yang mendorong kreativitas, kolaborasi, dan pemecahan masalah dalam lingkungan digital yang imersif.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: 'Minecraft: Education Edition'
+  summary: 'Platform pembelajaran berbasis permainan yang mendorong kreativitas, kolaborasi, dan pemecahan masalah dalam lingkungan digital yang imersif. Dari rancangan dasar hingga penyusunan kode dengan blok, JavaScript, dan Python, Minecraft: Education Edition berkembang bersama siswa, dan dapat digunakan di seluruh kurikulum dan di tingkat kelas mana pun.'
+  link:
+    url: /learn/browse/?products=minecraft&roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten Minecraft
+  imageUrl: /learn/media/educator-center/learn-banner-green.svg
+featuredSection:
+- title: Sumber
+  subTitle: Ikuti langsung pelajaran yang sesuai standar dan kurikulum STEM
+  summary: Jelajahi ratusan pelajaran yang dibuat oleh pendidik di seluruh dunia, untuk siswa dari segala usia.
+  imageUrl: /learn/media/educator-center/green-card-robot.svg
+  link:
+    url: https://education.minecraft.net/resources/explore-lessons
+    text: Mulai
+- title: Video
+  subTitle: 'Jelajahi saluran video Minecraft: Education Edition kami'
+  summary: Video untuk membantu Anda dan siswa memulai.
+  imageUrl: /learn/media/educator-center/green-card-cloud.svg
+  link:
+    url: https://www.youtube.com/c/MinecraftEducationEdition
+    text: Tonton video
+- title: Program
+  subTitle: Gabung dengan Minecraft Teacher Academy
+  summary: Dapatkan modul gratis dan jadilah guru bersertifikat Minecraft.
+  imageUrl: /learn/media/educator-center/green-card-suitcase.svg
+  link:
+    url: https://education.minecraft.net/en-us/resources/get-trained
+    text: Pelajari lebih lanjut
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - k-12-educator
+    - higher-ed-educator
+    - school-leader
+    - parent-guardian
+    products:
+    - minecraft
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 6f7804263fe8ebe0d27d8f76b2b3ff2f90ee9241
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264674"

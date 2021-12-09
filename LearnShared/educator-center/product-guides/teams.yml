@@ -1,0 +1,81 @@
+### YamlMime:TopicLanding
+title: Teams untuk pendidikan di Microsoft Learn
+summary: Microsoft Teams adalah hub digital yang menyatukan rapat, konten, dan aplikasi di satu tempat. Pendidik dapat membuat ruang kelas kolaboratif, terhubung dalam komunitas belajar profesional, dan berkomunikasi dengan staf sekolah.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: Microsoft Teams untuk pendidikan
+  summary: Hub digital yang menyatukan rapat, konten, dan aplikasi di satu tempat. Pendidik dapat membuat ruang kelas kolaboratif, terhubung dalam komunitas belajar profesional, dan berkomunikasi dengan staf sekolah.
+  link:
+    url: /learn/browse/?products=office-teams&roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten Teams
+  imageUrl: /learn/media/topics/teams-header-background.svg
+featuredSection:
+- title: Panduan interaktif
+  subTitle: Coba demo interaktif
+  summary: Dapatkan pengalaman dan pelatihan langsung dengan alat Microsoft Education.
+  imageUrl: /Learn/media/educator-center/purple-card-robot.svg
+  link:
+    url: https://cortexonemsedu.blob.core.windows.net/staticcontent/teams-demo/index.html
+    text: Mulai
+- title: Video
+  subTitle: Jelajahi daftar putar video Microsoft Teams untuk pendidikan kami
+  summary: Video panduan memulai untuk membantu Anda dan siswa.
+  imageUrl: /Learn/media/educator-center/purple-card-cloud.svg
+  link:
+    url: https://www.youtube.com/playlist?list=PLiluTszfwwMKicAo6agloFALEB5WvYNYs
+    text: Tonton video
+- title: Sumber
+  subTitle: Dapatkan panduan Mulai Cepat untuk pendidik dan siswa
+  summary: Unduh dan bagikan tips Teams dengan rekan kerja Anda. 
+  imageUrl: /learn/media/educator-center/topic-card-map.svg
+  link:
+    url: https://support.microsoft.com/topic/downloadable-guides-6bd3eb82-0a0f-43cc-a4d2-c9f4e7ebdf39#ID0EDBAAA=Students
+    text: Mulai
+- title: Dukungan
+  subTitle: Temukan bantuan & panduan belajar Teams untuk Pendidikan
+  summary: Mengajar dan belajar di mana saja dengan panduan langkah demi langkah dan pemecahan masalah untuk Microsoft Teams.
+  imageUrl: /Learn/media/educator-center/purple-card-docs.svg
+  link:
+    url: https://support.microsoft.com/topic/microsoft-teams-5aa4431a-8a3c-4aa5-87a6-b6401abea114
+    text: Pelajari lebih lanjut
+- title: Blog
+  subTitle: Temukan yang baru di Microsoft Teams untuk pendidikan
+  summary: Temukan pengumuman dan artikel di blog Pendidikan kami.
+  imageUrl: /Learn/media/educator-center/purple-card-owl.svg
+  link:
+    url: https://techcommunity.microsoft.com/t5/education-blog/what-s-new-in-microsoft-teams-for-education-september-2021/ba-p/2790196
+    text: Pelajari lebih lanjut
+- title: Acara
+  subTitle: Temukan pelatihan, seminar web, dan acara langsung maupun berdasarkan permintaan
+  summary: Kalender pelatihan dan acara Microsoft Education.
+  imageUrl: /learn/media/educator-center/topic-card-suitcase.svg
+  link:
+    url: https://www.microsoft.com/en-us/education/training-and-events/events-calendar#/events
+    text: Daftar sekarang
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.mec.staying-connected-remote-learning-microsoft-teams-office-365
+  - learn.mec.keep-students-engaged-connections-remote-learning
+  - learn.mec.accessibility-special-education-online-learning-equity
+  - learn.mec.collaborate-faster-microsoft-teams-higher-education-staff
+  - learn.mec.hybrid-learning-a-new-model-for-the-future-of-learning
+  - learn.mec.connect-faculty-learners-canvas-microsoft-365
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - k-12-educator
+    - higher-ed-educator
+    - school-leader
+    - parent-guardian
+    products:
+    - office-teams
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 1b3ec91f8295d1961a5ff1360ac7a1b7d4a5a573
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264675"

@@ -1,0 +1,65 @@
+### YamlMime:TopicLanding
+title: Progres Baca di Microsoft Learn
+summary: Progres Baca adalah alat yang membantu siswa melatih kelancaran membaca mereka. Siswa membaca teks dengan lantang sambil merekam video serta audio, lalu menyerahkan rekaman mereka kepada Anda. Buat tugas Progres Baca di Microsoft Teams dan pantau kemajuan siswa dari waktu ke waktu di tab Insights.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: Progres Baca
+  summary: Progres Baca adalah alat yang membantu siswa melatih kelancaran membaca mereka. Siswa membaca teks dengan lantang sambil merekam video serta audio, lalu menyerahkan rekaman mereka kepada Anda. Buat tugas Progres Baca di Microsoft Teams dan pantau kemajuan siswa dari waktu ke waktu di tab Insights.
+  link:
+    url: /learn/browse/?roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten Progres Baca
+  imageUrl: /learn/media/educator-center/learn-banner-teal.svg
+featuredSection:
+- title: Panduan interaktif
+  subTitle: Coba panduan interaktif tentang Progres Baca
+  summary: Pelajari bagaimana Progres Baca membantu siswa melatih kelancaran membaca dari perspektif siswa dan pendidik.
+  imageUrl: /learn/media/educator-center/teal-card-robot.svg
+  link:
+    url: https://octe.azurewebsites.net/Microsoft/viewer/590/index.html#/0/0
+    text: Mulai
+- title: Video
+  subTitle: Jelajahi video pengenalan tentang Progres Baca di Microsoft Teams
+  summary: Cari tahu bagaimana alat bawaan ini dirancang untuk membantu pembaca yang mengalami kesulitan membangun kepercayaan diri, kemandirian, dan kelancaran sekaligus menghemat waktu sehingga pendidik dapat fokus untuk memberikan kemampuan terbaiknya, yaitu mengajar.
+  imageUrl: /learn/media/educator-center/teal-card-cloud.svg
+  link:
+    url: https://www.youtube.com/watch?v=z9g0-rzT8lE
+    text: Tonton video
+- title: Dukungan
+  subTitle: Temukan bantuan cepat untuk menggunakan Progres Baca di Microsoft Teams
+  summary: Mengajar dan belajar di mana saja dengan panduan memulai untuk Progres Baca ini
+  imageUrl: /learn/media/educator-center/teal-card-docs.svg
+  link:
+    url: https://support.microsoft.com/topic/getting-started-with-reading-progress-in-teams-7617c11c-d685-4cb7-8b75-3917b297c407
+    text: Pelajari lebih lanjut
+- title: Video
+  subTitle: Lihat video tentang menggunakan Progres Baca di Microsoft Teams ini
+  summary: Buat tugas kelancaran membaca untuk seluruh kelas atau untuk siswa tertentu, visualkan kemajuan membaca dengan dasbor Insights Pendidikan, dan uji siswa yang berlatih sesuai kebutuhan.
+  imageUrl: /learn/media/educator-center/teal-card-racoon.svg
+  link:
+    url: https://www.youtube.com/watch?v=NilBP_YwXDw
+    text: Tonton video
+- title: Sumber
+  subTitle: Jelajahi riset di balik Progres Baca
+  summary: Baca riset yang berkontribusi terhadap penciptaan Progres Baca, aplikasi kelancaran membaca di Microsoft Teams untuk Pendidikan.
+  imageUrl: /learn/media/educator-center/topic-card-map.svg
+  link:
+    url: https://education.microsoft.com/resource/9d24e8eb
+    text: Pelajari lebih lanjut
+- title: Dukungan
+  subTitle: Temukan bahasa yang didukung oleh fitur deteksi otomatis
+  summary: Deteksi otomatis adalah fitur pratinjau di Progres Baca yang memperkirakan kesalahan berdasarkan pelafalan umum.
+  imageUrl: /learn/media/educator-center/teal-card-owl.svg
+  link:
+    url: https://support.microsoft.com/topic/getting-started-with-reading-progress-in-teams-7617c11c-d685-4cb7-8b75-3917b297c407#ID0EDD=Supported_Languages
+    text: Pelajari lebih lanjut
+curatedSection:
+- title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  items:
+  - learn.mec.support-reading-fluency-practice-with-reading-progress
+metadata:
+  ms.openlocfilehash: a9fa4aa1a8ed72052dcd043c52316c05c08ef730
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264680"

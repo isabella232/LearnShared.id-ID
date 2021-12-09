@@ -1,0 +1,70 @@
+### YamlMime:TopicLanding
+title: Pendidikan khusus dan aksesibilitas di Microsoft Learn
+summary: Bangun ruang kelas yang inklusif dan mudah diakses dengan alat Microsoft dan pelatihan pengembangan profesional di Microsoft Learn.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: Pendidikan khusus dan aksesibilitas
+  summary: Bangun ruang kelas yang inklusif dan mudah diakses dengan pelatihan dan alat Microsoft.
+  link:
+    url: /learn/browse/?roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten
+  imageUrl: /learn/media/educator-center/learn-banner-teal.svg
+featuredSection:
+- title: Sumber
+  subTitle: Lihat sumber daya pendidikan khusus dan aksesibilitas untuk pembelajaran jarak jauh
+  summary: Pelajari bagaimana alat Microsoft mendukung beragam kebutuhan belajar di lingkungan pembelajaran berdasarkan siswa untuk memberikan pembelajaran yang inklusif dan mudah diakses yang meningkatkan kepercayaan diri serta mendorong kemandirian.
+  imageUrl: /learn/media/educator-center/topic-card-map.svg
+  link:
+    url: https://education.microsoft.com/en-us/resource/0c6e9c42
+    text: Mulai
+- title: Dukungan
+  subTitle: Temukan bantuan cepat untuk Alat Pembelajaran Microsoft
+  summary: Pelajari cara menggunakan dan memecahkan masalah aplikasi Microsoft Education untuk ruang kelas inklusif.
+  imageUrl: /learn/media/educator-center/teal-card-docs.svg
+  link:
+    url: https://support.microsoft.com/en-us/topic/learning-tools-eff7f7e3-7e21-42f0-a6f1-da7027f98261
+    text: Pelajari lebih lanjut
+- title: Video
+  subTitle: Jelajahi daftar putar video kami tentang pendidikan khusus dan aksesibilitas
+  summary: Seri video ini dirancang untuk menunjukkan alat yang dapat membantu dalam pembelajaran inklusif.
+  imageUrl: /learn/media/educator-center/teal-card-cloud.svg
+  link:
+    url: https://www.youtube.com/playlist?list=PLiluTszfwwMIkfpExYsR4K9V8Rf2dPWkH
+    text: Tonton video
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.mec.support-learn-environments-instructional-leadership
+  - learn.mec.support-reading-fluency-practice-with-reading-progress
+  - learn.mec.accessibility-special-education-online-learning-equity
+  - learn.mec.empower-every-student-with-inclusive-classroom
+  - learn.mec.create-inclusive-environment-cultural-leadership
+  - learn.mec.differentiation-classroom-built-in-tools-office-365-windows
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - higher-ed-educator
+    - k-12-educator
+    - school-leader
+    - parent-guardian
+    products:
+    - office
+    - office-365
+    - office-teams
+    - windows
+    - flipgrid
+    - surface
+    - office-onenote
+    - office-powerpoint
+    - sway
+    - office-forms
+    - office-sp
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: f2e274452fe3b07ca434e514a23ce8bbf0396ae8
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264695"

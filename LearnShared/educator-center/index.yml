@@ -1,0 +1,212 @@
+### YamlMime:Marketing
+title: Gambaran Umum Educator Center - Microsoft Learn Educator Center
+sections:
+  - componentType: hero
+    imageTransform: translateDown
+    size: small
+    textColor: light
+    supertitle: Microsoft Learn
+    title: Educator Center
+    subtitle: 'Pahami pembelajaran secara mendalam dengan pelajaran interaktif, dapatkan jam pengembangan profesional, dapatkan sertifikasi, dan temukan program yang dapat membantu Anda meraih tujuan.'
+    background:
+      componentType: image
+      src: /learn/media/educator-center/learn-banner-teal.svg
+    links:
+      - componentType: link
+        url: /learn/browse/?roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+        text: Jelajahi semua pelatihan pendidik
+  - componentType: grid
+    backgroundColor: alternating-grey
+    title: Pelatihan pendidik dan pengembangan profesional
+    blocks:
+      - componentType: summary-card
+        title: 'Pembelajaran hibrid, jarak jauh, dan campuran'
+        summary: Pelajari cara mengelola pembelajaran online dengan metode kelas tradisional.
+        url: /learn/educator-center/topics/blended-learning
+      - componentType: summary-card
+        title: STEM dan pengodean
+        summary: Dukung minat siswa dengan menghubungkan kegiatan dalam kelas dengan dunia nyata.
+        url: /learn/educator-center/topics/stem
+      - componentType: summary-card
+        title: Aksesibilitas dan pendidikan khusus
+        summary: Kembangkan ruang kelas yang inklusif dan mudah diakses dengan pelatihan dan alat Microsoft.
+        url: /learn/educator-center/topics/special-education
+      - componentType: summary-card
+        title: Kepemimpinan pendidikan dan kolaborasi
+        summary: Perkuat komunitas pendidik Anda dengan alat kolaborasi dan peluang pengembangan profesional.
+        url: /learn/educator-center/topics/education-leadership
+      - componentType: summary-card
+        title: Pembelajaran yang difokuskan pada siswa
+        summary: Beralih ke pengajaran yang difokuskan pada peserta didik dari guru ke siswa.
+        url: /learn/educator-center/topics/student-centered-learning
+      - componentType: summary-card
+        title: Berdayakan pendapat para siswa
+        summary: Berdayakan siswa untuk menciptakan perubahan melalui alat presentasi.
+        url: /learn/educator-center/topics/empower-student-voice
+      - componentType: summary-card
+        title: Konten universitas untuk siswa teknis
+        summary: Jelajahi modul dan jalur pembelajaran dari universitas seperti Carnegie Mellon University dan University of Oxford untuk mempersiapkan siswa berkarier di cloud.
+        url: /learn/topics/universities
+      - componentType: summary-card
+        title: Konten NASA untuk siswa
+        summary: Jelajahi modul dan jalur pembelajaran yang terinspirasi oleh para ilmuwan NASA untuk mempersiapkan Anda berkarier dalam eksplorasi luar angkasa.
+        url: /learn/topics/nasa
+    addendum:
+      text: Telusuri semua
+      link:
+        text: pelatihan pendidik.
+        url: /learn/browse/?roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+  - componentType: grid
+    title: Panduan produk
+    backgroundColor: alternating-grey
+    blocks:
+      - componentType: icon-card
+        title: Teams untuk pendidikan
+        summary: 'Hub digital untuk ruang kelas kolaboratif yang menyatukan pertemuan, konten, dan aplikasi dalam satu tempat.'
+        url: /learn/educator-center/product-guides/teams
+        icon:
+          componentType: image
+          src: /learn/media/educator-center/product-icons/Microsoft_Teams_256x256.png
+      - componentType: icon-card
+        title: 'Minecraft: Education Edition'
+        summary: 'Platform pembelajaran berbasis permainan yang mendorong kreativitas, kolaborasi, dan pemecahan masalah dalam lingkungan digital yang imersif.'
+        url: /learn/educator-center/product-guides/minecraft
+        icon:
+          componentType: image
+          src: /learn/media/educator-center/product-icons/minecraft_128x128.png
+      - componentType: icon-card
+        title: Office 365
+        summary: 'Bangun ruang kelas kolaboratif dengan aplikasi populer seperti Teams, Outlook, Word, PowerPoint, Excel, OneNote, School Data Sync dan banyak lagi.'
+        url: /learn/educator-center/product-guides/office
+        icon:
+          componentType: image
+          src: /learn/media/educator-center/product-icons/Office_256x256.png
+      - componentType: icon-card
+        title: Flipgrid
+        summary: 'Platform video pembelajaran sosial gratis yang sederhana untuk keluarga, peserta didik, dan pendidik PAUD hingga PhD.'
+        url: /learn/educator-center/product-guides/flipgrid
+        icon:
+          componentType: image
+          src: /learn/media/educator-center/product-icons/flipgrid_128x128.png
+      - componentType: icon-card
+        title: OneNote
+        summary: Atur rencana pelajaran dan konten kursus di buku catatan digital pribadi untuk memastikan Anda dapat melacak setiap tugas atau setiap inspirasi yang muncul.
+        url: /learn/educator-center/product-guides/onenote
+        icon:
+          componentType: image
+          src: /learn/media/educator-center/product-icons/OneNote_256x256.png
+      - componentType: icon-card
+        title: PowerPoint
+        summary: 'Aplikasi presentasi yang membuat peragaan slide berisi informasi, bagan, dan gambar penting yang akan ditampilkan selama presentasi.'
+        url: /learn/educator-center/product-guides/powerpoint
+        icon:
+          componentType: image
+          src: /learn/media/educator-center/product-icons/PowerPoint_128x128.png
+      - componentType: icon-card
+        title: Pembaca Imersif
+        summary: Alat gratis yang menerapkan teknik teruji untuk meningkatkan keterampilan membaca dan menulis setiap orang bagaimana pun kemampuan mereka dan berapa pun usia mereka.
+        url: /learn/educator-center/product-guides/immersive-reader
+        icon:
+          componentType: image
+          src: /learn/media/educator-center/product-icons/immersive-reader_128x128.png
+      - componentType: icon-card
+        title: Kemajuan Membaca
+        summary: Alat gratis yang dirancang untuk membantu siswa membangun kepercayaan diri dan kelancaran membaca melalui pengalaman membaca yang dipersonalisasi yang disertakan dalam Tugas dalam Microsoft Teams.
+        url: /learn/educator-center/product-guides/reading-progress
+        icon:
+          componentType: image
+          src: /learn/media/educator-center/product-icons/msft-social-icon.png
+    addendum:
+      text: Telusuri semua
+      link:
+        text: pelatihan pendidik.
+        url: /learn/browse/?roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+  - componentType: cards
+    isShadowless: true
+    backgroundColor: alternating-grey
+    title: Sorotan program pendidik
+    blocks:
+      - componentType: card
+        title: Program Microsoft Learn untuk Pendidik
+        summary: Microsoft Learn untuk Pendidik memberikan jalur pembelajaran online Microsoft Learn terbaik dan membantu Anda menghadirkan materi pelatihan yang dipandu instruktur dari Microsoft ke dalam kursus Anda. Program ini memberikan akses ke kurikulum siap ajar Microsoft dan bahan ajar yang selaras dengan Sertifikasi Microsoft yang diakui industri kepada para anggota. Sertifikasi ini menambah jalur gelar siswa yang ada dan memvalidasi keterampilan yang diperlukan agar sukses di berbagai karier teknis.
+        imageUrl: /Learn/media/educator-center/programs/msle-social.png
+        url: /learn/educator-center/programs/msle/
+      - componentType: card
+        title: Microsoft Innovative Educator
+        summary: 'Jaringan pendidik global yang terlatih menggunakan alat Microsoft di dalam kelas. Menjadi MIE adalah langkah pertama dalam proses transformasi digital. Dengan menyelesaikan konten pembelajaran profesional berdurasi 2 jam, peserta akan mendapatkan lencana MIE.'
+        imageUrl: /learn/media/educator-center/programs/mie-social.png
+        url: 'https://education.microsoft.com/resource/18485a7b'
+      - componentType: card
+        title: Showcase School
+        summary: Program Microsoft Showcase School adalah program transformasi sekolah dan merupakan komunitas global bagi sekolah pelopor di seluruh dunia. Program ini memberikan kesempatan untuk berinteraksi dengan Microsoft dan para pemimpin sekolah yang memiliki tujuan yang sama di seluruh dunia untuk memperdalam dan memperluas transformasi pendidikan menggunakan Microsoft Education Transformation Framework.
+        imageUrl: /learn/media/educator-center/programs/showcase-schools-social.png
+        url: 'https://education.microsoft.com/resource/53ade767'
+      - componentType: card
+        title: Minecraft Teacher Academy
+        summary: 'Komunitas Pendidik menggunakan Minecraft: Education Edition sebagai alat pengajaran dan pembelajaran yang dirancang untuk mendukung praktik pedagogis yang kuat dalam lingkungan pembelajaran yang menarik dan menyenangkan.'
+        imageUrl: /learn/media/educator-center/programs/minecraft-certified-teacher-program.png
+        url: 'https://education.minecraft.net/resources/get-trained'
+    addendum:
+      text: Telusuri semua
+      link:
+        text: program pendidik.
+        url: /learn/educator-center/programs/
+  - componentType: grid
+    backgroundColor: alternating-grey
+    title: Sumber daya yang direkomendasikan untuk pendidik
+    blocks:
+      - componentType: summary-card
+        title: Microsoft Education Home
+        summary: Mendukung setiap siswa di seluruh dunia untuk meraih lebih banyak hal.
+        url: 'https://www.microsoft.com/education'
+      - componentType: summary-card
+        title: Bantuan pendidikan dan pembelajaran
+        summary: 'Dukungan, dokumentasi, dan panduan memulai untuk produk Microsoft Office untuk Pendidikan'
+        url: 'https://support.microsoft.com/education'
+      - componentType: summary-card
+        title: Blog Microsoft Education
+        summary: 'Berita yang inspiratif, informatif, dan mendukung pembelajaran'
+        url: 'https://educationblog.microsoft.com/'
+      - componentType: summary-card
+        title: Kalender pelatihan dan acara
+        summary: 'Temukan pelatihan, seminar web, serta acara langsung dan sesuai permintaan yang memungkinkan Anda dan siswa mengoptimalkan pembelajaran jarak jauh.'
+        url: 'https://www.microsoft.com/education/training-and-events/events-calendar#/events'
+  - componentType: bifold
+    backgroundColor: alternating-grey
+    alignment: center
+    blocks:
+      - src: /learn/media/educator-center/learn-school.svg
+        alt: Gambar kartun memegang tongkat selfie.
+        componentType: image
+      - title: Tetap terhubung melalui komunitas pendidik kami
+        summary: Ikuti perkembangan berita terkini dan dapatkan pelatihan serta sumber daya dari Microsoft Education dengan mendaftar buletin kami
+        componentType: text
+        links:
+          - componentType: link
+            url: 'https://education.microsoft.com/connectWithUs'
+            text: Buletin Microsoft EDU
+  - componentType: social
+    backgroundColor: alternating-grey
+    title: Ikuti Microsoft EDU di media sosial
+    links:
+      - componentType: social-link
+        url: 'https://www.facebook.com/microsoftineducation/'
+        destination: facebook
+      - componentType: social-link
+        url: 'https://github.com/microsoft'
+        destination: github
+      - componentType: social-link
+        url: 'https://twitter.com/MicrosoftEDU/'
+        destination: twitter
+      - componentType: social-link
+        url: 'https://www.linkedin.com/showcase/microsoft-in-education/'
+        destination: linkedin
+      - componentType: social-link
+        url: 'https://educationblog.microsoft.com/'
+        destination: blog
+      - componentType: social-link
+        url: 'https://www.instagram.com/microsoftedu/'
+        destination: instagram
+      - componentType: social-link
+        url: 'https://www.youtube.com/channel/UCG_FV4WjnZqtm6sux2g069Q'
+        destination: youtube

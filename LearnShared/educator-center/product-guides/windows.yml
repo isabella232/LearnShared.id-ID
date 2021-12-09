@@ -1,0 +1,51 @@
+### YamlMime:TopicLanding
+title: Teams untuk pendidikan di Microsoft Learn
+summary: Sistem operasi terbaru Microsoft menawarkan peningkatan keamanan dan fitur baru yang akan membantu Anda dan siswa mengelola waktu, mendorong kreativitas, dan memungkinkan pertumbuhan di semua tingkat pendidikan.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: Windows 10 for Education
+  summary: Sistem operasi terbaru Microsoft menawarkan peningkatan keamanan dan fitur baru yang akan membantu Anda dan siswa mengelola waktu, mendorong kreativitas, dan memungkinkan pertumbuhan di semua tingkat pendidikan.
+  link:
+    url: /learn/browse/?products=windows&roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten Windows
+  imageUrl: /learn/media/educator-center/learn-banner-blue.svg
+featuredSection:
+- title: Video
+  subTitle: Jelajahi daftar putar video tips singkat Windows untuk pendidikan
+  summary: Video panduan memulai untuk membantu Anda dan siswa.
+  imageUrl: /learn/media/educator-center/blue-card-cloud.svg
+  link:
+    url: https://www.youtube.com/playlist?list=PLWs4_NfqMtoxNnBdhtkfICE8hNURClWOP
+    text: Tonton video
+- title: Dukungan
+  subTitle: Temukan bantuan & panduan belajar Windows untuk Pendidikan
+  summary: Mengajar dan belajar di mana saja dengan panduan langkah demi langkah dan pemecahan masalah untuk Windows.
+  imageUrl: /learn/media/educator-center/blue-card-owl.svg
+  link:
+    url: https://support.microsoft.com/windows
+    text: Pelajari lebih lanjut
+- title: Dokumentasi
+  subTitle: Temukan panduan penyebaran kami untuk admin TI
+  summary: Panduan ini dirancang untuk admin TI yang memerlukan cara termudah untuk memindahkan platform mereka ke cloud, mengelola keamanan, dan mengakses analitik.
+  imageUrl: /learn/media/educator-center/blue-card-docs.svg
+  link:
+    url: https://docs.microsoft.com/education/itadmins
+    text: Pelajari lebih lanjut
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - k-12-educator
+    - higher-ed-educator
+    - school-leader
+    - parent-guardian
+    products:
+    - windows
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: f300afa8a0d5b7ad4db2c5a3d6c91e6dc103b5f0
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264679"

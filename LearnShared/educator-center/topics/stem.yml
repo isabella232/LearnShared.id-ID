@@ -1,0 +1,63 @@
+### YamlMime:TopicLanding
+title: STEM dan penyusunan kode di Microsoft Learn
+summary: Dukung minat siswa dengan menghubungkan kegiatan dalam kelas dengan dunia nyata menggunakan pelatihan STEM dan penyusunan kode dari Microsoft Learn.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: STEM dan penyusunan kode
+  summary: Dukung minat siswa dengan menghubungkan kegiatan dalam kelas dengan dunia nyata.
+  link:
+    url: /learn/browse/?roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten
+  imageUrl: /learn/media/educator-center/learn-banner-teal.svg
+featuredSection:
+- title: Sumber
+  subTitle: Wujudkan kode dengan MakeCode
+  summary: Hadirkan ilmu komputer untuk semua siswa dengan proyek menarik, hasil langsung, serta editor blok maupun teks untuk peserta didik di berbagai tingkatan.
+  imageUrl: /learn/media/educator-center/teal-card-robot.svg
+  link:
+    url: https://www.microsoft.com/makecode
+    text: Pelajari lebih lanjut
+- title: Sumber
+  subTitle: Ikuti langsung pelajaran dan aktivitas Hacking STEM
+  summary: Rancang penyelidikan yang terjangkau dan kegiatan berbasis proyek untuk memvisualkan data di seluruh kurikulum sains, teknologi, teknik, dan matematika (STEM). Rencana pelaksanaan pembelajaran berbasis standar sekolah menengah pertama yang dibuat oleh guru untuk guru.
+  imageUrl: /learn/media/educator-center/topic-card-map.svg
+  link:
+    url: https://education.microsoft.com/hackingStem
+    text: Pelajari lebih lanjut
+- title: Program
+  subTitle: Ajarkan keterampilan teknologi untuk masa depan
+  summary: Microsoft Learn untuk Pendidik mengambil jalur pembelajaran online Microsoft Learn terbaik dan menyediakan kurikulum dan materi pelatihan pendukung kepada pendidik untuk digunakan di kelas.
+  imageUrl: /learn/media/educator-center/teal-card-suitcase.svg
+  link:
+    url: /learn/educator-center/programs/msle/
+    text: Daftar sekarang
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.mec.minecraft-teacher-academy
+  - learn.mec.minecraft-world-game-management
+  - learn.mec.computational-thinking-importance-education
+  - learn.mec.minecraft-introduction-to-coding
+  - learn.mec.minecraft-place-first-blocks
+  - learn.mec.teach-ap-computer-science-principles-makecode
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - higher-ed-educator
+    - k-12-educator
+    - school-leader
+    - parent-guardian
+    products:
+    - minecraft
+    - azure
+    - makecode
+    - power-platform
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 01f584e468903320fd0f920661e45522d4aa5deb
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264704"

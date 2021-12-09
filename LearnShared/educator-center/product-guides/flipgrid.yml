@@ -1,0 +1,51 @@
+### YamlMime:TopicLanding
+title: Flipgrid di Microsoft Learn
+summary: Platform video pembelajaran sosial gratis yang sederhana untuk keluarga, peserta didik, dan pendidik PAUD hingga PhD.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: Flipgrid
+  summary: Platform video pembelajaran sosial gratis yang sederhana untuk keluarga, peserta didik, dan pendidik PAUD hingga PhD.
+  link:
+    url: /learn/browse/?products=flipgrid&roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten Flipgrid
+  imageUrl: /learn/media/educator-center/learn-banner-green.svg
+featuredSection:
+- title: Program
+  subTitle: Gabung dengan Komunitas Duta Pengaruh Siswa Flipgrid
+  summary: Duta Pengaruh Siswa adalah pendidik yang bersemangat dan paling inovatif di dunia, yang mendukung keterlibatan siswa, agensi, dan pemberdayaan di mana pun mereka berada!
+  imageUrl: /learn/media/educator-center/green-card-owl.svg
+  link:
+    url: https://blog.flipgrid.com/news/sva
+    text: Pelajari lebih lanjut
+- title: Acara
+  subTitle: Daftar seminar web Flipgrid
+  summary: Gabung dengan tim Flipgrid untuk mengikuti Pengembangan Profesional, Karyawisata Virtual, dan Acara Langsung Microsoft Education.
+  imageUrl: /learn/media/educator-center/green-card-robot.svg
+  link:
+    url: https://www.microsoft.com/store/workshops-training-and-events/flipgrid
+    text: Daftar
+- title: Video
+  subTitle: Jelajahi daftar putar video Flipgrid kami
+  summary: Video gratis untuk membantu Anda dan siswa memulai.
+  imageUrl: /learn/media/educator-center/green-card-cloud.svg
+  link:
+    url: https://www.youtube.com/playlist?list=PLu5X2R3TC2gU3qJG2YGFjI7ShSXV6USTf
+    text: Tonton video
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - k-12-educator
+    - higher-ed-educator
+    - school-leader
+    - parent-guardian
+    products:
+    - flipgrid
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 2108ae8a5c7c3712481fcf85239702285d419ec9
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264678"

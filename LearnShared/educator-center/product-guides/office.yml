@@ -1,0 +1,61 @@
+### YamlMime:TopicLanding
+title: Office 365 untuk pendidikan di Microsoft Learn
+summary: Bangun ruang kelas kolaboratif, terhubung dengan komunitas pembelajaran profesional, serta terhubung dengan rekan kerja di aplikasi populer seperti Teams, Outlook, Word, PowerPoint, Excel, OneNote, School Data Sync, dan lainnya.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: Office 365 untuk pendidikan
+  summary: Bangun ruang kelas kolaboratif, terhubung dengan komunitas pembelajaran profesional, serta terhubung dengan rekan kerja di aplikasi populer seperti Teams, Outlook, Word, PowerPoint, Excel, OneNote, School Data Sync, dan lainnya.
+  link:
+    url: /learn/browse/?products=office%2Coffice-365&roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten Office
+  imageUrl: /learn/media/educator-center/learn-banner-blue.svg
+featuredSection:
+- title: Pelatihan
+  subTitle: Jelajahi pelatihan di Microsoft 365
+  summary: Mulai dengan cepat dan mudah dengan video pelatihan, templat, mulai cepat, dan tips untuk menggunakan Office dan Microsoft 365.
+  imageUrl: /learn/media/educator-center/blue-card-robot.svg
+  link:
+    url: https://support.microsoft.com/en-us/training
+    text: Mulai
+- title: Dukungan
+  subTitle: Jelajahi panduan kami untuk pengajaran dan pembelajaran jarak jauh di Office 365
+  summary: Sumber daya untuk mendukung manajemen kelas dan keterlibatan siswa dengan Office 365 Education.
+  imageUrl: /learn/media/educator-center/blue-card-owl.svg
+  link:
+    url: https://support.microsoft.com/topic/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4
+    text: Pelajari lebih lanjut
+- title: Dokumentasi
+  subTitle: Temukan panduan penyebaran untuk admin TI
+  summary: Panduan ini dirancang untuk admin TI yang memerlukan cara termudah untuk memindahkan platform mereka ke cloud, mengelola keamanan, dan mengakses analitik.
+  imageUrl: /learn/media/educator-center/blue-card-docs.svg
+  link:
+    url: https://www.youtube.com/playlist?list=PLiluTszfwwMKvDlw8IubqWgB9W5bVK4zx
+    text: Pelajari lebih lanjut
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.mec.connect-faculty-learners-canvas-microsoft-365
+  - learn.mec.differentiation-classroom-built-in-tools-office-365-windows
+  - learn.mec.staying-connected-remote-learning-microsoft-teams-office-365
+  - learn.mec.accessibility-special-education-online-learning-equity
+  - learn.accessible-content-m365
+  - learn.mec.empower-every-student-with-inclusive-classroom
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - k-12-educator
+    - higher-ed-educator
+    - school-leader
+    - parent-guardian
+    products:
+    - office
+    - office-365
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: e3d7d3a76e4a87095c2c3467f9f5e4895585af65
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264677"

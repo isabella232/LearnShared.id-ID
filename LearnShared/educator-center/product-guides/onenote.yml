@@ -1,0 +1,60 @@
+### YamlMime:TopicLanding
+title: OneNote untuk pendidikan di Microsoft Learn
+summary: Alat utama untuk organisasi kelas, OneNote memungkinkan Anda mengatur rencana pelaksanaan pembelajaran dan konten kursus di buku catatan digital pribadi guna memastikan Anda dapat melacak setiap tugas atau setiap inspirasi yang muncul.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: OneNote untuk pendidikan
+  summary: Alat utama untuk organisasi kelas, OneNote memungkinkan Anda mengatur rencana pelaksanaan pembelajaran dan konten kursus di buku catatan digital pribadi guna memastikan Anda dapat melacak setiap tugas atau setiap inspirasi yang muncul.
+  link:
+    url: /learn/browse/?products=office-onenote&roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten OneNote
+  imageUrl: /learn/media/educator-center/learn-banner-blue.svg
+featuredSection:
+- title: Panduan interaktif
+  subTitle: Coba demo interaktif kami
+  summary: Dapatkan pengalaman dan pelatihan langsung dengan alat Microsoft Education.
+  imageUrl: /Learn/media/educator-center/purple-card-robot.svg
+  link:
+    url: https://www.onenoteineducation.com/
+    text: Mulai
+- title: Video
+  subTitle: Jelajahi daftar putar video tips singkat OneNote
+  summary: Ratusan video untuk membantu Anda dan siswa memulai.
+  imageUrl: /Learn/media/educator-center/purple-card-cloud.svg
+  link:
+    url: https://www.youtube.com/playlist?list=PLiluTszfwwMJqzwTsyFVPyezvKovPLaEj
+    text: Tonton video
+- title: Dukungan
+  subTitle: Temukan bantuan & panduan pembelajaran untuk OneNote & Buku Catatan Kelas
+  summary: Mengajar dan belajar di mana pun Anda berada dengan panduan langkah demi langkah serta pemecahan masalah untuk OneNote.
+  imageUrl: /Learn/media/educator-center/purple-card-docs.svg
+  link:
+    url: https://support.microsoft.com/topic/onenote-1c5eabbd-ea92-4961-9b98-1e43e2fa1ac0
+    text: Pelajari lebih lanjut
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.mec.get-started-with-onenote
+  - learn.mec.accessibility-special-education-online-learning-equity
+  - learn.mec.collaborate-colleagues-live-teams-meetings-onenote
+  - learn.mec.working-collaboratively-staff-plc-teams
+  - learn.mec.independent-learning-math-tools-onenote
+  - learn.mec.keep-students-engaged-connections-remote-learning
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - k-12-educator
+    - higher-ed-educator
+    - school-leader
+    - parent-guardian
+    products:
+    - office-onenote
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 03dfd865bd2ec5475ee9ab53d94ae946aec05547
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264682"

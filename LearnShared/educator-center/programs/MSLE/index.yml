@@ -8,7 +8,7 @@ sections:
     background:
       componentType: image
       src: 'https://docs.microsoft.com/media/learn/topics/blue-hero-background-02.svg'
-    subtitle: 'Sebagai pendidik, Anda berperan penting dalam memberdayakan siswa agar sukses di masa depan! Di Microsoft, kami berkomitmen untuk membantu dan mendukung Anda dalam misi ini. '
+    subtitle: 'Sebagai pendidik, Anda berperan penting dalam memberdayakan siswa agar sukses di masa depan! Microsoft berkomitmen untuk mendukung Anda dalam program ini dengan menyediakan kurikulum, pelatihan, dan alat gratis untuk mengajar.'
     links:
       - componentType: link
         url: program-instructions.md#sign-up

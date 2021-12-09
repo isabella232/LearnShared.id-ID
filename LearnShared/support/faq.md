@@ -9,12 +9,12 @@ ms.prod: non-product-specific
 zone_pivot_groups: supportfaq
 zone_pivot_group_filename: learn-shared-zone-pivot-groups.yml
 breadcrumb_path: toc.yml
-ms.openlocfilehash: cf9dfa8975454dceed366648ac2fbefe42dc4877
-ms.sourcegitcommit: 1221777ce416add76f0dd3e0988021572ef425c2
+ms.openlocfilehash: b363ea1a5ac769204255d37dbf3bbf8b49e8cc15
+ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110137838"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "133262230"
 ---
 # <a name="frequently-asked-questions"></a>Tanya jawab umum
 
@@ -130,7 +130,7 @@ Anda dapat mengedit profil di halaman [Edit Profil Anda](https://techprofile.mic
 
 ## <a name="what-information-in-my-profile-is-publicly-viewable"></a>Informasi apa di profil saya yang dapat dilihat publik?
 
-Ketika Anda membuat profil, profil tersebut dapat diakses secara publik di URL https://docs.microsoft.com/users/<your-user-name>.  Nama tampilan, prestasi Anda (termasuk tingkat, lencana, dan piala), dan aktivitas akan ditampilkan.  Setiap Koleksi yang telah Anda buat juga dapat dilihat secara publik melalui URL-nya. 
+Ketika Anda membuat profil, profil tersebut dapat diakses secara publik di URL `https://docs.microsoft.com/users/<your-user-name>`.  Nama tampilan, prestasi Anda (termasuk tingkat, lencana, dan piala), dan aktivitas akan ditampilkan.  Setiap Koleksi yang telah Anda buat juga dapat dilihat secara publik melalui URL-nya. 
 
 ## <a name="can-i-download-a-copy-of-all-my-user-data"></a>Dapatkah saya mengunduh salinan semua data pengguna saya?
 
@@ -173,7 +173,7 @@ Di sebagian besar pelajaran, Anda tidak perlu menginstal alat pengembangan lokal
 
 ## <a name="do-i-need-an-azure-account-to-use-a-sandbox"></a>Apakah saya memerlukan akun Azure untuk menggunakan kotak pasir?
 
-Nomor. Anda hanya membutuhkan [akun Microsoft](https://account.microsoft.com/account) untuk masuk. Jika Anda tidak memilikinya, Anda dapat membuatnya secara gratis.
+Tidak. Anda hanya membutuhkan [akun Microsoft](https://account.microsoft.com/account) untuk masuk. Jika Anda tidak memilikinya, Anda dapat membuatnya secara gratis.
 
 ## <a name="can-i-use-the-sandbox-if-i-already-have-an-azure-subscription"></a>Dapatkah saya menggunakan kotak pasir jika sudah memiliki langganan Azure?
 
@@ -208,7 +208,7 @@ Setiap kali mengaktifkan kotak pasir, satu grup sumber daya akan dibuat untuk An
 ![Menu menurun langganan memilih "Concierge Subscription"](./media/sandboxfaq4.png)
 
 ## <a name="can-i-activate-the-sandbox-on-mobile"></a>Dapatkah saya mengaktifkan kotak pasir di perangkat seluler?
-Nomor. Kotak pasir tidak tersedia di perangkat seluler, Anda tidak dapat mengaktifkan atau menggunakan kotak pasir di perangkat seluler. Gunakan desktop untuk menikmati pengalaman pengguna kotak pasir terbaik.
+Tidak. Kotak pasir tidak tersedia di perangkat seluler, Anda tidak dapat mengaktifkan atau menggunakan kotak pasir di perangkat seluler. Gunakan desktop untuk menikmati pengalaman pengguna kotak pasir terbaik.
 
 ## <a name="do-i-need-to-use-the-sandbox"></a>Apakah saya perlu menggunakan kotak pasir?
 
@@ -238,7 +238,7 @@ Ketika Anda mengaktifkan kotak pasir baru, lingkungan kotak pasir lama akan diha
 
 ## <a name="can-i-activate-multiple-sandbox-environments"></a>Dapatkah saya mengaktifkan beberapa lingkungan kotak pasir?
 
-Nomor. Setiap modul memberikan kotak pasir baru sehingga Anda selalu memulai di lingkungan yang benar-benar baru. Sistem mendeteksi ketika Anda beralih dari satu modul ke modul berikutnya, dan meminta Anda untuk mengaktifkan kotak pasir baru. Tampilan perintahnya sebagai berikut:
+Tidak. Setiap modul memberikan kotak pasir baru sehingga Anda selalu memulai di lingkungan yang benar-benar baru. Sistem mendeteksi ketika Anda beralih dari satu modul ke modul berikutnya, dan meminta Anda untuk mengaktifkan kotak pasir baru. Tampilan perintahnya sebagai berikut:
 
 ![Pemberitahuan bahwa kotak pasir lain aktif, dengan tombol untuk mengaktifkan kotak pasir baru.](./media/sandboxfaq8.png)
 
@@ -274,7 +274,7 @@ Tidak, kotak pasir terpisah dari Azure Cloud Shell. Mengatur ulang Azure Cloud S
 
 ## <a name="can-i-save-my-settings-in-the-sandbox-and-come-back-later"></a>Dapatkah saya menyimpan pengaturan di kotak pasir dan menggunakannya kembali nanti?
 
-Nomor. Kotak pasir Anda bersifat sementara dan hanya dapat diakses selama empat jam.
+Tidak. Kotak pasir Anda bersifat sementara dan hanya dapat diakses selama empat jam.
 
 ::: zone-end
 
@@ -282,26 +282,60 @@ Nomor. Kotak pasir Anda bersifat sementara dan hanya dapat diakses selama empat 
 
 ## <a name="how-do-i-report-problems-im-seeing-with-the-sandbox"></a>Bagaimana cara melaporkan masalah yang saya alami di kotak pasir?
 
-Pastikan untuk mengunjungi bagian [Pemecahan Masalah](https://docs.microsoft.com/learn/support/troubleshooting) kami untuk mendapatkan solusi atas masalah umum. Jika Anda tetap tidak dapat mengatasi masalah, silakan ["Laporkan Masalah"](https://docs.microsoft.com/learn/support/troubleshooting#report-feedback) untuk memberi tahu tim kami.
+Pastikan untuk mengunjungi bagian [Pemecahan Masalah](troubleshooting.md) kami untuk mendapatkan solusi atas masalah umum. Jika Anda tetap tidak dapat mengatasi masalah, silakan ["Laporkan Masalah"](troubleshooting.md#report-feedback) untuk memberi tahu tim kami.
 
 ## <a name="im-having-problems-completing-a-learning-pathmoduleunit-where-can-i-go-to-get-help"></a>Saya mengalami masalah dalam menyelesaikan jalur pembelajaran/modul/unit. Di mana saya dapat memperoleh bantuan?
 
-Pastikan untuk mengunjungi bagian [Pemecahan Masalah](https://docs.microsoft.com/learn/support/troubleshooting) kami untuk mendapatkan solusi atas masalah umum. Jika Anda tetap tidak dapat mengatasi masalah, silakan ["Laporkan Masalah"](https://docs.microsoft.com/learn/support/troubleshooting#report-feedback) untuk memberi tahu tim kami.
+Pastikan untuk mengunjungi bagian [Pemecahan Masalah](troubleshooting.md) kami untuk mendapatkan solusi atas masalah umum. Jika Anda tetap tidak dapat mengatasi masalah, silakan ["Laporkan Masalah"](troubleshooting.md#report-feedback) untuk memberi tahu tim kami.
 
 ## <a name="i-found-an-error-with-the-content-can-i-notify-someone-about-it"></a>Saya menemukan kesalahan dalam konten. Dapatkah saya memberi tahu seseorang tentang hal tersebut?
 
-Silakan beri tahu tim kami dengan [melaporkan masalah ini.](https://docs.microsoft.com/learn/support/troubleshooting#report-feedback)
+Silakan beri tahu tim kami dengan [melaporkan masalah ini.](troubleshooting.md#report-feedback)
 
 ::: zone-end
 
 ::: zone pivot="educators"
 
-## <a name="microsoft-learn-for-educators-faq"></a>FAQ Microsoft Learn untuk Pendidik
+## <a name="what-is-the-microsoft-learn-educator-center"></a>Apa itu Microsoft Learn Educator Center? 
 
-Lihat FAQ program Microsoft Learn untuk Pendidik [di sini](../roles/educator/faq.md).
+[Microsoft Learn Educator Center](/learn/educator-center) adalah ekstensi dari platform keterampilan Microsoft Learn yang menyediakan akses ke pengembangan profesional dan konten keterampilan teknis untuk pendidik, sehingga pendidik lebih siap dengan pengetahuan tentang praktik terbaik dalam menggunakan produk dan layanan Microsoft untuk meningkatkan hasil siswa.
+
+## <a name="are-there-getting-started-resources-for-using-microsoft-learn"></a>Apakah sumber daya untuk mulai menggunakan Microsoft Learn tersedia?
+
+Ya, [Jelajahi Microsoft Learn untuk Pendidik dan Pimpinan Sekolah](/learn/modules/navigate-microsoft-learn-for-educators-school-leaders/) akan memberi Anda konten penting untuk menggunakan Microsoft Learn dan menyediakan gateway ke konten pengembangan profesional yang menarik untuk alat pendidik.
+
+## <a name="how-do-i-find-educator-content-on-learn"></a>Bagaimana cara menemukan konten pendidik di Learn?
+
+Untuk menelusuri semua konten, buka halaman "telusuri semua" Learn di [docs.microsoft.com/learn/browse/](/learn/browse/).
+
+Untuk membantu Anda menemukan konten yang diperlukan, filter konten khusus pendidik dengan memilih peran sebagai **"Pendidik SD," "Pendidik Pendidikan Tinggi," "Pemimpin Sekolah,"** atau **"Orang Tua & Wali"** di bawah filter “Peran”.
+
+> [!TIP]
+> Anda juga dapat menemukan konten yang dirancang sesuai dengan topik dan produk pengembangan profesional tertentu di [Learn Educator Center](/learn/educator-center)
+
+## <a name="i-was-a-microsoft-educator-center-mec-user-but-i-dont-see-all-my-mec-training-history-in-my-learn-profile-why"></a>Saya pernah menjadi pengguna Microsoft Educator Center (MEC), tetapi saya tidak menemukan semua riwayat pelatihan MEC di profil Learn saya. Mengapa?
+
+Kami belum memindahkan riwayat pelatihan Anda dari Microsoft Educator Center ke Learn. Kami akan melakukannya tidak lama lagi.
+
+Untuk memastikan riwayat dan pencapaian pembelajaran telah dipindahkan, Anda perlu menautkan profil MEC dan Learn serta menerima izin untuk ikut serta membagikan profil dengan Learn.
+
+Untuk melakukannya:
+1. Buka halaman beranda [Microsoft Educator Center](https://education.microsoft.com/).
+1. Pilih tombol untuk **Mengunjungi Microsoft Learn Educator Center**
+1. Di jendela pop-up, setujui izin untuk membagikan profil Anda dan pilih **Lanjutkan untuk masuk ke Learn**.
+1. Masuk ke Learn menggunakan kredensial yang sama yang Anda gunakan untuk masuk ke MEC.
+1. Lanjutkan pembelajaran. Pencapaian MEC dan riwayat pembelajaran Anda akan dipindahkan ke Learn dalam beberapa bulan mendatang.
+
+Untuk saat ini, profil Microsoft Educator Center Anda akan menampilkan semua pencapaian konten telah yang diselesaikan di MEC dan di Learn. Buka [profil MEC Anda di sini](https://education.microsoft.com/profile).
+
+## <a name="how-can-i-get-support-as-an-educator"></a>Bagaimana cara mendapatkan dukungan sebagai pendidik?
+
+Tim Dukungan EDU hadir untuk mendukung pelanggan dengan kebutuhan khusus pendidikan mereka. Saluran dukungan EDU adalah cara tercepat untuk memecahkan masalah, melaporkan masalah, dan menemukan sumber daya EDU yang relevan dan jawaban atas pertanyaan yang sering diajukan. Pusat Bantuan Pendidikan menyediakan beragam sumber daya yang bermanfaat. Untuk mendapatkan bantuan terkait masalah yang lebih kompleks atau spesifik, akses sistem tiket Dukungan EDU untuk meminta bantuan lain terkait produk Microsoft.
+
+[Dapatkan Dukungan EDU](https://edusupport.microsoft.com/support) 
 
 ## <a name="are-there-ways-to-connect-microsoft-learn-to-my-learning-management-system"></a>Apakah ada cara untuk menyambungkan Microsoft Learn ke Sistem Manajemen Pembelajaran saya?
 
-[Microsoft Learn Catalog API](https://docs.microsoft.com/learn/support/catalog-api) memungkinkan Anda mengirimkan kueri berbasis web ke Microsoft Learn dan mendapatkan detail terkait konten yang diterbitkan seperti judul, produk yang dibahas, dan tautan ke pelatihan. Pelanggan dapat menggunakan informasi yang diberikan dan menampilkannya dalam sistem manajemen pembelajaran (LMS) mereka bersama konten pelatihan lainnya.
+[Microsoft Learn Catalog API](catalog-api.md) memungkinkan Anda mengirimkan kueri berbasis web ke Microsoft Learn dan mendapatkan detail terkait konten yang diterbitkan seperti judul, produk yang dibahas, dan tautan ke pelatihan. Pelanggan dapat menggunakan informasi yang diberikan dan menampilkannya dalam sistem manajemen pembelajaran (LMS) mereka bersama konten pelatihan lainnya.
 
 ::: zone-end

@@ -1,0 +1,70 @@
+### YamlMime:TopicLanding
+title: Pembelajaran hibrid, jarak jauh, dan campuran di Microsoft Learn
+summary: Pelajari cara mengelola pembelajaran online dengan metode kelas tradisional melalui pelatihan pengembangan profesional di Microsoft Learn.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: Pembelajaran hibrid, jarak jauh, dan campuran
+  summary: Pelajari cara mengelola pembelajaran online dengan metode kelas tradisional.
+  link:
+    url: /learn/browse/?roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten
+  imageUrl: /learn/media/educator-center/learn-banner-teal.svg
+featuredSection:
+- title: Video
+  subTitle: Jelajahi seri seminar web pembelajaran jarak jauh kami
+  summary: Daftar putar video dengan seminar web untuk pendidik tentang praktik terbaik, tips, dan alat pembelajaran jarak jauh.
+  imageUrl: /learn/media/educator-center/teal-card-cloud.svg
+  link:
+    url: https://www.youtube.com/playlist?list=PLiluTszfwwMLY_iSJr4AJT-azzAceDWPR
+    text: Tonton video
+- title: Dukungan
+  subTitle: Dapatkan dukungan untuk pembelajaran jarak jauh dengan siswa yang belajar dari rumah
+  summary: Panduan pembelajaran jarak jauh untuk siswa dan orang tua.
+  imageUrl: /learn/media/educator-center/teal-card-docs.svg
+  link:
+    url: https://support.microsoft.com/topic/distance-learning-with-microsoft-365-guidance-for-parents-and-guardians-89d514f9-bf5e-4374-a731-a75d38ddd588
+    text: Pelajari lebih lanjut
+- title: Program
+  subTitle: Bergabunglah dengan komunitas Pembelajaran Nyata Sehari-hari
+  summary: Microsoft Education telah membuat komunitas global yang terbuka di Microsoft Teams bagi lembaga akademik untuk mendukung pembelajaran jarak jauh, pembelajaran online, pembelajaran hibrid, dan skenario kembali belajar di sekolah, di sekolah-sekolah di seluruh dunia.
+  imageUrl: /learn/media/educator-center/teal-card-suitcase.svg
+  link:
+    url: https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2c4qMfVhOdCngYnH0quosFUNUw1SjdQQ1FBSEw0WUlPTkcyOEVXUEFMTSQlQCN0PWcu
+    text: Gabung sekarang
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.mec.teach-forward-best-strategies-hybrid-remote-blended-learning
+  - learn.mec.lead-forward-remote-hybrid-blended
+  - learn.mec.keep-students-engaged-connections-remote-learning
+  - learn.mec.accessibility-special-education-online-learning-equity
+  - learn.mec.hybrid-learning-a-new-model-for-the-future-of-learning
+  - learn.mec.hybrid-learning-intermediate-classroom
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - higher-ed-educator
+    - k-12-educator
+    - school-leader
+    - parent-guardian
+    products:
+    - office
+    - office-365
+    - office-teams
+    - windows
+    - flipgrid
+    - surface
+    - office-onenote
+    - office-powerpoint
+    - sway
+    - office-forms
+    - office-sp
+  linkText: Lihat yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: ad2fb6689f8124bfbd70c707bb0eb1187a362ed1
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264697"

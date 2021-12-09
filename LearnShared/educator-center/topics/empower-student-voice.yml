@@ -1,0 +1,71 @@
+### YamlMime:TopicLanding
+title: Berdayakan pengaruh siswa di Microsoft Learn
+summary: Berdayakan siswa untuk menciptakan perubahan menggunakan alat presentasi melalui pelatihan pengembangan profesional dari Microsoft Learn.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: Berdayakan pengaruh siswa
+  summary: Berdayakan siswa untuk menciptakan perubahan menggunakan alat presentasi.
+  link:
+    url: /learn/browse/?roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten
+  imageUrl: /learn/media/educator-center/learn-banner-teal.svg
+featuredSection:
+- title: Program
+  subTitle: Gabung dengan Komunitas Duta Pengaruh Siswa Flipgrid
+  summary: Duta Pengaruh Siswa adalah pendidik yang bersemangat dan paling inovatif di dunia, yang mendukung keterlibatan siswa, agensi, dan pemberdayaan di mana pun mereka berada!
+  imageUrl: /learn/media/educator-center/teal-card-suitcase.svg
+  link:
+    url: https://blog.flipgrid.com/news/sva
+    text: Pelajari lebih lanjut
+- title: Acara
+  subTitle: Ikutilah Acara Langsung Flipgrid
+  summary: Gabung dengan tim Flipgrid untuk mengikuti pengembangan profesional, karyawisata virtual, dan acara langsung Microsoft Education! Jika Anda tidak dapat bergabung secara langsung, semua acara tersedia sesuai permintaan.
+  imageUrl: /learn/media/educator-center/teal-card-robot.svg
+  link:
+    url: https://www.microsoft.com/en-us/store/workshops-training-and-events/flipgrid
+    text: Daftar sekarang
+- title: Blog
+  subTitle: Pelajari cara mengubah pendidikan dengan memberdayakan pengaruh siswa
+  summary: Pelajari selengkapnya tentang contoh nyata siswa yang memanfaatkan pengaruh siswa secara langsung.
+  imageUrl: /learn/media/educator-center/teal-card-owl.svg
+  link:
+    url: https://edublog.microsoft.com/en-ca/tag/student-voice/
+    text: Pelajari lebih lanjut
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.mec.build-sel-skills-with-reflect
+  - learn.mec.engage-amplify-with-flipgrid
+  - learn.mec.hybrid-learning-for-the-adolescent-learner
+  - learn.mec.beyond-the-basics-with-flipgrid
+  - learn.mec.discover-flipgrid-discovery-library
+  - learn.mec.digital-storytelling-with-microsoft-sway
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - higher-ed-educator
+    - k-12-educator
+    - school-leader
+    - parent-guardian
+    products:
+    - office
+    - office-365
+    - office-teams
+    - windows
+    - flipgrid
+    - surface
+    - office-onenote
+    - office-powerpoint
+    - sway
+    - office-forms
+    - office-sp
+    - minecraft
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 03acc9711ea5fdfad86df5dd9809cb38e24dc591
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264696"

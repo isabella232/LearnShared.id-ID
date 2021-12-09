@@ -1,0 +1,70 @@
+### YamlMime:TopicLanding
+title: Pembelajaran berdasarkan siswa di Microsoft Learn
+summary: Beralih dari pengajaran guru-ke-siswa ke pengajaran berdasarkan siswa dengan konten pengembangan profesional dari Microsoft Learn.
+hero:
+  title: Microsoft Learn Educator Center
+  subTitle: Pembelajaran berdasarkan siswa
+  summary: Beralih dari pengajaran guru-ke-siswa ke pengajaran berdasarkan siswa.
+  link:
+    url: /learn/browse/?roles=k-12-educator%2Chigher-ed-educator%2Cschool-leader%2Cparent-guardian
+    text: Telusuri semua konten
+  imageUrl: /learn/media/educator-center/learn-banner-teal.svg
+featuredSection:
+- title: Video
+  subTitle: Tingkatkan pembelajaran siswa dengan analitik AI
+  summary: Insights untuk Pendidikan memberikan kemampuan analitik dan Insights kepada pendidik dan pemimpin.
+  imageUrl: /learn/media/educator-center/teal-card-cloud.svg
+  link:
+    url: https://youtu.be/aZG65NhekiA
+    text: Tonton video
+- title: Dukungan
+  subTitle: Panduan tentang Insights di Microsoft Teams untuk pendidik
+  summary: Pelajari cara menggunakan Insights untuk Pendidikan guna membantu menghemat waktu Anda dalam membuat rencana, memberikan umpan balik kepada siswa, dan memberikan bantuan ketika diperlukan.
+  imageUrl: /learn/media/educator-center/teal-card-docs.svg
+  link:
+    url: https://support.microsoft.com/en-us/topic/educator-s-guide-to-insights-in-microsoft-teams-27b56255-90c0-47aa-bac3-1c9f50157181
+    text: Pelajari lebih lanjut
+- title: Sumber
+  subTitle: Bookmark beranda pembelajaran berdasarkan siswa kami
+  summary: Titik awal untuk memulai pembelajaran berdasarkan siswa menggunakan alat Microsoft
+  imageUrl: /learn/media/educator-center/topic-card-map.svg
+  link:
+    url: https://www.microsoft.com/en-us/education/educators/student-centered-learning
+    text: Pelajari lebih lanjut
+curatedSection:
+- title: Jalur Anda untuk memulai
+  items:
+  - learn.mec.differentiation-classroom-built-in-tools-office-365-windows
+  - learn.mec.engage-amplify-with-flipgrid
+  - learn.mec.support-reading-fluency-practice-with-reading-progress
+  - learn.mec.beyond-the-basics-with-flipgrid
+  - learn.mec.build-sel-skills-with-reflect
+  - learn.mec.empower-every-student-with-inclusive-classroom
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    roles:
+    - higher-ed-educator
+    - k-12-educator
+    - school-leader
+    - parent-guardian
+    products:
+    - office
+    - office-365
+    - office-teams
+    - windows
+    - flipgrid
+    - surface
+    - office-onenote
+    - office-powerpoint
+    - sway
+    - office-forms
+    - office-sp
+  linkText: Lihat apa yang sedang dipelajari orang lain
+metadata:
+  ms.openlocfilehash: 5e544e22fdbfd4909fc7e44613b39a0c5bb30f1f
+  ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 11/30/2021
+  ms.locfileid: "133264694"
