@@ -4,12 +4,12 @@ summary: Pelajari cara membuat aplikasi di berbagai platform dengan bahasa pemro
 metadata:
   ms.topic: landing-page
   ms.prod: dotnet
-  ms.openlocfilehash: c07e469fe6e7f5a4becbc9054335463b4ae63ecc
-  ms.sourcegitcommit: ced3f00740c000a8898d4147eb6f6e7e98ec5f2c
+  ms.openlocfilehash: 1c49d1b514fdfbe369b6d133776009f8c44f4344
+  ms.sourcegitcommit: a6d65b9672c8af7a0e2ebca0e04926f24bf4d6fa
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 08/19/2021
-  ms.locfileid: "122439336"
+  ms.lasthandoff: 12/13/2021
+  ms.locfileid: "134683517"
 hero:
   title: Microsoft Learn untuk NASA
   subTitle: Gratis Lintas platform. Sumber terbuka.
@@ -45,10 +45,10 @@ curatedSection:
   items:
   - learn.build-dotnet-applications-csharp
   - learn.languages.csharp-first-steps
-  - learn.languages.csharp-logic
-  - learn.create-razor-pages-aspnet-core
+  - learn.aspnet-core-minimal-api
+  - learn.aspnet.build-blazor-webapps
   - learn-xamarin.build-mobile-apps-with-xamarin-forms
-  - learn-windows.develop-windows-apps
+  - learn.dotnet.create-microservices-with-dotnet
 trendingSection:
   title: Jalur dan modul pembelajaran populer untuk .NET
   filters:
