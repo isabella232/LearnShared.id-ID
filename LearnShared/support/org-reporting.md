@@ -8,12 +8,12 @@ ms.topic: article
 ms.prod: non-product-specific
 org_reporting: true
 breadcrumb_path: toc.yml
-ms.openlocfilehash: 3689cf3e82a621c639a182085696fbde92a4feb2
-ms.sourcegitcommit: b39b124844477584aae6479ee732f98c5c42ae3c
+ms.openlocfilehash: 0572ccf4a0473b0702adb1373b0fbc45959bd1f7
+ms.sourcegitcommit: 1a616355578e6d9ee8a28814c96b4817da4ce016
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/30/2021
-ms.locfileid: "130961385"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "135809151"
 ---
 # <a name="get-started-with-the-microsoft-learn-organizational-reporting-service"></a>Mulai menggunakan layanan Microsoft Learn Organizational Reporting
 
@@ -215,7 +215,7 @@ Untuk mengunduh daftar pengguna:
     - givenName
     - objectId
     - userType
-    - jobTitle
+    - jabatan
     - department
     - accountEnabled
     - usageLocation
@@ -223,7 +223,7 @@ Untuk mengunduh daftar pengguna:
     - status
     - country
     - physicalDeliveryOfficeName
-    - kota
+    - city
     - postalCode
     - telephoneNumber
     - seluler
@@ -271,7 +271,7 @@ Selanjutnya, Anda perlu mengunggah data pengguna Azure Active Directory dari CSV
 1. Klik **Muat**.
 1. Dari Layar Laporan **temukan** tabel **UserAADInfo** di kolom kanan.
 1. Klik kanan **UserAADInfo**.
-1. pilih **Edit Kueri**.
+1. Pilih **Edit Kueri**.
 1. Dalam daftar tabel, pastikan **UserADDInfo disorot**.
 1. Di menu atas di sisi kanan, klik **Tambah Kueri**.
 1. Pastikan **Dua tabel** dipilih.

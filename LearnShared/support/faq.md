@@ -9,12 +9,12 @@ ms.prod: non-product-specific
 zone_pivot_groups: supportfaq
 zone_pivot_group_filename: learn-shared-zone-pivot-groups.yml
 breadcrumb_path: toc.yml
-ms.openlocfilehash: b363ea1a5ac769204255d37dbf3bbf8b49e8cc15
-ms.sourcegitcommit: 6e2e6be1927a894b4bf7a1d2ade196d32f61eb2b
+ms.openlocfilehash: 847943e7801f56c128b63fd50961733c910a940e
+ms.sourcegitcommit: 1a616355578e6d9ee8a28814c96b4817da4ce016
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/30/2021
-ms.locfileid: "133262230"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "135809174"
 ---
 # <a name="frequently-asked-questions"></a>Tanya jawab umum
 
@@ -97,8 +97,15 @@ Jalur pembelajaran produk kami mendukung bahasa berikut:
 
 * **Xamarin** (13 bahasa): Jepang, Korea, Tionghoa (Tradisional), Tionghoa (Sederhana), Rusia, Jerman, Spanyol, Prancis, Italia, Portugis Brasil, Cheska, Polski, Turki
 
-
 * **M365** (10 bahasa): Jepang, Korea, Tionghoa (Tradisional), Tionghoa (Sederhana), Rusia, Jerman, Spanyol, Prancis, Italia, Portugis Brasil
+
+## <a name="how-can-i-access-microsoft-learns-accessibility-conformance-reports"></a>Bagaimana cara mengakses laporan konforman aksesibilitas Microsoft Learn?
+
+Untuk menemukan laporan kesesuaian aksesibilitas untuk Microsoft Learn:
+
+1.  Buka: https://cloudblogs.microsoft.com/industry-blog/government/2018/09/11/accessibility-conformance-reports/
+2.  Cari: DevRel – Situs dok dan Penerbitan Terbuka
+3.  Unduh laporan yang diinginkan, dalam bahasa yang diinginkan
 
 ## <a name="can-i-get-a-current-list-of-the-published-modules-and-learning-paths"></a>Dapatkah saya memperoleh daftar modul dan jalur pembelajaran terbaru yang telah diterbitkan?
 
@@ -173,7 +180,7 @@ Di sebagian besar pelajaran, Anda tidak perlu menginstal alat pengembangan lokal
 
 ## <a name="do-i-need-an-azure-account-to-use-a-sandbox"></a>Apakah saya memerlukan akun Azure untuk menggunakan kotak pasir?
 
-Tidak. Anda hanya membutuhkan [akun Microsoft](https://account.microsoft.com/account) untuk masuk. Jika Anda tidak memilikinya, Anda dapat membuatnya secara gratis.
+Nomor. Anda hanya membutuhkan [akun Microsoft](https://account.microsoft.com/account) untuk masuk. Jika Anda tidak memilikinya, Anda dapat membuatnya secara gratis.
 
 ## <a name="can-i-use-the-sandbox-if-i-already-have-an-azure-subscription"></a>Dapatkah saya menggunakan kotak pasir jika sudah memiliki langganan Azure?
 
@@ -208,7 +215,7 @@ Setiap kali mengaktifkan kotak pasir, satu grup sumber daya akan dibuat untuk An
 ![Menu menurun langganan memilih "Concierge Subscription"](./media/sandboxfaq4.png)
 
 ## <a name="can-i-activate-the-sandbox-on-mobile"></a>Dapatkah saya mengaktifkan kotak pasir di perangkat seluler?
-Tidak. Kotak pasir tidak tersedia di perangkat seluler, Anda tidak dapat mengaktifkan atau menggunakan kotak pasir di perangkat seluler. Gunakan desktop untuk menikmati pengalaman pengguna kotak pasir terbaik.
+Nomor. Kotak pasir tidak tersedia di perangkat seluler, Anda tidak dapat mengaktifkan atau menggunakan kotak pasir di perangkat seluler. Gunakan desktop untuk menikmati pengalaman pengguna kotak pasir terbaik.
 
 ## <a name="do-i-need-to-use-the-sandbox"></a>Apakah saya perlu menggunakan kotak pasir?
 
@@ -238,7 +245,7 @@ Ketika Anda mengaktifkan kotak pasir baru, lingkungan kotak pasir lama akan diha
 
 ## <a name="can-i-activate-multiple-sandbox-environments"></a>Dapatkah saya mengaktifkan beberapa lingkungan kotak pasir?
 
-Tidak. Setiap modul memberikan kotak pasir baru sehingga Anda selalu memulai di lingkungan yang benar-benar baru. Sistem mendeteksi ketika Anda beralih dari satu modul ke modul berikutnya, dan meminta Anda untuk mengaktifkan kotak pasir baru. Tampilan perintahnya sebagai berikut:
+Nomor. Setiap modul memberikan kotak pasir baru sehingga Anda selalu memulai di lingkungan yang benar-benar baru. Sistem mendeteksi ketika Anda beralih dari satu modul ke modul berikutnya, dan meminta Anda untuk mengaktifkan kotak pasir baru. Tampilan perintahnya sebagai berikut:
 
 ![Pemberitahuan bahwa kotak pasir lain aktif, dengan tombol untuk mengaktifkan kotak pasir baru.](./media/sandboxfaq8.png)
 
@@ -274,7 +281,7 @@ Tidak, kotak pasir terpisah dari Azure Cloud Shell. Mengatur ulang Azure Cloud S
 
 ## <a name="can-i-save-my-settings-in-the-sandbox-and-come-back-later"></a>Dapatkah saya menyimpan pengaturan di kotak pasir dan menggunakannya kembali nanti?
 
-Tidak. Kotak pasir Anda bersifat sementara dan hanya dapat diakses selama empat jam.
+Nomor. Kotak pasir Anda bersifat sementara dan hanya dapat diakses selama empat jam.
 
 ::: zone-end
 

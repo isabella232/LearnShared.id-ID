@@ -1,0 +1,55 @@
+### YamlMime:TopicLanding
+title: Azure skill-up on Microsoft Learn
+summary: Microsoft menawarkan koleksi sumber belajar yang komprehensif yang memberdayakan para profesional teknis AWS untuk mempelajari Microsoft Azure. Membangun keterampilan kerja praktis dengan pelatihan langkah demi langkah online yang juga dapat membantu menyediakan jalur pembelajaran menuju sertifikasi.
+metadata:
+  ms.topic: landing-page
+  ms.prod: learning-azure
+  ms.openlocfilehash: 50410c59209a08231d9809085d90c4e6b19be3ae
+  ms.sourcegitcommit: 1a616355578e6d9ee8a28814c96b4817da4ce016
+  ms.translationtype: HT
+  ms.contentlocale: id-ID
+  ms.lasthandoff: 01/12/2022
+  ms.locfileid: "135809292"
+hero:
+  title: Microsoft Learn for Azure skill-up
+  subTitle: Memberdayakan para profesional teknis untuk belajar Microsoft Azure
+  summary: Microsoft menawarkan koleksi sumber belajar yang komprehensif yang memberdayakan para profesional teknis AWS untuk mempelajari Microsoft Azure. Membangun keterampilan kerja praktis dengan pelatihan langkah demi langkah online yang juga dapat membantu menyediakan jalur pembelajaran menuju sertifikasi.
+  imageUrl: /learn/media/topics/azure-header-background.svg
+featuredSection:
+- title: Koleksi
+  subTitle: Azure Administration for AWS SysOps
+  summary: Jelajahi bagaimana Microsoft Azure bervariasi dari AWS sambil menjadi ahli mengelola lingkungan Azure.
+  imageUrl: /learn/media/topics/azure-card-bridge.svg
+  link:
+    url: /users/collectionsazure/collections/qrmwud5j6xww48
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Solusi Microsoft Azure untuk Pengembang AWS
+  summary: Pengembang dapat belajar bagaimana menciptakan solusi yang dihosting di Microsoft Azure dan memanfaatkan layanan Azure untuk menciptakan peluang inovatif.
+  imageUrl: /learn/media/topics/azure-card-train.svg
+  link:
+    url: /users/collectionsazure/collections/40yrcmo4ze8rj8
+    text: Jelajahi koleksi
+- title: Koleksi
+  subTitle: Microsoft Azure Technologies untuk arsitek AWS
+  summary: Arsitek Solusi dapat belajar bagaimana menerjemahkan persyaratan bisnis menjadi solusi yang aman, terukur, dan dapat diandalkan untuk Microsoft Azure.
+  imageUrl: /learn/media/topics/azure-card-graphs.svg
+  link:
+    url: /users/collectionsazure/collections/zw5da4o44d3n3g
+    text: Jelajahi koleksi
+trendingSection:
+  title: Jalur dan modul pembelajaran populer untuk pembuat aplikasi
+  filters:
+    products:
+    - azure
+    roles:
+    - administrator
+    - database-administrator
+    - developer
+    - identity-access-admin
+    - ip-admin
+    - network-engineer
+    - security-engineer
+    - solution-architect
+    - technology-manager
+  linkText: Lihat apa yang sedang dipelajari orang lain
