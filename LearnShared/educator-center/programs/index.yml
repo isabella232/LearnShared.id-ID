@@ -125,15 +125,17 @@ sections:
         alt: globe dengan pin penunjuk
         componentType: image
       - title: Mitra Pelatihan Global
-        summary: 'Komunitas global Mitra Pelatihan Pendidikan Microsoft yang terhubung dengan pendidik dan pemimpin sekolah melalui pelatihan mendalam dan pengembangan profesional. Terhubung dengan pemimpin pendidikan, staf, pendidik, dan siswa untuk memberikan layanan konsultasi, penilaian, pengembangan profesional, pelatihan serta program pengayaan untuk mendukung transformasi digital mulai dari menentukan visi hingga implementasi. Program ini ditujukan untuk:'
+        summary: 'Komunitas global Mitra Pelatihan Microsoft resmi memberikan pengalaman belajar mendalam yang selaras dengan Kerangka Kerja Transformasi Pendidikan atas nama Microsoft. Mitra Pelatihan terhubung dengan pimpinan pendidikan, fakultas, pendidik, dan siswa untuk memberikan layanan konsultasi, penilaian, pengembangan profesional, pelatihan serta program pengayaan untuk mendukung transformasi digital mulai dari menentukan visi hingga implementasi. Program ini ditujukan untuk:'
         componentType: text
         links:
           - componentType: link
-            url: 'https://www.microsoft.com/education/training-and-events/global-training-partners'
+            url: 'https://www.microsoft.com/en-us/education/training-and-events/global-training-partners'
             text: Pelajari lebih lanjut
         list:
           componentType: list
           style: unordered
           children:
-            - Companies delivering in-depth learning experiences aligned to the Education Transformation Framework on behalf of Microsoft.
-            - School leaders interested in professional development training on behalf of Microsoft
+            - National and district level education leaders
+            - K12 leaders and educators
+            - Higher Education leaders and faculty
+            - Students

@@ -4,12 +4,12 @@ summary: Kuasai konsep inti dengan kecepatan Anda dan sesuai jadwal Anda. Mulail
 metadata:
   ms.topic: landing-page
   ms.prod: non-product-specific
-  ms.openlocfilehash: 6086b7a9d324601ff76b480fdd9ff88ac1179d44
-  ms.sourcegitcommit: 4262504c56c094bc7f3e079a871e64d4ee6e0434
+  ms.openlocfilehash: 860eec4c399e4db0bc29323f3f8a386db0764277
+  ms.sourcegitcommit: d1cc0fe67c76d30f5a79b136b394603484ba7d21
   ms.translationtype: HT
   ms.contentlocale: id-ID
-  ms.lasthandoff: 01/20/2022
-  ms.locfileid: "137093311"
+  ms.lasthandoff: 01/27/2022
+  ms.locfileid: "137818115"
 hero:
   title: Microsoft Learn untuk Siswa
   subTitle: Ajarkan keterampilan teknologi untuk masa depan
@@ -47,7 +47,7 @@ curatedSection:
   - learn.get-started-java-azure
   - learn.start-career-in-tech
   - learn.student-evangelism.tech-resilience
-  - learn.languages.python-first-steps
+  - learn.beginner-python
   - learn.student-evangelism.intro-to-vc-git
 trendingSection:
   title: Jalur dan modul pembelajaran populer untuk siswa
