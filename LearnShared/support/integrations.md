@@ -3,16 +3,16 @@ title: Manfaatkan Microsoft Learn di organisasi Anda
 description: Kami telah menyediakan beberapa layanan yang bisa Anda gunakan untuk memanfaatkan Microsoft Learn di organisasi Anda dengan lebih efektif.
 author: asajohnson
 ms.author: asjohnso
-ms.date: 10/27/2021
+ms.date: 11/05/2021
 ms.topic: article
 ms.prod: non-product-specific
 breadcrumb_path: toc.yml
-ms.openlocfilehash: b3b893f251e3e9f6ac4497e7bba694772d2a2a9f
-ms.sourcegitcommit: b39b124844477584aae6479ee732f98c5c42ae3c
+ms.openlocfilehash: adf5125ba41dbb600f9423c420da2c21acf36922
+ms.sourcegitcommit: 1a616355578e6d9ee8a28814c96b4817da4ce016
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/30/2021
-ms.locfileid: "130961643"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "135808967"
 ---
 # <a name="leverage-microsoft-learn-in-your-organization"></a>Manfaatkan Microsoft Learn di organisasi Anda
 
