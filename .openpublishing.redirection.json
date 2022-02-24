@@ -35,5 +35,10 @@
              "redirect_url": "https://docs.microsoft.com/learn/educator-center/programs/msle/training",
              "redirect_document_id": true
              },
+        {
+             "source_path": "LearnShared/roles/student.yml",
+             "redirect_url": "https://docs.microsoft.com/learn/student-hub",
+             "redirect_document_id": true
+             },
         ]
  }
