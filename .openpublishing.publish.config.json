@@ -1,27 +1,5 @@
 {
-  "docsets_to_publish": [
-    {
-      "docset_name": "LearnShared",
-      "build_source_folder": "LearnShared",
-      "build_output_subfolder": "LearnShared",
-      "locale": "id-ID",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "LearnHome": "Content",
-        "ContentBrowser": "Content",
-        "ZonePivotGroups": "Toc",
-        "ModuleAvailability": "Toc",
-        "TopicLanding": "Content",
-        "LearnTV": "Content",
-        "Challenge": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    }
-  ],
+  "docsets_to_publish": [],
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [
@@ -31,7 +9,6 @@
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
-  "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -51,7 +28,6 @@
   ],
   "branch_target_mapping": {},
   "need_generate_pdf_url_template": false,
-  "docs_build_engine": {
-    "name": "docfx_v3"
-  }
+  "docs_build_engine": {},
+  "contribution_branch_mappings": {}
 }
