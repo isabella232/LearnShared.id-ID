@@ -2,7 +2,7 @@
     "redirections": [
         {
             "source_path": "LearnShared/support/educator-resources.md",
-            "redirect_url": "https://docs.microsoft.com/learn/educator-center/programs/MSLE",
+            "redirect_url": "https://docs.microsoft.com/learn/educator-center/programs/MSLE/index",
             "redirect_document_id": true
              },
         {
@@ -37,8 +37,18 @@
              },
         {
              "source_path": "LearnShared/roles/student.yml",
-             "redirect_url": "https://docs.microsoft.com/learn/student-hub",
+             "redirect_url": "https://docs.microsoft.com/learn/student-hub/index",
              "redirect_document_id": true
              },
+        {
+             "source_path": "LearnShared/educator-center/topics/special-education.yml",
+             "redirect_url": "https://docs.microsoft.com/learn/educator-center/topics/accessibility",
+             "redirect_document_id": true
+             },
+        {
+             "source_path": "LearnShared/support/organizations.md",
+             "redirect_url": "https://docs.microsoft.com/learn/support/integrations",
+             "redirect_document_id": true
+             }
         ]
  }
